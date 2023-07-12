@@ -1,0 +1,32 @@
+<mjml>
+<!--  HEADER -->
+  <mj-head>
+    <!--  IMPORT STYLES -->
+    <mj-include path="./sun-newsletter-styles.mjml" />
+    <!-- EMAIL PREVIEW TEXT -->
+     <mj-preview>
+*|MC_PREVIEW_TEXT|*
+</mj-preview>
+  </mj-head>
+<!--  END HEADER -->
+<!--  BODY -->
+  <!--  IMPORT LOGO -->
+  <mj-body>    <mj-section>
+      <mj-column padding="0px" background-color="#F5F5F5">
+        <mj-text mj-class="footer">
+          <a style="color:#6E6E6E;font-size:10px;font-weight:400;" href="*|ARCHIVE|*">OPEN THIS IN YOUR BROWSER</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="#ffffff">
+          <mj-image width="300px" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2019/11/sunriser-dark-mode-2-1.png?w=900" />
+        <mj-text font-size="12px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><a href="https://coloradosun.com/account">YOUR SUN ACCOUNT</a> | <a href="http://coloradosun.com/faq">HELP & FAQ</a> | <a href="mailto:tips@coloradosun.com">SEND US A TIP</a></mj-text>
+       <mj-raw>*|IF:ARCHIVE_PAGE|*</mj-raw><mj-text>
+        &nbsp;<div style="border: 4px double #fcd232;padding:1em;"><p><strong>Hey there! </strong> Want to get the best free news round-up in Colorado delivered right to your inbox?</p><p style="text-decoration:none;text-align:center;font-weight:bold;font-size:18px;background-color:#F15854;color:#ffffff;padding:6px 0px;"><strong><a href="http://coloradosun.com/thesunriser" target="_blank" style="text-decoration:none;text-align:center;font-weight:bold;font-size:18px;background-color:#F15854;color:#ffffff;">Sign up for The Sunriser!</a></strong></p>
+</div>&nbsp;
+        </mj-text>
+          <mj-raw>*|END:IF|*</mj-raw>
+      </mj-column>
+    </mj-section>
+ 

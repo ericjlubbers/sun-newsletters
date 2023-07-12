@@ -1,0 +1,42 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+<h1>Help keep The Colorado Sun free</h1>
+
+<p><em>Member support helps keep The Sun local, independent and sustainable</em></p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/ferret-release-os-10.jpg?w=800" href="https://coloradosun.com/join?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>A black-footed ferret looks out from a prairie dog burrow after its release. (Olivia Sun, The Colorado Sun)</em></span></p>
+
+&nbsp;<hr />&nbsp;
+
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">W</span>hen a team of Colorado journalists decided to start a local news site four years ago this month, we weren&#8217;t entirely sure how to make this operation sustainable. But we were determined to make our reporting as accessible to our community as possible.</p>
+
+<p>We went the membership route. And members have helped keep our news free, independent and local. Thank you to all those who&#8217;ve supported The Colorado Sun since the idea of starting this became a reality in June 2018.</p>
+
+<p>You&#8217;re receiving this message because you&#8217;ve read one of our stories online, in a newsletter or on a social-media site and shared your email. We know you appreciate learning about what&#8217;s going on in our state.</p>
+
+<p>Here&#8217;s your chance to keep local news sustainable. If you want to be part of our ongoing mission to provide nonpartisan, deeply reported news about Colorado to Coloradans, become a member today and help us add more journalists to cover the topics of interest to our state.</p>
+
+<p>Join at the $10 per month Basic+ level to get a first look at stories like Nancy Lofholm&#8217;s photo-packed report on <a target="_blank"  href="https://coloradosun.com/2022/05/29/colorado-wind-damage/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">why it&#8217;s been so darn windy this year</a>.</p>
+
+<p>Find how Colorado Parks and Wildlife has managed to <a target="_blank"  href="https://coloradosun.com/2022/05/30/aquatic-nuisance-species/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">limit the invasive zebra and quagga mussels</a> in our lakes and reservoirs</p>
+
+<p>And did you know that we have a full-time reporter covering all-things water? Yes, Colorado has water issues, so <a target="_blank"  href="https://coloradosun.com/author/chris-outcalt/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">check out Chris Outcalt&#8217;s stories</a> if water issues are of interest.</p>
+
+<p>The Sun exists thanks to the support of our readers, our sources and our community. We know you crave quality journalism, so please consider joining at <a target="_blank"  href="https://pico.link/thecoloradosun/offer?id=CheckoutWizard_thecoloradosun&amp;short_code=gvbdp42v">coloradosun.com/join</a>.</p>
+
+</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Join The Sun</mj-button><mj-text>
+
+<p>Questions? <a target="_blank"  href="mailto:support@coloradosun.com">Email us</a>. We respond, because that&#8217;s another perk of locally owned and operated news.</p>
+
+<p>Thanks for reading,</p>
+
+</mj-text><mj-table padding-top="0" margin-top="0"><tr><td style="padding:0px;font-size:14px;text-align:right;" width="33%"><strong>>></strong></a></td><td style="padding: 6px 6px;" width="24px"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/07/Tamara6-2-1.jpg?resize=48,48" /></td><td style="padding:0px;font-size:14px;"><a target="_blank"  target="_blank"  target="_blank"  href="https://coloradosun.com/author/tamara-chuang/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank" style="text-decoration:none;color:black;"/><span style="border-bottom:1px solid #fcd232;"><strong>Tamara Chuang</strong> <em>Business/Technology Reporter</em></a></td></tr></mj-table>
+<mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

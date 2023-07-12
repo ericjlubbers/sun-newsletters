@@ -1,0 +1,39 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-button href="https://pico.link/thecoloradosun?short_code=join" target="_blank">Become a member!</mj-button><mj-text>
+
+<h1>It&#8217;s crunch time at the Capitol — and the midterms are just around the corner</h1>
+    <p><em>Legislation that could affect your home, school, business, roads and climate are in the works right now — here&#8217;s how to keep track of them</em></p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/07/denver-supreme-courthouse-capitol-OS-09.jpg?resize=800,500" href="https://pico.link/thecoloradosun?short_code=unaffiliated" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>The Colorado State Capitol viewed from the Ralph L. Carr Colorado Judicial Center. (Olivia Sun, The Colorado Sun)</em></span></p>
+
+&nbsp;<hr />&nbsp;
+
+<p>Dear reader,</p>
+
+<p>It&#8217;s been a busy few weeks for the politics team at The Colorado Sun as we enter the home stretch of the 2022 lawmaking term at the state Capitol while the 2022 election season starts to really heat up.</p>
+
+<p><strong>We know how important it is to juggle coverage of both stories. </strong>The legislature is working through <a target="_blank"  href="https://coloradosun.com/2022/03/14/colorado-bureau-of-investigation-budget-boost/?pico=clean">a nearly $40 billion budget</a>, which will affect all Coloradans. And Democrats and Republicans <a target="_blank"  href="https://coloradosun.com/2022/03/07/colorado-republicans-us-senate-race-2022/?pico=clean">are picking the candidates</a> they <a target="_blank"  href="https://coloradosun.com/2022/03/22/karl-dent-colorado-legislature-election-2022/?pico=clean">want on the ballot</a> in November as part of an election that could say a lot <a target="_blank"  href="https://coloradosun.com/2021/08/30/colorado-republicans-2020-v-2022/?pico=clean">about the political direction</a> of our state.</p>
+
+<p>That means we&#8217;re now often <a target="_blank"  href="https://coloradosun.com/2022/03/28/colorado-2022-lobbying-spending/?pico=clean">tracking down state lawmakers</a> by day and <a target="_blank"  href="https://mailchi.mp/coloradosun/unaffiliated-466920?e=e75328db4e">attending candidate forums</a> by night. But that&#8217;s what The Sun is about -— it&#8217;s our 24/7 commitment to Colorado.</p>
+
+<p>We make sure we&#8217;re covering the big stories.</p>
+
+<p><strong>But we can&#8217;t do this work without you. </strong>We rely on reader support to fuel our journalism, which is why we need you to become a Colorado Sun member today. <span style="background-color:#fcd232;font-weight:bold;">It&#8217;s quick and easy at <a target="_blank"  href="https://coloradosun.com/support-colorado-sun-news-matters/?pico=clean">coloradosun.com/support</a>.</span> For just $5 a month you can help make more journalism possible in our state.</p>
+
+<p>If you want a behind-the-scenes look at Colorado&#8217;s political and policy landscape, <a target="_blank"  href="https://coloradosun.com/unaffiliated/?pico=clean">sign up as a Premium member</a> to get our twice-a-week newsletter, The Unaffiliated. There&#8217;s no better way to find out <a target="_blank"  href="https://mailchi.mp/coloradosun/unaffiliated-467008?e=e75328db4e">what the insiders are talking about</a>.</p>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=unaffiliated" target="_blank">Get The Unaffiliated today!</mj-button><mj-text>
+
+<p>See you on the campaign trail!</p>
+
+</mj-text><mj-table padding-top="0" margin-top="0"><tr><td style="padding:0px;font-size:14px;text-align:right;" width="33%"><strong>>></strong></a></td><td style="padding: 6px 6px;" width="24px"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/jesse.jpg?resize=48,48" /></td><td style="padding:0px;font-size:14px;"><a target="_blank"  target="_blank"  target="_blank"  href="https://coloradosun.com/author/jesse-paul/?pico=clean" target="_blank" style="text-decoration:none;color:black;"/><span style="border-bottom:1px solid #fcd232;"><strong>Jesse Paul</strong> <em>Political Editor & Reporter</em></a></td></tr></mj-table>
+<mj-text>
+
+<p><em>P.S. Want to help shape our coverage of the 2022 election? Send questions or comments to </em><a target="_blank"  href="mailto:jesse@coloradosun.com"><em>jesse@coloradosun.com</em></a></p>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

@@ -1,0 +1,92 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+<h4 style="background-color:#003D5A;color:#ffffff;padding:.3em;">WELCOME TO THE SUN (1 of 6)</h4>
+
+<h1>You&#8217;re in! So … what is The Colorado Sun?</h1>
+
+<p><em>You&#8217;re on your way to learning a lot more about Colorado from journalists who live and work here.</em></p>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/10/darin-valdez-co-artists-in-recovery-os-06.jpg?w=800" href="https://coloradosun.com/2021/10/21/colorado-artists-in-recovery-mental-health-addiction-workshops" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Colorado Artists in Recovery founder Darin Valdez takes a whiff of an origami flower bouquet on Oct. 18, 2021, in Denver. (Olivia Sun, The Colorado Sun via Report for America)</em></span></p>
+&nbsp;
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;font-weight:bold;">T</span>hanks for taking the first step to figuring out what the heck is going on in Colorado.</p>
+
+<p><strong>You&#8217;re now signed up to receive newsletters from The Colorado Sun. </strong>And you probably have some questions. So let&#8217;s get you some answers.</p>
+
+<blockquote>Just in case you&#8217;re in a hurry, here&#8217;s the important stuff about your account:</p>
+
+<ul><li><strong>Email</strong>: *|EMAIL|*</li>
+
+<li><strong>Membership Status:</strong> Reader (free)</li>
+
+<li><strong>Date Joined</strong>: *|OPTIN_DATE|*</li>
+    </ul></blockquote>
+
+<h3>Q: What is The Colorado Sun?</h3>
+
+<p><strong>A: We&#8217;re a bunch of curious journalists who live here and ask lots of questions.</strong> We vet statistics, trends and complex reports to see what the data is really saying. We listen and observe our community to better understand Colorado — and then write about it.</p>
+
+<h3>Q: That&#8217;s great, but seriously, are you a newspaper or something?</h3>
+
+<p><strong>A: Most of us got our start at newspapers, but The Colorado Sun is something different</strong>. We call ourselves a &#8220;digital news outlet,&#8221; but that just means you can find us all over the internet.</p>
+
+<ul><li><strong>ONLINE</strong>: In-depth articles available any time at <a target="_blank"  href="http://coloradosun.com"><strong>coloradosun.com</strong></a>, with no paywalls ever.</li>
+
+<li><strong>EMAIL</strong>: Bundles of news delivered right to your inbox with our <a target="_blank"  href="http://coloradosun.com/newsletters">free email newsletters</a>, with some very cool bonus emails for members.</li>
+
+<li><strong>SOCIAL</strong>: A daily dose of news in your feeds on <a target="_blank"  href="http://twitter.com/coloradosun">Twitter</a>, <a target="_blank"  href="http://instagram.com/thecoloradosun">Instagram</a> and <a target="_blank"  href="http://facebook.com/thecoloradosun">Facebook</a>.</li>
+
+<li><strong>FEEDS</strong>: <a target="_blank"  href="https://news.google.com/publications/CAAiEMmeyxVd0bTx9EXKN0rREDwqFAgKIhDJnssVXdG08fRFyjdK0RA8?ceid=US:en&amp;oc=3">Google News</a>, <a target="_blank"  href="https://apple.news/TuE_X4y4qT0GqVGE6Hyb9Dw">Apple News</a>, <a target="_blank"  href="https://flipboard.com/@thecoloradosun/the-colorado-sun-k2sbfjf0y">Flipboard</a> or just plug our <a target="_blank"  href="https://coloradosun.com/category/news/feed">RSS feed</a> into the reader of your choice.</li>
+
+<li><strong>PODCASTS</strong>: <a target="_blank"  href="http://coloradosun.com/podcast"><strong>The Daily Sun-Up</strong></a>, our short, daily podcast with interviews, headlines and a little bit of history.</li>
+</ul>
+
+<h3>Q: So what happens next?</h3>
+
+<p><strong>A: You&#8217;re getting this email because you signed up for one of our newsletters</strong>, so let&#8217;s start there. Beginning today you&#8217;ll receive the following newsletters (<a target="_blank"  href="http://coloradosun.com/newsletters">click here</a> to see more about what each one offers):</p>
+
+<ul>
+*|IF:SUNRISER=checked|*<li><a target="_blank"  href="https://coloradosun.com/sunriser">The Sunriser</a> — Every weekday morning</li>*|END:IF|*
+
+*|IF:HEADLINES=checked|*<li><a target="_blank"  href="https://coloradosun.com/theheadlines">The Headlines</a> — Every morning before breakfast</li>*|END:IF|*
+
+*|IF:WW=checked|*<li><a target="_blank"  href="https://coloradosun.com/working/">What's Working?</a> — Saturdays</li>*|END:IF|*
+</ul>
+
+<p>In addition to the latest news, we&#8217;re going to kick off our relationship with you with a series of notes to help you understand Colorado and how The Colorado Sun can keep you up-to-date.</p>
+
+<h3>Q: What should I do <em>right now</em>, though?</h3>
+
+<p><strong>A: Log in to your Colorado Sun account</strong>. Now is a great time to get signed in at <a target="_blank"  href="https://coloradosun.com/account/">coloradosun.com/account</a>. (You may need to <a target="_blank"  href="https://coloradosun.com/faq/#h-how-do-i-log-in-to-the-colorado-sun">add a password</a>.) When logged in, you can pick and choose the newsletters you want, update a payment and upgrade. And once you become a member, logging in gets you what some people call our best benefit: no more ads or pop-ups asking you to become a member!</p>
+
+<h3>Q: So who funds The Colorado Sun?</h3>
+
+<p><strong>A: You do!</strong> The largest source of The Sun&#8217;s funding comes directly from readers like you who become members. Other sources of funding include select local business sponsorships, journalism grants and live events.</p>
+
+<p>We&#8217;re a different type of news business, too. Our operations run lean (most of our money goes to paying our journalists, not to line an investor&#8217;s pockets or maintain a big office). We&#8217;re a public benefit corporation (<a target="_blank"  href="https://coloradosun.com/annualreport/">more on what that means</a>) owned by local journalists with a mission to serve the public. We don&#8217;t run clickbait or sponsored content and we don&#8217;t use cookies to follow you around the web or ask for your personal data like some other news sites. <a target="_blank"  href="https://coloradosun.com/2022/09/06/colorado-sun-media-journalism/">Read our latest annual report</a> for more.</p>
+
+<h3>Q: What does being a member of The Colorado Sun mean?</h3>
+
+<p><strong>A: That you&#8217;re extremely cool and good-looking, for starters</strong>. Being a member also means you believe that local journalism is important enough to support. And each of our membership tiers also comes with some great perks:</p>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/02/membership_grid_vertical.jpg?w=800" width="400px" href="https://coloradosun.com/join" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>(<a target="_blank"  href="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/02/membership_grid_vertical.jpg">click here</a> for a bigger version of the chart)</em></span></p>
+
+</mj-text><mj-button href="https://coloradosun.com/join" target="_blank">Click here to become a member!</mj-button><mj-text>
+
+<h3>Q: Where do I go if I have a question or problems with my account?</h3>
+
+<p><strong>A: First, check out our Frequently Asked Questions page</strong>. There&#8217;s a good chance the answer is in there somewhere. You can also email us directly at <a target="_blank"  href="mailto:support@coloradosun.com">support@coloradosun.com</a> and one of our friendly staff members will help you out.</p>
+
+<h3>Q: Cool. Anything else you want to tell me?</h3>
+
+<p><strong>A: Other than the fact we&#8217;re glad you&#8217;re here? </strong>No, I think we&#8217;re done for now. Keep an eye out for our next note later this week. And have a great day!</p>
+
+<p><em>— Eric &amp; the whole staff of The Colorado Sun</em></p>
+
+</mj-text><mj-button href="https://coloradosun.com/join">Become a member!</mj-button><mj-text>
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

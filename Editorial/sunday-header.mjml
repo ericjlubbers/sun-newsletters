@@ -1,0 +1,108 @@
+<mjml>
+  <!--  HEADER -->
+  <mj-head>
+    <!--  IMPORT STYLES -->
+    <!-- FONTS -->
+    <mj-font name="Libre Franklin" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;200;400;700;900" />
+    <mj-font name="Martel" href="https://fonts.googleapis.com/css2?&family=Martel:wght@200;400;700;900&display=swap" />
+    <mj-font name="Literata" href="https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap" />
+
+    <mj-attributes>
+      <!-- MAILING STYLE -->
+      <mj-body background-color="#ffffff;" width="500px" padding="0px" />
+      <mj-column background-color="#ffffff" border-radius="0px" padding="0px 0px" />
+      <mj-class name="footercolumn" background-color="#F9F6EE" />
+      <mj-section padding="0px 0px" />
+      <!-- BUTTON STYLE -->
+      <mj-button background-color="#D43E1F" font-family="'Libre Franklin',Arial,Helvetica,'Helvetica Neue',sans-serif;" font-weight="700" color="white" align="center" border-radius="15px" />
+      <!-- DIVIDER STYLE -->
+      <mj-divider border-width="2px" border-color="#fcd232" width="75%" />
+      <!-- TEXT STYLES -->
+      <mj-all font-family="'Literata',Georgia,serif;" font-size="16px" font-weight="200" line-height="1.5" />
+      <mj-class name="footer" font-family="'Libre Franklin',Arial,Helvetica,'Helvetica Neue',sans-serif;" font-weight="200" color="#6E6E6E" align="center" />
+      <!-- IMAGE STYLES -->
+      <mj-class name="biglogo" width="200px" />
+      <mj-class name="tinylogo" width="150px" />
+    </mj-attributes>
+    <mj-style>
+      @import url('https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+    </mj-style>
+    <mj-style inline="inline">
+      .shadow {
+        text-shadow: 0px 0px 30px rgba(150, 150, 150, 1);
+      }
+
+      .bluehead {
+        background-color: #134258;
+        padding: .5em;
+        color: #ffffff;
+      }
+
+      .highlight {
+        background-color: #fcd232;
+        color: #212121;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .highlight {
+          background-color: #fcd232;
+          color: #212121;
+        }
+      }
+
+      li {
+        padding-bottom: 6px;
+      }
+
+      h1 {
+        font-family: 'Martel', Georgia, serif;
+        line-height: 1.3em;
+        font-size: 1.5em;
+        font-weight: 700;
+      }
+
+      h2 {
+        font-weight: bold;
+        line-height: 1.3;
+      }
+
+      h3 {
+        font-weight: 700;
+        font-size: 22px;
+        padding: 0px;
+      }
+
+      hr {
+        width: 100%;
+        border-bottom: solid 2px #fcd232;
+        border-top: none;
+      }
+
+      .sectionhed {
+        padding: 0;
+        margin: 0;
+        font-weight: 900;
+      }
+
+
+      .cutline {
+        font-size: 14px;
+        color: #999999;
+        padding: 0px;
+        margin: 6px 3px;
+      }
+
+      blockquote {  border-left-style: solid; border-left-color: #fcd232; border-left-width: 6px; padding-left:12px;}
+
+      .source {
+        font-style: italic;
+        font-size: 14px
+      }
+      td {font-family:'Literata',Georgia,serif}
+    </mj-style>
+    <!-- EMAIL PREVIEW TEXT -->
+    <mj-preview>
+      *|MC_PREVIEW_TEXT|*
+    </mj-preview>
+  </mj-head>
+  <!--  END HEADER -->

@@ -1,0 +1,30 @@
+ <mj-section>
+      <mj-column background-color="#ffffff">
+        <mj-text align="center">
+                     *|IF:MEMB_TYPE|*
+          <h2>Thank you for supporting local journalism!</h2>
+          <p>Members like you are how The Sun keeps shining!</p>
+          <mj-raw>*|ELSE:|*</mj-raw>
+ <h2>Our news is free to read, but not free to report.</h2>
+
+          <p><span class="highlight"><strong>Help us keep an independent eye on Colorado.</strong></span> Memberships start at just $5/month with perks and rewards &mdash; including exclusive newsletters &mdash; at higher levels. Just click the button below to get started!</p>
+        </mj-text>
+        <mj-button href="https://coloradosun.com/join"> Support journalism. Become a member. </mj-button>
+        <mj-text>
+        *|END:IF|*
+          </mj-text>
+      </mj-column>
+    </mj-section>
+      <!-- FOOTER -->
+      <mj-section>
+        <mj-column mj-class="footercolumn">
+          <mj-image mj-class="tinylogo" href="http://coloradosun.com" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2020/08/coloradosun-logo-standard-wide-1200px.png" />
+          <mj-text mj-class="footer">
+            <em>Copyright &copy; 2020 The Colorado Sun, All rights reserved.</em><br />
+            <br />
+            <strong>Our mailing address is:</strong><br /> *|LIST:ADDRESS|* <p>To manage your payment to The Colorado Sun,&nbsp;you can <a href="https://coloradosun.com/account" target="_blank">click here</a> access your account options&nbsp;or log in at <a href="https://coloradosun.com" target="_blank">coloradosun.com</a>.</p>
+            <p>To change how you receive these emails, you can&nbsp;<a href="https://coloradosun.com/account" target="_blank">update your preferences</a> or&nbsp;<a href="*|UNSUB|*" target="_blank">permanently unsubscribe&nbsp;from all communication and newsletters</a> from The Colorado Sun.<br />
+              <br /></p>
+          </mj-text>
+        </mj-column>
+      </mj-section>

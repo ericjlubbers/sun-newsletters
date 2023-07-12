@@ -1,0 +1,20 @@
+<mjml>
+<!--  HEADER -->
+  <mj-head>
+    <!--  IMPORT STYLES -->
+    <mj-include path="./sun-newsletter-styles-serif.mjml" />
+    <!-- EMAIL PREVIEW TEXT -->
+     <mj-preview>
+*|MC_PREVIEW_TEXT|*
+</mj-preview>
+  </mj-head>
+<!--  END HEADER -->
+<!--  BODY -->
+  <!--  IMPORT LOGO -->
+  <mj-body>    <mj-section>
+      <mj-column padding="0px" background-color="#F5F5F5">
+        <mj-text mj-class="footer">
+          <a style="color:#6E6E6E;font-size:10px;font-weight:400;" href="*|ARCHIVE|*">OPEN THIS IN YOUR BROWSER</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>

@@ -1,0 +1,40 @@
+<mjml>
+<!--  HEADER -->
+  <mj-head>
+    <!--  SUBJECT LINE -->
+    <mj-title>
+
+
+    </mj-title>
+    <!--  PREVIEW TEXT -->
+    <mj-preview>
+*|MC_PREVIEW_TEXT|*
+    </mj-preview>
+    <!--  IMPORT STYLES -->
+    <mj-include path="./sun-newsletter-styles.mjml" />
+  </mj-head>
+<!--  END HEADER -->
+<!--  BODY -->
+  <!--  IMPORT LOGO -->
+  <mj-body width="600px">
+<mj-section>
+      <mj-column padding="0px" background-color="#F5F5F5">
+        <mj-text mj-class="footer">
+          <a style="color:#6E6E6E;font-size:10px;font-weight:400;" href="*|ARCHIVE|*">OPEN THIS IN YOUR BROWSER</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section  padding="0px 0px 0px 0px" margin="0px 0px 0px 0px">
+      <mj-column width="100%"  padding="0px 0px 0px 0px">
+        <mj-raw>*|IF:TRIAL=TRUE|*</mj-raw><mj-text>
+        <hr style="border-width:6px;border-color:#F15854;"/>
+
+<h1 style="font-family:'Libre Franlkin',sans-serif;text-align:center;">Welcome to your free trial of The Outsider!</h1>
+        <p>Enjoy this free preview! If you like what you see, click the button below to become a premium member of The Colorado Sun to get it — and our other exclusive newsletters — every week!</p>
+</mj-text>
+        <mj-button href="http://coloradosun.com/outsider" target="_blank">Become a member!</mj-button><mj-text>
+<hr style="border-width:6px;border-color:#F15854;"/>
+        </mj-text>
+          <mj-raw>*|END:IF|*</mj-raw>
+        <mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/06/outsider_newsletter_header_transparent.png?w=1800"/ padding="0"/>
+        <mj-text font-size="12px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><a href="https://coloradosun.com/account">YOUR SUN ACCOUNT</a> | <a href="http://coloradosun.com/faq">HELP & FAQ</a> | <a href="mailto:tips@coloradosun.com">SEND US A TIP</a></mj-text></mj-column></mj-section>

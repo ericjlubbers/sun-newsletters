@@ -1,0 +1,38 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+<h1 style="font-family:'Libre Franklin',sans-serif;text-align:center;font-size:36px;">Please support visual journalism at The Colorado Sun</h1>
+    
+    </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/10/16th-st-mall-hiring-oct-22-os-10-scaled.jpg?w=800" /><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>A man dressed in a monk&#8217;s kasaya robe passes a now-closed RadioShack on Oct. 13, in Denver. (Olivia Sun, The Colorado Sun via Report for America)</em></span></p>
+
+
+
+&nbsp;<hr />&nbsp;
+
+<p>Today is #GivingNewsDay and your opportunity to make a tax-free donation to support The Colorado Sun&#8217;s Report for America corps member.</p>
+
+<p><strong>Report for America</strong>, a nonprofit organization, places talented emerging journalists in local newsrooms to document under-covered issues and communities. Photojournalist <strong>Olivia Sun</strong> is our Report for America corps member.</p>
+
+<p>A tax-free donation at <a target="_blank"  href="https://coloradosun.com/rfa?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">coloradosun.com/rfa</a> goes directly to supporting <strong>Olivia Sun</strong>&#8217;s salary and work. Your gift makes her work possible.</p>
+
+</mj-text><mj-button href="https://checkout.fundjournalism.org/memberform?org_id=reportforamerica&amp;campaign=7015G000001Z0d5&amp;theme=The+Colorado+Sun&amp;installmentPeriod=once" target="_blank">Donate to RFA</mj-button>
+    
+    
+<mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/11/rs_adoption-ceremony-saiz-os-3.jpg?w=800" href="https://coloradosun.com/colorados-failed-adoptions/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Colorado Supreme Court Chief Justice Brian Boatright announces the ceremony of Denver&#8217;s 17th annual Adoption Day celebration on Nov. 4, where 18 families formally adopted 20 Denver children. (Olivia Sun, The Colorado Sun via Report for America)</em></span></p>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/07/cada-shrooms-os-23.jpg?w=800" href="https://coloradosun.com/2022/08/07/microdosing-shrooms-psilocybin-anxiety-depression/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Chryss Cada takes psilocybin mushrooms with lemon water to help its absorption. Cada&#8217;s typical mushroom dose ranges from 0.15 to 0.4 grams each day. (Olivia Sun, The Colorado Sun via Report for America)</em></span></p>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/09/jeffco-forestry-os-23-scaled.jpg?w=800" href="https://coloradosun.com/2022/09/25/jeffco-forest-thinning-wildfire-mitigation/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Sandra Carpenter moved into her home bordering the Flying J Ranch in March 2020. Carpenter, an ultrarunner, opposes 2020 forest cuttings by Denver Mountain Parks and has switched her running route to avoid the mulch-filled clearings where more noise travels through the trails. (Olivia Sun, The Colorado Sun via Report for America)</em></span></p>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/06/DSC_3721.jpg?w=800" /><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Aaron Michaels, aka Hunnie Bun, 13, puts on earrings on June 22 at their home in Highlands Ranch in preparation for Denver&#8217;s pride weekend on June 25. (Olivia Sun, The Colorado Sun via Report for America)</em></span></p>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/07/san-luis-valley-housing-os-58.jpg?w=800" href="https://coloradosun.com/2022/07/24/san-luis-valley-abandoned-homes-affordable-housing/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>A trailer home on June 6, in Costilla County near Garcia. Residents say individuals in the Valley often buy plots of desert land for cheap online to live in travel trailers and recreational vehicles. (Olivia Sun, The Colorado Sun via Report for America)</em></span></p>
+
+</mj-text><mj-button href="https://checkout.fundjournalism.org/memberform?org_id=reportforamerica&amp;campaign=7015G000001Z0d5&amp;theme=The+Colorado+Sun&amp;installmentPeriod=once" target="_blank">Donate to RFA</mj-button><mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

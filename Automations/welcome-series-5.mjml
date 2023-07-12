@@ -1,0 +1,46 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=upgrade" target="_blank">Become a Member!</mj-button><mj-text>
+
+<h4 style="font-family:'Libre Franklin',Arial,sans-serif;color:#5DA5DA
+;text-align:center;">WELCOME TO THE SUN (5 of 6)</h4>
+<p><em>(Note: If you don&#8217;t want this welcome series and just want the newsletters, </em><a target="_blank"  href="https://coloradosun.com/opt-out-welcome-series/?pico=clean"><em>click here</em></a><em> to opt-out.)</em></p>
+
+&nbsp;<hr />&nbsp;
+
+<h1>Colorado is changing fast. Here&#8217;s how to keep up.</h1>
+
+<p><em>Our state&#8217;s politics, population, weather, schools, roads are changing almost daily. These newsletters can help you stay on top of it.</em></p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/05/ModularBuild_HC_01.jpg?w=800" href="https://pico.link/thecoloradosun?short_code=upgrade" target="_blank"/><mj-text><p style="font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Construction workers piece together the drain pipes for the home building facility in the Arkansas River Valley on May 12, 2021, in Buena Vista. (Hugh Carey, The Colorado Sun)</em></span></p>
+
+&nbsp;<hr />&nbsp;
+
+<p>When we started The Colorado Sun, we had big dreams. Sure, we were going to focus on the stories that take time to report and write. We wanted to prioritize stories that other news organizations could not or would not do. But we had to do it slowly over the years, as we learned how to build a sustainable news business.</p>
+
+<p>Three years in, we&#8217;re in a position we never thought we could be. Our focus on quality has paid off and I&#8217;m getting comments like this one from a reader named Cindy: &#8220;It is wonderful to read well researched articles that aren&#8217;t politically motivated.&#8221;</p>
+
+<p>We doubled our staff in the past year and have long invested in top-notch journalists who are a joy to read.</p>
+
+<p>They also keep readers plugged into what&#8217;s changing in Colorado — from the environment and health care to the outdoors industry, state policies and Colorado politics. Our premium newsletters are exclusive to our Premium and Champion members and they&#8217;re changing how influencers, local leaders and public citizens approach these topics.</p>
+
+<p>If you had no idea that The Sun offered these, now you do. Check them out:</p>
+
+<ul><li><strong>The Unaffiliated</strong> — Our exclusive politics newsletter has exclusive news found nowhere else. &gt;&gt; <a target="_blank"  href="http://coloradosun.com/unaffiliated">Details</a></li><li><strong>The Outsider</strong> — Our exclusive outdoor-industry newsletter has exclusive news on our site, plus first peeks at topical stories by Jason Blevins. &gt;&gt; <a target="_blank"  href="http://coloradosun.com/theoutsider">Details</a></li><li><strong>The Temperature</strong> — Our exclusive newsletter covering the intersection of climate and health is crafted by reporters Michael Booth and John Ingold. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/temperature/?pico=clean">Sign up</a></li><li><strong>Mike Littwin</strong> — Long-time Colorado columnist Mike Littwin observes life and politics in Colorado. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/littwin?pico=clean">Details</a></li></ul>
+
+<p>You&#8217;re reading The Sun because you want to be informed. Join now and become a premium member. You'll get all of the member perks, including no marketing pop-ups, and you'll get first crack at tickets for our Sun events.</p>
+
+<p>Do it today!</p>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=upgrade" target="_blank">Become a member!</mj-button><mj-text>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/07/Tamara6-2-1.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Tamara Chuang</strong><br /><a target="_blank"  href="https://coloradosun.com/author/tamara-chuang/?pico=clean" target="_blank"><em><span style="font-size:12px;">Business/Technology Reporter</span></em></a></td></tr></mj-table><mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

@@ -1,0 +1,32 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+<h1>Celebrate the right to free press in Colorado and beyond</h1>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/06/01-06_21_2022-COLO-SUN-RANCHLANDS-0572a.jpg?w=800" href="https://pico.link/thecoloradosun/offer?id=CheckoutWizard_thecoloradosun&amp;short_code=gvbdp42v" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Riders head back to headquarters after spending the morning on horseback moving about 800 head of cattle on the Chico Basin Ranch. (Mark Reis, Special to The Colorado Sun)</em></span></p>
+&nbsp;
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">T</span>his weekend we celebrate our nation&#8217;s independence and the ideals set forth by the founding fathers. Our nation feels more divided today than any other time in more than a generation. Many are worried that their rights are under assault.</p>
+
+<p>It&#8217;s important to remember at this time that the very first amendment to the Constitution reflected the founders&#8217; belief that a healthy democracy depends on a free and independent press.</p>
+
+<p>&#8220;Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, <strong>or of the press</strong>; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.&#8221;</p>
+
+<p>We here at The Colorado Sun embrace the notion that we all deserve access to trusted information, that government functions best when overseen by a vibrant press and that communities thrive amid a free flow of ideas and information.</p>
+
+<p>We&#8217;re asking you to support our mission by <a target="_blank"  href="https://pico.link/thecoloradosun/offer?id=CheckoutWizard_thecoloradosun&amp;short_code=gvbdp42v">becoming a member today</a>. The Sun staff has more than doubled in size in the past two years, thanks to our growing community of readers like you who fund our work. That means more stories to keep you and our fellow Coloradans informed. With a big election looming, climate change impacting our lives in many ways and growing economic uncertainty, there is so much more that needs to be done.</p>
+
+</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Become a member!</mj-button><mj-text>
+
+<p>We hope you will help us produce the news coverage that Colorado needs today more than ever.</p>
+
+<p>Thanks,</p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/Larry.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Larry Ryckman</strong><br /><a target="_blank"  href="https://coloradosun.com/author/larry-ryckman/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"><em><span style="font-size:12px;">Editor</span></em></a></td></tr></mj-table><mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

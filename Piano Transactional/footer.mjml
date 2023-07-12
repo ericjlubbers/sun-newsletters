@@ -1,0 +1,12 @@
+
+      <!-- FOOTER -->
+      <mj-section>
+        <mj-column mj-class="footercolumn">
+          <mj-image mj-class="tinylogo" href="http://coloradosun.com" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2020/08/coloradosun-logo-standard-wide-1200px.png" />
+          <mj-text mj-class="footer">
+     
+            <strong>Our mailing address is:</strong><br /> The Colorado Sun, 2101 Arapahoe St., Denver, CO 80205 <p>To manage your account with The Colorado Sun,&nbsp; <a href="http://coloradosun.com/account" target="_blank">click here</a> to access your options&nbsp;or log in at <a href="https://coloradosun.com" target="_blank">coloradosun.com</a>.</p>
+              <br /></p>
+          </mj-text>
+        </mj-column>
+      </mj-section>

@@ -1,0 +1,14 @@
+    <mj-include path="./header.mjml" />
+
+
+    <mj-section background-color="#fff">
+
+      <mj-column>
+        <mj-text>
+          {{body}}
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-include path="./footer.mjml" />

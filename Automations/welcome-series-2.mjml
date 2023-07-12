@@ -1,0 +1,47 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+
+<h4 style="font-family:'Libre Franklin',Arial,sans-serif;color:#5DA5DA
+;text-align:center;">WELCOME TO THE SUN (2 of 6)</h4>
+
+<p style="font-family:'Libre Franklin',Arial,sans-serif;font-size:12px;text-align:center;padding:0;"><em>(Note: If you don&#8217;t want this welcome series and just want the newsletters, </em><a target="_blank"  href="https://coloradosun.com/opt-out-welcome-series/?pico=clean"><em>click here</em></a><em> to opt-out.)</em></p>
+    </mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=welcome" target="_blank">Come join The Sun!</mj-button><mj-text>
+    <hr />&nbsp;
+<h1>Why local news is in trouble, explained</h1>
+
+<p><em>This Netflix clip lays it all on the line.</em></p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/02/whos-killing-your-local-newspaper.gif?w=800" href="https://pico.link/thecoloradosun?short_code=welcome" target="_blank"/><mj-text><p style="font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>(via Netflix)</em></span></p>
+
+
+&nbsp;<hr />&nbsp;
+
+<p>You may have heard it before: The news industry is in trouble, especially local news.</p>
+
+<p>But if you don&#8217;t know why the local news industry is in trouble — or why it&#8217;s so crucial for making democracy work — please take a few minutes to <a target="_blank"  href="https://www.youtube.com/watch?v=icNirsV1rLA">watch this clip from the Netflix show "Patriot Act with Hasan Minhaj</a>." (Warning: his language is a little blue, but his facts are on point.)</p>
+
+<p>His examples aren&#8217;t hypothetical. They aren&#8217;t even taking place in some far off land. Minhaj cites Colorado as a prime illustration of how private equity swooped in to siphon money away from our state&#8217;s proud newsrooms (for more on these events, see the documentary &#8220;<a target="_blank"  href="https://www.kanopy.com/product/news-matters">News Matters</a>&#8221;).</p>
+
+<p>Those same forces that are squeezing local news aren&#8217;t slowing down during this pandemic — they&#8217;re using the weakened economy to expand their reach and hit the gas. This isn&#8217;t just bad for newsrooms; it&#8217;s terrible for communities — for all of us who depend on access to trusted facts and information.</p>
+
+<p>You can do something about this. After seeing from the inside what hedge funds had planned for the state&#8217;s largest newsrooms, my colleagues and I in 2018 took a huge personal risk to start a newsroom from scratch — The Colorado Sun.</p>
+
+<p>We have one mission: serve the people in every city, town, peak, prairie and mesa in Colorado.</p>
+
+<p>And that means building a sustainable business supported by the people who read The Colorado Sun, not venture capital or private equity or hedge funds.</p>
+
+<p>With just a few taps, you can join the thousands of Coloradans who have taken the power of local news back in their own hands. For as little as $5/month, (less than a Netflix subscription) you can make an investment in the future of your state, right when it needs it the most.</p>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=welcome" target="_blank">Become a Member!</mj-button><mj-text>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/07/eric-ig-portrait-square.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Eric Lubbers</strong><br /><a target="_blank"  href="https://coloradosun.com/author/eric-lubbers/?pico=clean" target="_blank"><em><span style="font-size:12px;">CTO & Newsletter Wrangler</span></em></a></td></tr></mj-table><mj-text>
+
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

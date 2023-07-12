@@ -1,0 +1,38 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+<h4 style="background-color:#F15854;color:#ffffff;padding:.3em;font-family:'Libre Franklin',Arial,sans-serif;">SPECIAL REPORT</h4>
+
+    <h1><a target="_blank"  href="https://coloradosun.com/2022/03/14/denver-doctor-gaudiani-aid-in-dying-aneroexia-patients/?pico=clean" style="text-decoration:none;color:#003D5A;">Denver doctor helped patients with severe anorexia obtain aid-in-dying medication, spurring national ethics debate</a></h1>
+
+
+<p><em>A recent case study shocked psychiatrists across the country and added fuel to a long debate about whether right-to-die laws would lead to state-sanctioned deaths of people with mental illness and disabilities</em></p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/03/gaudiani-clinic-os-02.jpg?w=800" href="https://coloradosun.com/2022/03/14/denver-doctor-gaudiani-aid-in-dying-aneroexia-patients/?pico=clean" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Jennifer Gaudiani, an internal medicine doctor and licensed as a certified eating disorder specialist supervisor, founded the Gaudiani Clinic in Denver in 2016. (Olivia Sun, The Colorado Sun via Report for America)</em></span></p>
+
+<hr />&nbsp;
+
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">A</span>&nbsp; Denver doctor published a paper describing the deaths of three patients with severe anorexia — one of whom was a co-author of the paper — after she helped two of them obtain aid-in-dying medication.</p>
+
+<p>The paper has shocked psychiatrists across the country, some of whom have called it &#8220;alarming,&#8221; &#8220;awful&#8221; and &#8220;in direct contradiction to treating mental illness.&#8221;</p>
+
+<p>Dr. Jennifer Gaudiani advocates for allowing patients who are dying from anorexia to end their lives on their own terms. Anorexia can be brutally lethal, she says, and is widely believed to have the second-highest mortality rate of all mental illnesses.</p>
+
+<p>The argument over whether severe anorexia patients should receive aid-in-dying medication has added fuel to a long debate about whether right-to-die laws would lead to state-sanctioned deaths of people with mental illness and disabilities.</p>
+
+<p>Reporter Jennifer Brown talked to Dr. Gaudiani — and her critics — about the paper, the patients and why the physical effects of anorexia make it unique among psychiatric disorders.</p>
+
+<p style="text-align:center;font-size:18px;">&gt;&gt; <a target="_blank"  href="https://coloradosun.com/2022/03/14/denver-doctor-gaudiani-aid-in-dying-aneroexia-patients/?pico=clean"><strong>Read the full story here</strong></a></p>
+&nbsp;<hr />&nbsp;
+<mj-raw>*|IFNOT:MEMB_TYPE|*</mj-raw><p>Support our reporting by <a target="_blank"  href="https://pico.link/thecoloradosun?short_code=sunday">becoming a member of The Colorado Sun today</a>.</p><mj-raw>*|END:IF|*</mj-raw><mj-raw>*|IF:ARCHIVE_PAGE|*</mj-raw><p><strong>Support our reporting by <a target="_blank"  href="https://pico.link/thecoloradosun?short_code=sunday">becoming a member of The Colorado Sun today</a>.</strong></p><mj-raw>*|END:IF|*</mj-raw>
+
+*|IFNOT:MEMB_TYPE|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Become a member</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Become a member</mj-button><mj-text>*|END:IF|*
+
+    <mj-raw>*|IF:MEMB_TYPE|**|IFNOT:ARCHIVE_PAGE|*</mj-raw><p><strong>Thank you for being a member of The Colorado Sun. Your support helps us produce in-depth, local Colorado journalism like this.</strong></p><mj-raw>*|END:IF|**|END:IF|*</mj-raw>
+&nbsp;<hr />
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

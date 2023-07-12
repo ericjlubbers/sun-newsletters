@@ -1,0 +1,20 @@
+<mj-include path="./marketing-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT -->
+<mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/11/sunday-mugs-3.jpg?w=800" href="https://store.coloradosun.com/discount/SUNMEMBF2022?redirect=%2Fcollections%2Feverything-under-the-sun" target="_blank"/><mj-text>
+
+<p>Membership supports the local journalism of The Colorado Sun. But you know what else supports the quality reporting readers and members have come to rely on in this state? Colorado Sun swag!</p>
+
+<p><strong>As a thank you to our members and subscribers, we&#8217;re having a one-day only, buy one-get one at 50% off sale for members and subscribers who want to support The Sun in a different way.</strong> Now&#8217;s your chance to get one of our classic blue (or vintage black) Colorado Sun T-shirts, tote bags, caps and more from our store until midnight on Monday, Nov. 28.</p>
+
+<p>All net proceeds go back into supporting the great journalism you love.</p>
+
+<p>Just use the code <strong>SUNMEMMONDAY2022</strong> at checkout and for every two eligible items you purchase, you&#8217;ll receive a 50% discount on one of them.</p>
+
+</mj-text><mj-button href="https://store.coloradosun.com/discount/SUNMEMMONDAY2022?redirect=%2Fcollections%2Feverything-under-the-sun" target="_blank">SHOP SUN SWAG!</mj-button><mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

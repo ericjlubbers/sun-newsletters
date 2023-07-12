@@ -1,0 +1,50 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=welcome" target="_blank">Become a Member!</mj-button><mj-text>
+
+<h4 style="font-family:'Libre Franklin',Arial,sans-serif;color:#5DA5DA
+;text-align:center;">WELCOME TO THE SUN (4 of 6)</h4>
+
+<p><em>(Note: If you don&#8217;t want this welcome series and just want the newsletters, </em><a target="_blank"  href="https://coloradosun.com/opt-out-welcome-series/?pico=clean"><em>click here</em></a><em> to opt-out.)</em></p>
+
+&nbsp;<hr />&nbsp;
+
+<h1>Facebook (and other big tech) are not on your side</h1>
+
+<p><em>Take control of the local information you need instead of inflammatory, computer-generated clickbait</em></p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/09/unsplash-facebook-letter.jpg?w=800" href="https://pico.link/thecoloradosun?short_code=welcome" target="_blank"/><mj-text>&nbsp;
+
+&nbsp;<hr />&nbsp;
+
+<p>Do you know who produced the news that you see every day in your Facebook, Instagram or Twitter feeds? Do you know if it&#8217;s even news?</p>
+
+<p>It&#8217;s not obvious, but there are complex, mysterious algorithms behind the scenes deciding exactly what you see in your feeds — and just as importantly, what you don&#8217;t see.</p>
+
+<p>Those algorithms reward &#8220;engagement&#8221; — meaning clicks, likes and comments — over anything else. And as I&#8217;m sure you&#8217;ve seen, the most &#8220;engaging&#8221; stories are ones that leave people angry or heartbroken.</p>
+
+<p>The top performing posts on Facebook routinely come from <a target="_blank"  href="https://twitter.com/FacebooksTop10/status/1441432813891309568">known peddlers of disinformation</a> or cute animal pages (and even those can be used by <a target="_blank"  href="https://theconversation.com/facebooks-algorithms-fueled-massive-foreign-propaganda-campaigns-during-the-2020-election-heres-how-algorithms-can-manipulate-you-168229">foreign propaganda campaigns</a> to game the system). Facebook knows this. But as <a target="_blank"  href="https://www.wsj.com/articles/the-facebook-files-11631713039">The Wall Street Journal reported</a>, even when its own researchers find that the platforms are causing harm, the company just doesn&#8217;t fix them.</p>
+
+<p>You can&#8217;t solve all the problems with social media by yourself, but you can make a big difference in how you get your Colorado news.</p>
+
+<p>The Colorado Sun is owned and operated by veteran journalists who live, work and raise kids in the same neighborhoods, towns and cities as you.</p>
+
+<p>Every time you read <a target="_blank"  href="http://coloradosun.com/newsletters">one of our email newsletters</a>, you&#8217;re breaking free of the grip of social media and getting real news, vetted by professionals, delivered right to you — with no algorithmic middleman.</p>
+
+<p>We are up against powerful tech companies and greedy hedge funds and we need all the help we can get. But there is power in numbers, which is why we are asking readers like you to help fight the good fight.</p>
+
+</mj-text><mj-button href="https://coloradosun.com/opt-out-welcome-series/?pico=clean" target="_blank">Join our fight today!</mj-button><mj-text>
+
+<p>Please consider becoming a Colorado Sun member. Your support takes just a few minutes and a few dollars per month and not only helps keep your community informed, but helps hold back the flood of misinformation out there.</p>
+
+<p>I hope you&#8217;ll come join us — and thousands of your neighbors — in working toward a more insightful, better-informed community.</p>
+
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/07/eric-ig-portrait-square.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Eric Lubbers</strong><br /><a target="_blank"  href="https://coloradosun.com/author/eric-lubbers/?pico=clean" target="_blank"><em><span style="font-size:12px;">CTO & Newsletter Wrangler</span></em></a></td></tr></mj-table><mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

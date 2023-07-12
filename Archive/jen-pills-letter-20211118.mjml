@@ -1,0 +1,70 @@
+    <mj-include path="./letter-header-slim.mjml" />
+          <mj-section>
+      <mj-column>
+<mj-text>
+
+         
+   <!-- PASTE CONVERTED BODY CODE HERE
+        # ↓
+        # ↓
+        # ↓
+        # ↓
+        # ↓
+        # ↓
+        -->
+
+<h1>Double the value of your Colorado Sun membership!</h1>
+
+<p>Through the end of 2021, The Colorado Media Project will match all new memberships or one-time contributions</p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/newsCOneeds-quality-twitterpost.png?w=800" href="https://pico.link/thecoloradosun?short_code=join" target="_blank"/><mj-text>
+
+<hr />
+
+<p><span style="font-size:48px; font-weight:bold; line-height:normal;">H</span>ello, reader!</p>
+
+<p>Today is a big day! Not only is it <strong>#GivingNewsDay</strong>, a global effort to support newsrooms, it&#8217;s also the launch of <strong>#newsCOneeds</strong>—a month-long campaign that spotlights the need for homegrown, independent Colorado journalism.</p>
+
+<p>From now until December 31,<strong> The Colorado Media Project</strong> will match any new membership or double <a href="http://coloradosun.com/contribute" target="_blank">your one-time gift</a> up to $1,000, for a total of <strong>$5,000 in matching funds</strong> for The Colorado Sun. This is a unique opportunity to make your support count in a big way!</p>
+
+<p>And if there&#8217;s one thing <a target="_blank"  target="_blank"  href="https://coloradosun.com/2021/11/26/human-caused-wildfire-risk-san-juan-national-forest/?pico=clean?pico=clean">climate change</a>, an <a target="_blank"  target="_blank"  href="https://coloradosun.com/2021/11/02/covid-testing-schools-limited-districts/?pico=clean?pico=clean">ongoing pandemic</a>, and <a target="_blank"  target="_blank"  href="https://coloradosun.com/2021/11/17/fentanyl-overdose-murder-conviction/?pico=clean?pico=clean">human struggle</a> have taught us this year, it&#8217;s that there is immense power in Colorado communities. Faced with tough times and deep challenges, we somehow manage to shake off shock and source a solution together.</p>
+
+<p>It&#8217;s that kind of resilience — and the backing of our valued readers — that has allowed The Colorado Sun to keep growing since we launched in the summer of 2018, even as we navigated headwinds (see: COVID-19) that buffeted elements of our business plan. With our members&#8217; support, we have been able to deliver more — and more authoritative — reporting.</p>
+
+<p>We&#8217;ve expanded our staff to more intensely cover all regions of Colorado and inform citizens from the Great Plains to the Grand Mesa.</p>
+
+<p>We&#8217;re fortunate to find a different type of community in the #newsCOneeds campaign this month. We&#8217;re among <a target="_blank"  target="_blank"  href="https://coloradomediaproject.com/newsconeeds">26 newsrooms</a> gathered to amplify local journalism in Colorado — work that together and individually is important to the health of the democracy in our great state and to our community.</p>
+
+<p><strong>Again, as part of the campaign, from now until Dec. 31, the </strong><a target="_blank"  target="_blank"  href="https://coloradomediaproject.com/"><strong>Colorado Media Project </strong></a><strong>will match the annual value of new monthly memberships to The Sun, or a one-time gift up to $1,000. It&#8217;s a great way to boost the power of your support for truly local reporting.</strong></p>
+
+*|IFNOT:MEMB_TYPE|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Become a member now!</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Become a member now!</mj-button><mj-text>*|END:IF|*
+
+*|IF:MEMB_TYPE|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=donate">Give a one-time gift!</mj-button><mj-text>*|END:IF|**|END:IF|*
+
+<p>We hope that, as a reader of The Colorado Sun, you&#8217;ll confirm the value we add to your life by making an investment in us.</p>
+
+<p>Cordially,</p>
+
+<!-- BYLINE -->
+</mj-text>
+<mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2019/07/DANAMUGKS.jpg?resize=424,424"/></td>
+<td style="padding: 6px;"><strong>Dana Coffield</strong><br /><em><span style="font-size:12px;">Senior Editor & Sun co-founder</span></em></td></tr></mj-table><mj-text></mj-text><mj-text>
+
+<p>P.S. <span style="background-color:#fcd232;"><strong>Don&#8217;t keep #newsCOneeds all to yourself! </strong></span> Celebrate with friends and colleagues by helping us spread the word and forwarding this email.</p>
+
+            <!-- BODY ENDS HERE
+        # ⬆
+        # ⬆
+        # ⬆
+        # ⬆
+        # ⬆
+        # ⬆
+        # ⬆
+        -->
+<!--  IMPORT FOOTER -->
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-include path="./footer-slim.mjml" />
+  </mj-body>
+</mjml>

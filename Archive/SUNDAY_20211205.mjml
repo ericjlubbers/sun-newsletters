@@ -1,0 +1,111 @@
+<mj-include path="./sunday-header.mjml" />
+<!--  BODY -->
+<mj-body>
+<mj-section>
+<mj-column>
+
+<!-- BEGIN CONTENT -->
+
+<!-- COVER -->
+</mj-text><mj-image href="*|ARCHIVE_LINK|*" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/colorado_sunday_006_cover@3200x-80.jpg?w=1200"/>
+<mj-text font-size="10px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><p style="color:#6E6E6E;font-size:10px;font-weight:400;"><a target="_blank"  target="_blank" href="*|ARCHIVE_LINK|*" target="_blank">CLICK TO READ IN YOUR BROWSER</a></p></mj-text>
+<mj-divider />
+<!-- END COVER --><mj-text>
+
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">I</span>ntro</p>
+
+<!-- BYLINE --></mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" href="https://coloradosun.com/author/dana-coffield/" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2019/07/DANAMUGKS.jpg?resize=96,96"/></td> <td style="padding: 6px;"><strong>Dana Coffield</strong><br /><em><span style="font-size:12px;">Senior Editor</span></em></td></tr></mj-table><mj-text>&nbsp;
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/News-Co-Needs_300dpi2.jpg" width="300px" href="https://cosun.co/COSunday-newsCOneeds-Dec-2021" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">The Cover Story</h2></td></tr></mj-table><mj-text>
+
+<p><strong>&gt;&gt; Story tease &gt;&gt; STORY</strong></p>
+
+<!-- BYLINE --></mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" href="https://coloradosun.com/author/dana-coffield/" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2019/07/DANAMUGKS.jpg?resize=96,96"/></td> <td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" href="https://coloradosun.com/author/danika-worthington/" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/danikaworthington.jpeg?resize=96,96"/></td><td style="padding: 6px;"><strong>Dana Coffield + Danika Worthington</strong><br /><em><span style="font-size:12px;">Senior Editor | Presentation Editor</span></em></td></tr></mj-table><mj-text>&nbsp;
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/Report-for-America-cube-1.png" width="300px" href="https://coloradosun.smugmug.com/" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">FOMO Colorado</h2></td></tr></mj-table><mj-text>
+
+<p>No matter the type, FOMO (Fear of Missing Out) can get a bad rap — so we&#8217;ve curated our own visual feed to catch you up. Here are a few of our favorite snippets of everyday places, people, and moments from around every corner of Colorado this week.</p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Olivia Sun</strong> | <em><span style="font-size:12px;">Staff Photographer</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/author/olivia-sun/" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/04/Olivia-Sun.jpg?resize=1366,1366?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/12/MTBinGJ_HC_02.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Grand Junction local Anne Chamberlin goes for a post-work mountain bike ride at the Lunch Loops Trails on Dec. 1. (Hugh Carey, The Colorado Sun)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/12/december-sunrise.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">A dramatic sunrise over Lakewood on Dec. 1. (Eric Lubbers, The Colorado Sun)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/CDOTcanyon_HC_03.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">The summer&#8217;s mudslide dries up in the Colorado River on Nov. 29 in Glenwood Canyon. Mud slid through Wagon Gulch into the Colorado River in July 2021, causing I-70 blockage and river flow damage. (Hugh Carey, The Colorado Sun)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/12/SAFE-OUTDOOR-SPACES137-KS-11272021.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Volunteer Alyssa Breda helps move tent-building materials at a new Safe Outdoor Space-Colorado Village Collaborative near the Denver Health medical campus. Several new residents of the complex will be coming from the Four Winds American Indian Council. (Kathryn Scott, Special to the Colorado Sun)</p></mj-text><mj-text>
+
+<p>[imageurl ][Cutline]</p>
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">Flavor of the Week</h2></td></tr></mj-table><mj-text>
+
+<p>[ImageURL][Cutline]</p>
+
+<p>Blurb</p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Dana Coffield</strong></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/author/dana-coffield/" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2019/07/DANAMUGKS.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/GG-Cover-Contest-300x250-1.jpg" width="300px" href="https://cosun.co/golden-sunriser-dec-2021" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">SunLit: Sneak Peek</h2></td></tr></mj-table><mj-text>
+
+<h2><strong>Claire Boyles&#8217; &#8220;Site Fidelity&#8221; delves into the trials of rural life</strong></h2>
+
+<p>[ExcerptURL][BookImageURL]</p>
+
+<!-- Blockquote -->
+<blockquote>&#8220;Quote&#8221;<br /><br /><span class="source">— From &#8220;BookTitle&#8221;</span></blockquote>
+
+<p><strong>EXCERPT:</strong> Book blurb</p>
+
+<p>&gt;&gt; <strong>Read the entire SunLit Special Edition excerpt.</strong></p>
+
+<p><strong>THE SUNLIT INTERVIEW: </strong>blurb</p>
+
+<p><strong>Question</strong></p>
+
+<p>Answer</p>
+
+<p>&gt;&gt; <strong>Read the entire interview with author XXXX.</strong></p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Kevin Simpson</strong> | <em><span style="font-size:12px;">Writer</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/author/kevin-simpson/" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/IMG_0426.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">Sunday Reading List</h2></td></tr></mj-table><mj-text>
+
+<p><em>A curated list of what you may have missed from The Colorado Sun this week.</em></p>
+
+<p>[StoryURL][ImageURL][Cutline]</p>
+
+<p>🌞 Blurb. &gt;&gt; <strong>STORY</strong></p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Dana Coffield</strong></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/author/dana-coffield/" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2019/07/DANAMUGKS.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+&nbsp;<hr />&nbsp;
+
+<p>Outro</p>
+
+<p><em>— Dana &amp; the whole staff of The Sun</em></p>
+
+<!-- FOOTER -->
+</mj-text>
+</mj-column>
+</mj-section>
+<mj-include path="./sunday-footer.mjml"/>

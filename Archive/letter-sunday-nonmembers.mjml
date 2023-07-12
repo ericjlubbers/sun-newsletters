@@ -1,0 +1,40 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=sunday" target="_blank">Subscribe to Colorado Sunday!</mj-button><mj-text>
+
+<h1>Your new Sunday ritual is waiting…</h1>
+
+<p><em>Become a Basic+ Colorado Sun member to get our weekly digital magazine — the perfect complement to your Sunday morning</em></p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/sunday-mugs-2.jpg?w=800" href="https://pico.link/thecoloradosun?short_code=sunday" target="_blank"/><mj-text><p style="font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>One of our fast-selling Colorado Sunday mugs. Restock coming soon!</em></span></p>
+
+&nbsp;<hr />&nbsp;
+
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">I</span>n the nearly four months since we announced our premium weekend magazine, <strong>Colorado Sunday</strong>, we&#8217;ve had nearly 2,000 of your neighbors join us to establish a new ritual.</p>
+
+<p>In the 16 issues we&#8217;ve shipped to inboxes across the state (and the country), our reporters and photographers have traveled to <a target="_blank"  href="https://mailchi.mp/coloradosun/colorado-sunday-465534-gnq0fgxl76-465810">astronomical ruins</a> at <strong>Mesa Verde</strong>, the depths of Colorado&#8217;s plumbing system in <a target="_blank"  href="https://mailchi.mp/coloradosun/colorado-sunday-465270">the <strong>Gunnison Tunnel</strong></a>, a <a target="_blank"  href="https://mailchi.mp/coloradosun/colorado-sunday-465534-gnq0fgxl76">bird-crazy cattle ranch</a> near Lamar and the <a target="_blank"  href="https://mailchi.mp/coloradosun/colorado-sunday-465534-gnq0fgxl76-466134">neighborhoods still rebuilding</a> from wildfires — with some <a target="_blank"  href="https://mailchi.mp/coloradosun/colorado-sunday-465534-gnq0fgxl76-466050">roadside stops</a> along the way.</p>
+
+</mj-text><mj-image width="300px" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/02/sunday-covers.gif?w=800" href="https://pico.link/thecoloradosun?short_code=sunday" target="_blank"/><mj-text><p style="font-family:'Libre Franklin',Arial,sans-serif; font-size:0.9em;color:#949494;padding:1% 5% 0 5%;margin:0;"></em></span></p>
+
+<p>And we&#8217;re just getting started!</p>
+
+<p>To make your Sundays something special, all you have to do is become a <strong>Basic+</strong> level member of The Colorado Sun. That&#8217;s $10 a month — less than Netflix or a meal at Chipotle — to get a collection of beautiful, thoughtful Colorado content delivered right to your inbox every weekend.</p>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=sunday" target="_blank">Subscribe to Colorado Sunday!</mj-button><mj-text>
+
+<p>And you can rest easy knowing that every dollar of your membership goes right back to supporting the journalism of The Colorado Sun — no greedy investors or hedge funds involved at this public benefit corporation. Just the news our state needs from experienced journalists who live here.</p>
+
+<p>We hope to see you this Sunday!</p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/07/eric-ig-portrait-square.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Eric Lubbers</strong><br /><a target="_blank"  href="https://coloradosun.com/author/eric-lubbers/?pico=clean" target="_blank"><em><span style="font-size:12px;">CTO & Newsletter Wrangler</span></em></a></td></tr></mj-table><mj-text>
+
+<p><em>P.S.</em> — If you have any questions about your membership or upgrading, please send us a note at support@coloradosun.com and we&#8217;ll help you out!</p>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

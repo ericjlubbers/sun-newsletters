@@ -1,0 +1,27 @@
+<mjml>
+<!--  HEADER -->
+  <mj-head>
+    <!--  SUBJECT LINE -->
+
+    <!--  PREVIEW TEXT -->
+    <mj-preview>*|MC_PREVIEW_TEXT|* </mj-preview>
+    <!--  IMPORT STYLES -->
+    <mj-include path="./sun-newsletter-styles.mjml" />
+  </mj-head>
+<!--  END HEADER -->
+<!--  BODY -->
+  <!--  IMPORT LOGO -->
+  <mj-body width="600px">
+    <mj-section>
+      <mj-column padding="0px" background-color="#F5F5F5">
+        <mj-text mj-class="footer">
+          <a style="color:#6E6E6E;font-size:10px;font-weight:400;" href="*|ARCHIVE|*">OPEN THIS IN YOUR BROWSER</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="#ffffff">
+        <mj-text>
+          <center><img src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2020/08/Whats-Working.jpg?w=900"/ style="width:90%;max-width:450px;" /></center>
+        </mj-text>
+        <mj-text font-size="12px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><a href="https://coloradosun.com/account">YOUR SUN ACCOUNT</a> | <a href="http://coloradosun.com/faq">HELP & FAQ</a> | <a href="mailto:tips@coloradosun.com">SEND US A TIP</a></mj-text></mj-column></mj-section>

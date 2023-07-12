@@ -1,0 +1,25 @@
+<mjml>
+<!--  HEADER -->
+  <mj-head>
+    <!--  IMPORT STYLES -->
+    <mj-include path="./sun-marketing-styles.mjml" />
+    <!-- EMAIL PREVIEW TEXT -->
+     <mj-preview>
+A message from The Colorado Sun.
+</mj-preview>
+  </mj-head>
+<!--  END HEADER -->
+<!--  BODY -->
+  <!--  IMPORT LOGO -->
+  <mj-body>
+    <mj-section>
+      <mj-column padding="0 0 0 0">
+                <mj-spacer height="12px" />
+        <mj-image padding="0 0 0 0" width="200" href="http://coloradosun.com" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2020/08/Sun-Wide-Transparent-Stroke-1600px.png?w=900"/>
+        <mj-spacer height="6px" />
+        <mj-text padding="8 0 0 0" align="center" font-size="12px" font-weight="200" letter-spacing="1px" color="#2c3d4f">
+          <a style="color:#2c3d4f;" href="http://coloradosun.com/account">YOUR ACCOUNT</a> &nbsp;&nbsp; <a style="color:#2c3d4f;" href="http://coloradosun.com/help">HELP & FAQ</a>
+        </mj-text>
+                        <mj-spacer height="12px" />
+      </mj-column>
+    </mj-section>

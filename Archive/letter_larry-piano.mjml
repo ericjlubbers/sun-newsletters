@@ -1,0 +1,36 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+<h1>We&#8217;re making it even easier for you to read and support The Colorado Sun</h1>
+    </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/08/Weather_HC_03.jpg?w=800" /><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Monsoonal clouds hang over Summit County on Aug. 17, 2022. (Hugh Carey, The Colorado Sun)</em></span></p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/Larry.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Larry Ryckman</strong><br /><a target="_blank"  href="https://coloradosun.com/author/larry-ryckman/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"><em><span style="font-size:12px;">Editor</span></em></a></td></tr></mj-table><mj-text>
+
+<p>Hello Colorado,</p>
+
+<p>It turns out that for many of you, those magic links weren&#8217;t all that magical.</p>
+
+<p>Since we started The Sun four years ago, we&#8217;ve been humbled by the support that our readers and members have shown — despite the struggles many of you reported having with parts of our website (the inconsistent &#8220;magic links&#8221; to log in, info boxes that won&#8217;t close, etc.)</p>
+
+<p>It&#8217;s clear that we&#8217;ve outgrown our technology. As more Coloradans choose The Colorado Sun to learn about what&#8217;s going on in our state, we&#8217;re investing in technology upgrades to make reading — and supporting — The Sun easier and more reliable for members and subscribers.</p>
+
+<p>At the end of the month, members will be able to log in (and stay logged in) to The Sun and have more control over their membership. Premium and Champion members will even be able to add an extra email address to share all of our premium newsletters with someone in your household. We&#8217;ll have more payment options, including Apple Pay, and easier ways to manage your newsletter subscriptions, renewal date, gift memberships and more.</p>
+
+<p>We&#8217;re also beefing up the rest of the website in ways that will help us tell even more innovative stories and continue pushing the envelope with the best news reading experience in Colorado.</p>
+
+<p>As journalists, we spent the first four years reporting our hearts out and wandering through the state to find those compelling stories you may not have realized existed. We&#8217;ve also ramped up our daily news operations to keep you up to date on the <a target="_blank"  href="https://coloradosun.com/category/news/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">important news</a> on any given day, and also learn about <a target="_blank"  href="https://coloradosun.com/2022/08/12/colorado-burro-racing/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">quirky local customs involving burros</a> and <a target="_blank"  href="https://coloradosun.com/2022/08/15/delta-county-solar-panels-dmea-guzman-sheep/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">local regulations involving sheep and solar panels</a>. We know you know because you are there for us. Thank you.</p>
+
+<p>Taking this step will move us into our fourth year of local news and help us continue building a sustainable model for local news. You may need to reset your password. You may need to rejoin if your membership has lapsed. But we&#8217;re also making sure it&#8217;s even easier to join, support and get informed by The Colorado Sun. We&#8217;re in this together,, Colorado.</p>
+
+<p>Stay tuned!</p>
+
+</mj-text><mj-table padding-top="0" margin-top="0"><tr><td style="padding:0px;font-size:14px;text-align:right;" width="33%"><strong>>></strong></a></td><td style="padding: 6px 6px;" width="24px"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/Larry.jpg?resize=48,48" /></td><td style="padding:0px;font-size:14px;"><a target="_blank"  target="_blank"  target="_blank"  href="https://coloradosun.com/author/larry-ryckman/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank" style="text-decoration:none;color:black;"/><span style="border-bottom:1px solid #fcd232;"><strong>Larry Ryckman</strong> <em>Editor</em></a></td></tr></mj-table>
+<mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

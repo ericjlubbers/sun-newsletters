@@ -1,0 +1,35 @@
+<mjml>
+<!--  HEADER -->
+  <mj-head>
+    <!--  IMPORT STYLES -->
+    <mj-include path="./temperature-styles.mjml" />
+    <!-- EMAIL PREVIEW TEXT -->
+     <mj-preview>
+*|MC_PREVIEW_TEXT|*
+</mj-preview>
+  </mj-head>
+<!--  END HEADER -->
+<!--  BODY -->
+  <!--  IMPORT LOGO -->
+  <mj-body>
+    <mj-section>
+      <mj-column background-color="#ffffff">
+         <mj-text align="center" padding="0" margin="0">
+          <a style="color:#6E6E6E;font-size:8px;font-weight:400;" href="*|ARCHIVE|*">READ THIS IN YOUR BROWSER</a>
+        </mj-text>
+         <mj-raw>*|IF:ARCHIVE_PAGE|*</mj-raw><mj-text>
+
+&nbsp;<div style="border: 4px double #fcd232;padding:1em;"><p>Hello! You're getting a free look at this brand-new newsletter from The Colorado Sun because like most of us, you care deeply about the health of Colorado and the people who live here.</p>
+
+<p><a target="_blank"  href="https://coloradosun.com/temperature">Click here to become a Colorado Sun member</a> to receive The Temperature and all of our other exclusive newsletters — while supporting independent, journalist-owned news in your backyard.</p></div>&nbsp;</mj-text>
+<mj-raw>*|END:IF|*</mj-raw>
+        <mj-raw>*|IF:ARCHIVE_PAGE|*</mj-raw><mj-text>
+
+&nbsp;<div style="border: 4px double #fcd232;padding:1em;"><p>Hello! You're getting a free look at this brand-new newsletter from The Colorado Sun because like most of us, you care deeply about the health of Colorado and the people who live here.</p>
+
+<p><a target="_blank"  href="https://coloradosun.com/temperature">Click here to become a Colorado Sun member</a> to receive The Temperature and all of our other exclusive newsletters — while supporting independent, journalist-owned news in your backyard.</p></div>&nbsp;</mj-text>
+<mj-raw>*|END:IF|*</mj-raw>
+        <mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/09/temp-logo-white-bg@2x.png?w=900" width="500px"></mj-image>
+        <mj-text font-size="12px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><a href="https://coloradosun.com/account">YOUR SUN ACCOUNT</a> | <a href="http://coloradosun.com/faq">HELP & FAQ</a> | <a href="mailto:tips@coloradosun.com">SEND US A TIP</a></mj-text>
+      </mj-column>
+    </mj-section>

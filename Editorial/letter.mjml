@@ -1,0 +1,28 @@
+<mj-include path="./letter-header-2.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+<h1><strong>Hey there Sun member, sorry for the extra emails!</strong></h1>
+
+<p><em>We only want to send you the news you help support, but technology sometimes has other plans</em></p>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/07/Sorry.png?w=800" /><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em> </em></span></p>
+
+<p>Good morning, Sun members! You may have received a message earlier today telling you all about our <a target="_blank"  href="https://mailchi.mp/coloradosun/a-glimpse-into-the-future-how-the-colorado-sun-gives-back">Rise &amp; Shine</a> project. And while we&#8217;re always happy to be sharing the work that your membership supports, <strong>that email included some requests to become a member that were not intended for your inbox</strong>.</p>
+
+<p>We&#8217;re seeing hiccups like this happening with our email provider, but we&#8217;re doubling down to get these new wrinkles ironed out so that The Colorado Sun only shows up in your inbox to share the news you&#8217;ve paid to support.</p>
+
+    <p>For those who sent a question to tech support about their membership status, we are responding as quickly as we can, but it could take a few days. We are taking the time to confirm each membership before answering, but in the meantime you can always head to <a target="_blank"  href="https://coloradosun.com/account">coloradosun.com/account</a> to see the status of your membership.</p>
+
+<p>Believe me, no one takes it harder when this kind of thing happens than our hard-working staff. Being journalists, we don&#8217;t like making mistakes. But one of the best ways to judge whether a news organization is worth its salt is how it responds when it does make a mistake. And I hope that this apology can make up for the extra clutter.</p>
+
+<p>Thanks to all of you who kindly reached out about this already. There&#8217;s no need to reply to this message, we just wanted to get out ahead of this. Thanks for supporting The Colorado Sun (and the humans behind it)!</p>
+
+</mj-text><mj-table padding-top="0" margin-top="0"><tr><td style="padding:0px;font-size:14px;text-align:right;" width="33%"><strong>>></strong></a></td><td style="padding: 6px 6px;" width="24px"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/07/eric-ig-portrait-square.jpg?resize=48,48" /></td><td style="padding:0px;font-size:14px;"><a target="_blank"  target="_blank"  target="_blank"  href="https://coloradosun.com/author/eric-lubbers/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank" style="text-decoration:none;color:black;"/><span style="border-bottom:1px solid #fcd232;"><strong>Eric Lubbers</strong> <em>CTO & Newsletter Wrangler</em></a></td></tr></mj-table>
+<mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

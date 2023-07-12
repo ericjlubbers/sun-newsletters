@@ -1,0 +1,22 @@
+<mj-include path="./letter-header-2.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT -->
+<mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/07/OUTSIDER_STICKER_CUBE-3.png?w=800" href="https://store.coloradosun.com/discount/IMANOUTSIDER2022?redirect=%2Fproducts%2Fcopy-of-i-follow-the-sun-sticker-pack" target="_blank"/><mj-text>&nbsp;
+
+<h1>Your membership is activated. Here&#8217;s how to get your Outsider stickers!</h1>
+
+<p>Thank you so much for supporting independent local news with your membership. You&#8217;ll get your first Outsider newsletter soon, but in the meantime, you need your stickers!</p>
+
+</mj-text><mj-button href="https://store.coloradosun.com/discount/IMANOUTSIDER2022?redirect=%2Fproducts%2Fcopy-of-i-follow-the-sun-sticker-pack" target="_blank">Click here to complete your order</mj-button><mj-text>
+
+<p>(Note: That button should automatically apply the discount at checkout, but if that doesn&#8217;t work for any reason, use the promo code <strong>IMANOUTSIDER2022</strong>.)</p>
+
+<p>Let us know at support@coloradosun.com if you have any issues or questions about your membership!</p>
+
+<p>Happy trails!</p>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

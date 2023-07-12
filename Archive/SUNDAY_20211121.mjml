@@ -1,0 +1,166 @@
+<mj-include path="./sunday-header.mjml" />
+<!--  BODY -->
+<mj-body>
+<mj-section>
+<mj-column>
+
+<!-- BEGIN CONTENT -->
+
+<!-- COVER -->
+</mj-text><mj-image href="*|ARCHIVE_LINK|*" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/colorado_sunday_005_cover.jpg?w=1200"/>
+<mj-text font-size="10px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><p style="color:#6E6E6E;font-size:10px;font-weight:400;"><a target="_blank"  target="_blank" href="*|ARCHIVE_LINK|*" target="_blank">CLICK TO READ IN YOUR BROWSER</a></p></mj-text>
+<mj-divider />
+<!-- END COVER --><mj-text>
+
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">I</span>&#8217;m slowly being reintroduced to my pre-pandemic life, accepting invitations to the types of events I went to all the time before the coronavirus made society sick.</p>
+
+<p>The big outing this week was to the Gio Ponti-designed building at the Denver Art Museum, renovated and renamed, and the collections rehung to better place art in context. One of the big changes there was completion of the 7th floor as a home for the (really fantastic) Western art collection and a place to catch expansive views from new decks and slivers of the city through peek-a-boo windows that I barely remember from the before time.</p>
+
+<p>It was glorious to watch the sun begin to lean toward the foothills, shining a slow-moving beam of light over Table Mountain to the west as the afternoon shade settled on the low-slung neighborhoods at the feet of the museum.</p>
+
+<p>Not so glorious? The illumination of the afternoon haze low on the horizon. The more things change, the more they stay the same. But as we learn from the reporting of <strong>Michael Booth </strong>and <strong>Kevin Simpson</strong> today, the Colorado Department of Transportation is stepping up to help make a dent in the pollution caused by motor vehicles. Wait. What?</p>
+
+<!-- BYLINE -->
+</mj-text>
+<mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2019/07/DANAMUGKS.jpg?resize=424,424"/></td>
+<td style="padding: 6px;"><strong>Dana Coffield</strong><br /><em><span style="font-size:12px;">Senior Editor & Sun co-founder</span></em></td></tr></mj-table><mj-text>&nbsp;</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/Report-for-America-cube-1.png" width="300px" href="https://cosun.co/cosunday-rfa-november-2021" target="_blank" padding="0px 0px 8px" /><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> SHARE A MESSAGE & SUPPORT LOCAL JOURNALISM.<BR /><a href="https://coloradosun.com/underwriting/">BECOME AN UNDERWRITER</a>.</mj-text><mj-text>
+&nbsp;
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">The Cover Story</h2></td></tr></mj-table><mj-text>
+
+</mj-text><mj-image href="https://coloradosun.com/2021/11/21/climate-conscious-cdot/" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/CDOTGJ_HC_02.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Construction on 24 Road in Grand Junction on Nov. 2, 2021. (Hugh Carey, The Colorado Sun)</p></mj-text><mj-text>
+
+<h2><strong>&gt;&gt; What is VMT and how will it change how we&#8217;ll drive?</strong></h2>
+
+<p>The state agency that&#8217;s poured roadways for automobiles for 100 years is laying a new path to becoming a climate warrior for Colorado.</p>
+
+<p>And if conservation groups get their way, you&#8217;re going to hear a lot more about your vehicle miles traveled, or VMT, in coming years and how your government needs you to cut back.</p>
+
+<p>If business and employer groups get their way, VMT will remain an obscure topic for sleepy regional council retreats, and not the primary measure of whether Colorado has trimmed greenhouse gases.</p>
+
+<p>VMT is what it sounds like: How many miles did all the vehicles on Colorado&#8217;s roads drive on a given day, or in a given year? When nearly all those vehicles are powered by fossil fuels, more people and more miles mean more greenhouse gas emissions.</p>
+
+<p>Conservation groups don&#8217;t want to see massive new interstate lanes or state highway interchanges until planners can prove they will cut VMT. This can be done by adding transit lanes and funding a big bus network, for example. Or by requiring county planners to plot offices and homes and grocery stores within walking distance of each other.</p>
+
+<p>State government tried a modest effort to get big employers to start contributing to VMT cuts over the summer. The Air Quality Control Commission wanted employers of 100 people or more to survey how their workers got to the job and where they drove for work, then start cutting back from that number by encouraging carpooling, offering bus passes or letting people work from home. Business groups attacked the plan as a bureaucratic and logistical nightmare, and celebrated when state air pollution staff withdrew the idea.</p>
+
+<p>The Colorado Energy Office, meanwhile, hopes much of the challenge can be accomplished by electrifying everything. VMT doesn&#8217;t matter so much if the vehicles are powered by cleanly generated electricity or hydrogen. So, the energy office says, focus on trading fossil fuel trucks and cars for electric, and build the charging network to support them. Call it Clean VMT.</p>
+
+<p>Exactly how big a problem are we talking about? <a target="_blank"  href="https://drcog.org/sites/default/files/resources/2019_annual_congestion_report.pdf">Metro Denver drivers tallied 84.3 million miles a day before the pandemic</a>. Two million more people will likely live in Colorado by 2040, most of them driving in metro Denver. And transportation emissions make up one of the largest — and so far untouched — sectors of greenhouse gases.</p>
+
+  <p>Read on to learn how the Colorado Department of Transportation is remaking itself to help the state reach the ambitious goal of cutting emissions by 26%.</p><p>&gt;&gt; <strong>Can a climate-conscious CDOT build new roads and cut greenhouse gases at the same time? </strong>&gt;&gt; <strong><a href="https://coloradosun.com/2021/11/21/climate-conscious-cdot/" target="_blank">STORY</a></strong></p>
+
+  </mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Michael Booth</strong> | <em><span style="font-size:12px;">Environmental Reporter</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/01/Screen-Shot-2021-09-15-at-9.37.17-PM.png?resize=424,424" /></td></tr></mj-table><mj-text></p></mj-text>
+<mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/GBC_Herbal_Honey_Banner.jpeg" width="300px" href="https://cosun.co/sunriser-goodbusinesshoney-nov-2021" target="_blank" padding="0px 0px 8px" /><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> SHARE A MESSAGE & SUPPORT LOCAL JOURNALISM.<BR /><a href="https://coloradosun.com/underwriting/">BECOME AN UNDERWRITER</a></p>&nbsp;
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">FOMO Colorado</h2></td></tr></mj-table><mj-text>
+<p>No matter the type, FOMO (Fear of Missing Out) can get a bad rap — so we&#8217;ve curated our own visual feed to catch you up. Here are a few of our favorite snippets of everyday places, people, and moments from around every corner of Colorado this week.</p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Olivia Sun</strong> | <em><span style="font-size:12px;">Staff Photographer</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/04/Olivia-Sun.jpg?resize=424,424" /></td></tr></mj-table><mj-text></p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/ferrets-sunday-2.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">U.S. Parks and Wildlife officers look for prairie dog burrows in which to release captive-bred black-footed ferrets on Nov. 17 near Lamar. Black-footed ferrets were assumed to be extinct until 1981 when a dog discovered one in Wyoming. Ten male and five female ferrets were released at May Ranch. (Olivia Sun, The Colorado Sun)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/110821Nucla_027.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Nucla resident and miner Roger Carver stands at the boundary of a surface coal mine shut down and under reclamation near Nucla on Nov. 12. (William Woody, Special to The Colorado Sun)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/ent-face.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">A one-eyed Ent does not look happy to have lost its leaves in Lakewood on Nov. 14. (Eric Lubbers, The Colorado Sun)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/cushinbery-coalition-homeless-os-1.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Maurice Cushinberry poses for a portrait on Nov. 15 at his home in Aurora. Cushinberry did not have a home for nearly three years but found long-term housing through Denver&#8217;s social impact bond program. (Olivia Sun, The Colorado Sun)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/MaroonBells_HC_01.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">The Maroon Bells near Aspen, photographed on Nov. 13. (Hugh Carey, The Colorado Sun)</p></mj-text>
+
+  <mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"><p>&nbsp;</p>UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/COGivesDay2021-300x250-1.jpg" width="300px" href="https://lede-admin.coloradosun.com/wp-admin/post-new.php" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;</mj-text>
+<!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">Flavor of the Week</h2></td></tr></mj-table><mj-text>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/IMG_7789-rotated.jpeg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Bargoers walk into Bread Bar in Silver Plume on Nov. 13. The bar quickly became standing room only as musicians played late into the night. (Provided by Stephanie Snyder)</p></mj-text><mj-text>
+
+<p>There&#8217;s something strange about Silver Plume.</p>
+
+<p>It&#8217;s practically a ghost town. It&#8217;s estimated that fewer than 200 people lived there in 2019. You may be more familiar with its neighbor Georgetown, one exit over on I-70.</p>
+
+<p>Walking down Main Street, it feels like you&#8217;re about to run into the spirits of past silver miners. Old Western buildings still line the streets, housing the post office and town hall, as well as some folks&#8217; homes. Passersby can still coax a note or two from the out-of-tune piano out on the sidewalk.</p>
+
+<p>But if you go on the right night, especially on a chilly one, and walk down that same street, you&#8217;ll find a particularly special building at the end of the road. Light will be spilling out of it, competing only against a flickering street lamp and the stars. Expansive windows will have become fogged with the condensation of all the bodies inside. And the loud noises of eager drinkers and heartbroken singers will welcome you in.</p>
+
+<p>The building was a bakery in the 1800s. Now, it&#8217;s a bar that still declares &#8220;Bread&#8221; on its outside wall. It&#8217;s well named: <a target="_blank"  href="https://www.instagram.com/lillian.music/?hl=en">Bread Bar.</a> They understand the magic of simplicity — or perhaps it&#8217;s the magic of honesty. You&#8217;ll have to debate that with the friend you&#8217;re drinking with or with the person sitting next to you or with the musician as they grab a capo for their next song. Because whether it&#8217;s that or another topic, you&#8217;ll find yourself chatting with all three.</p>
+
+<p>This past weekend it was standing room only, I was stumbling over feet and dogs just to get in line for the bar. A guitarist, <a target="_blank"  href="https://www.instagram.com/lillian.music/?hl=en">Lillian</a>, had just started her set and reminded people to whisper so others could hear her sing. The cocktails were stiff and delicious. And there was a beer fridge for those who preferred a trusty Coors Banquet.</p>
+
+<p>You&#8217;ll stay longer than you expect — and that&#8217;s a good thing, because you might get lucky and be there when the bartenders are willing to keep the place open past close so the musicians can play more. And when you do eventually leave, you&#8217;ll find yourself with a buzz. But whether that&#8217;s from those stiff drinks or something else — something more innate to the place — will be unclear. I wish I could explain more, but I&#8217;m afraid I can&#8217;t. What can I say: It&#8217;s a mysterious place.</p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Danika Worthington</strong> | <em><span style="font-size:12px;">Presentation Editor</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/danikaworthington.jpeg?resize=424,424" /></td></tr></mj-table><mj-text></p>
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">SunLit: Sneak Peek</h2></td></tr></mj-table><mj-text>
+
+<h2><strong>In an essay from "Slow Arrow," a look to the heavens for beauty and meaning</strong></h2>
+
+</mj-text><mj-image href="https://coloradosun.com/2021/11/21/sunlit-slow-arrow-kathryn-winograd/" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/SlowArrowBookCover.jpeg?w=1200" padding="0px 0px 0px 0px" width="300px"/><mj-text>
+
+<!-- Blockquote -->
+<blockquote>&#8220;Sometimes, Leonard wakes me at two in the morning to watch the gibbous moon swallowed by Grouse Mountain. On winter nights, moonrise starts left of the butcher&#8217;s abandoned camper trailer where once our retired neighbor, vanished now, wiggled his ten blocky fingers at me and said, &#8216;Thirty years, and not a one lost.&#8217;&#8221;<br /><br /><span class="source">— From the essay &#8220;Skyglow&#8221;</span></blockquote>
+
+<p><strong>EXCERPT:</strong> This opening paragraph from one of the last pieces in <strong>Kathryn Winograd&#8217;s</strong> collection <strong>&#8220;Slow Arrow: Unearthing the Frail Children&#8221;</strong> sets the mood for a poetic examination — though it&#8217;s not poetry, strictly speaking — of the night sky that both illuminates its mythic and scientific background and embraces it as a vehicle to explore the meaning of truth, beauty and family bonds. Winograd, whose volume was a Colorado Authors League award finalist, winds the reader through the celestial views from her family cabin in the Colorado mountains to her mother&#8217;s Denver apartment as she sets forth a poignant and beautiful discourse on light — and so much more.</p>
+
+<p>&gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/11/21/sunlit-slow-arrow-kathryn-winograd/?pico=clean"><strong>Read the entire SunLit excerpt.</strong></a></p>
+
+<p><strong>THE SUNLIT INTERVIEW: </strong>When author and poet <strong>Kathryn Winograd</strong> talks about getting &#8220;a dope-slap from the universe,&#8221; she&#8217;s off and running with the story behind a collection of essays that draw heavily on her relationship with her mother, who moved to Denver from Ohio. As the two began a routine that took them all across the Colorado landscape, Winograd began writing essays that combine the unmistakable influence of her background in poetry with elements gleaned from the readings of a writer of creative nonfiction — the aforementioned &#8220;dope-slap.&#8221; Here&#8217;s a bit of the interview:</p>
+
+<p><strong>Place this excerpt in context. How does it fit into the book as a whole? Why did you select it?</strong></p>
+
+<p>&#8220;Skyglow&#8221; is one of the last essays in &#8220;Slow Arrow: Unearthing the Frail Children.&#8221;<em> </em>I wrote the essay after my mom had settled into Denver and we had started a companionable routine together. My mother was rapidly losing her sight at this point, and, at the same time, my husband and I were thick into our summer observation of the stars up at the cabin.</p>
+
+<p>I had read statistics before on how few people in the world have the opportunity to see even the Milky Way at night. I began to see connections between that night blindness and my mother&#8217;s blindness. And then I asked my mother if she remembered a poem by <strong>John Keats</strong> about stars.</p>
+
+<p>My mother, who had never shared with me her love for poetry, literally leapt up from her chair, sped to a tiny bookcase that housed the last of her books, and handed me &#8220;A Little Treasury of Poetry,&#8221; inscribed by her mother, my grandmother. Bookmarked and annotated years ago was Keats&#8217; poem, &#8220;Bright Star.&#8221; Thus began &#8220;Skyglow.&#8221;</p>
+
+<p>&gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/11/21/sunlit-kathryn-winograd-slow-arrow/?pico=clean"><strong>Read the entire interview with author Kathryn Winograd</strong></a><strong>.</strong></p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Kevin Simpson</strong> | <em><span style="font-size:12px;">Writer</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/IMG_0426.jpg?resize=424,424" /></td></tr></mj-table><mj-text></p>
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">Sunday Reading List</h2></td></tr></mj-table><mj-text>
+
+<p><em>A curated list of what you may have missed from The Colorado Sun this week.</em></p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/BOXING-JL493.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Dennis Wanebo works on balance with physical therapist Kristen Kirby at The Corner Boxing Club in Boulder, where non-contact boxing is used as therapy for Parkinson's patients. (John Leyba, Special to the Colorado Sun)</p></mj-text><mj-text>
+
+<p>🌞 It took months for <strong>Jennifer Brown</strong> and <strong>Olivia Prentzel </strong>to get their hands on data that proved what many people in Boulder County knew from their lived experiences: Lots of people, many of them in high school and college, are dying from accidental overdoses of fentanyl. Their three-part series explores how counterfeit prescription medications, laced with deadly amounts of the powerful synthetic opioid, are winding their way through social networks, how some worried parents are taking action where the local health department will not, and how hard it is for prosecutors to prove that selling the pills that led to these deaths is murder. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/11/15/fentanyl-overdose-boulder-colorado/?pico=clean"><strong>STORY</strong></a></p>
+
+<p>🌞 <strong>David Gilbert</strong> took on a similarly complex topic, reporting for months this summer on people who said they had been sexually assaulted when they were students at the <strong>Colorado Center for the Blind</strong> in Littleton and that when they reported their experiences to the school, were discouraged from making reports to police. Legal experts say the allegations could open the training center to a patterns and practices investigation by the feds. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/11/18/colorado-center-for-the-blind-sex-assaults/?pico=clean"><strong>STORY</strong></a></p>
+
+<p>🌞 How easy is it to sell your house in Colorado? As simple as asking companies such as <strong>Zillow</strong> and <strong>OpenDoor</strong> to make an offer. That&#8217;s how troubled Zillow ended up owning more than 500 homes in the overheated Front Range market. The company now is trying to unload them, often at prices well below what it paid just weeks before. <strong>Jason Blevins </strong>looked at all those listings to learn whether Zillow&#8217;s fire sale is influencing prices today. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/11/15/zillow-offers-colorado-homes-front-range/?pico=clean"><strong>STORY</strong></a></p>
+
+<p>🌞 Remember how <strong>Green Bay Packers</strong> quarterback <strong>Aaron Rodgers</strong> didn&#8217;t want to get vaccinated against COVID and then got COVID and wanted to be treated with a monoclonal antibody therapy developed using the exact same science used to develop the vaccine? <strong>John Ingold</strong> talked to public health experts in Colorado who say they&#8217;re counting on precisely that attitude to keep the unvaccinated who get sick out of the hospital. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/11/18/covid-vaccine-hesitancy-monoclonal-antibodies/?pico=clean"><strong>STORY</strong></a></p>
+
+<p>🌞 Night flying is a rarely used tool in wildland fire fighting. But it&#8217;s easy to understand why, barely a year after the huge East Troublesome and Cameron Peak fires threatened Estes Park, Larimer County&#8217;s sheriff hired an experienced tanker pilot — with more than 1,000 hours of flying using night-vision goggles — to attack the Kruger Rock fire just south of town. <strong>Olivia Prentzel </strong>explains the conditions over the fire that led that pilot, <strong>Mark Thor Olson</strong>, to crash. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/11/17/pilot-kruger-rock-fire/?pico=clean"><strong>STORY</strong></a></p>
+
+<p>🌞 The battle against the progression of Parkinson&#8217;s disease is often described as a fight. It gets literal, though, at a boxing gym in Boulder where <strong>Kevin Simpson</strong> found people getting relief from their symptoms by mastering non-contact training in the sweet science. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/11/18/parkinson-disease-boxing-therapy/?pico=clean"><strong>STORY</strong></a></p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Dana Coffield</strong></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2019/07/DANAMUGKS.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+
+<p>Thanks for joining us today and for supporting us with a membership or by sharing our stories with your friends and families. If you have a pal who&#8217;d like to get home (email) delivery of Colorado Sunday, have them head over to <a target="_blank"  href="https://coloradosun.us18.list-manage.com/track/click?u=fcc98a341cd4bf4bb00f0fe3d&amp;id=f182666ff5&amp;e=6854d7ff81"><strong>coloradosun.com/sunday</strong></a> and sign up. We promise to have it in their (virtual) driveway by 7 a.m. every week.</p>
+
+<p><em>— Dana &amp; the whole staff of The Sun</em></p>
+<!-- FOOTER -->
+</mj-text>
+</mj-column>
+</mj-section>
+<mj-include path="./sunday-footer.mjml"/>

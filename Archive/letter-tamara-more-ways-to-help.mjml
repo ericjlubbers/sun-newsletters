@@ -1,0 +1,31 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/02/unaffiliated-logo-paint.png?w=800" href="https://pico.link/thecoloradosun?short_code=unaffiliated" /><mj-text>
+
+<p>Dear Unaffiliated reader,</p>
+
+<p>We hope you&#8217;ve been enjoying access to our twice-a-week newsletter pulling back the curtain on Colorado politics and policy. We&#8217;ve been working hard to provide you with scoops and analysis that you can&#8217;t find anywhere else.</p>
+
+<p>Our records show, however, that you are either not a Colorado Sun Premium member or that your membership has lapsed.</p>
+
+<p><strong>To ensure that you continue receiving The Unaffiliated</strong>, please activate, upgrade or reinstate your Colorado Sun membership at <a target="_blank"  href="https://pico.link/thecoloradosun?short_code=unaffiliated">this link</a>.</p>
+
+<p><strong>Again, you must be a Premium member to continue receiving The Unaffiliated.</strong></p>
+
+<p>If you have questions about your membership or need help with your account, please contact me directly at <a target="_blank"  href="mailto:jesse@coloradosun.com">jesse@coloradosun.com</a>. You can also call me at 720-432-2229.</p>
+
+<p>Thanks so much for your support and we look forward to seeing you next edition!</p>
+
+<p>Best,</p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/jesse.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Jesse Paul</strong><br /><a target="_blank"  href="https://coloradosun.com/author/jesse-paul/?pico=clean" target="_blank"><em><span style="font-size:12px;">Author of The Unaffiliated & Politics editor/reporter</span></em></a></td></tr></mj-table><mj-text>
+
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

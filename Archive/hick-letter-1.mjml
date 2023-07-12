@@ -1,0 +1,36 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Stay in the loop! Become a member!</mj-button><mj-text>
+
+<h1><strong>The only thing predictable about Colorado is unpredictability</strong></h1>
+
+<p><em>Investing in news you can trust can help you and your family weather the storms (sometimes quite literally!).</em></p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/07/eric-ig-portrait-square.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Eric Lubbers</strong><br /><a target="_blank"  href="https://coloradosun.com/author/eric-lubbers/?pico=clean" target="_blank"><em><span style="font-size:12px;">CTO & Newsletter Wrangler</span></em></a></td></tr></mj-table>
+<mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/05/sunsnow.jpg?w=800" href="https://pico.link/thecoloradosun/offer?id=CheckoutWizard_thecoloradosun&amp;short_code=gvbdp42v" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>The many moods of Colorado weather. (Photos by Dean Krakel, Special to The Colorado Sun)</em></span></p>
+
+&nbsp;<hr />&nbsp;
+
+<blockquote class="wp-block-quote" style="width:90%;max-width:500px;border-left: 4px double #fcd232;padding: 0px 10px;padding: 0px 10px;margin-left:0;"><span style="font-size:1.2em;line-height:1.3em;font-family:Georgia,serif;font-weight:bold;">If you don&#8217;t like the weather, just wait five minutes.</span><br><br><span style="font-size:1em;"><em>— Old Colorado proverb</em></span></blockquote>
+&nbsp;
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">N</span>ow I know that just about everywhere has a version of that old saying, but lately in Colorado it hasn&#8217;t been much of an exaggeration. And it&#8217;s not just the weather that is zigging and zagging these days!</p>
+
+<p>The economy, politics, inflation, wildfires, climate change, COVID and just about every other part of life in Colorado are shifting and changing on a daily basis — and we get it, it can be disorienting trying to keep up with it all.</p>
+
+<p>And that&#8217;s why now is the time to invest in a local news source you can trust. The whole reason my colleagues and I started The Colorado Sun was to give Coloradans like you an independent, verified source for the information you need to stay on top of this rapidly changing world.</p>
+
+<p>For as little as $5 a month, you can cut through the chaos of news and get just the good stuff — all reported, fact-checked and delivered by real Colorado journalists.</p>
+
+<p>Click the button below to get started on your journey to better understanding our wild state.</p>
+
+</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Become a member!</mj-button><mj-text>
+
+</mj-text><mj-table padding-top="0" margin-top="0"><tr><td style="padding:0px;font-size:14px;text-align:right;" width="33%"><strong>>></strong></a></td><td style="padding: 6px 6px;" width="24px"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/07/eric-ig-portrait-square.jpg?resize=48,48" /></td><td style="padding:0px;font-size:14px;"><a target="_blank"  target="_blank"  target="_blank"  href="https://coloradosun.com/author/eric-lubbers/?pico=clean" target="_blank" style="text-decoration:none;color:black;"/><span style="border-bottom:1px solid #fcd232;"><strong>Eric Lubbers</strong> <em>CTO & Newsletter Wrangler</em></a></td></tr></mj-table>
+<mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

@@ -1,0 +1,25 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT -->
+<mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/04/reader-survey-social.jpg?w=800" href="https://5i0sa98mh8r.typeform.com/sun2022survey" target="_blank"/><mj-text>&nbsp;
+
+<h1>It&#8217;s the last day to enter!</h1>
+    <p><strong>The clock is ticking!</strong> The 2022 Colorado Sun Reader Survey closes at midnight! The Colorado Sun values your opinion as one of our valued readers.
+</p>
+<p>By participating in the 2022 Readership Survey, will ensure the Colorado Sun to continue to grow and produce the quality journalism you deserve.</p>
+    </mj-text><mj-button href="https://5i0sa98mh8r.typeform.com/sun2022survey" target="_blank">Take the survey!</mj-button><mj-text>
+
+
+<p>Your information will remain confidential and will not be sold.</p>
+
+<p>The survey closes TODAY!</p>
+
+<p>This year, we&#8217;re giving away three Visa gift cards, valued at $50, $75 and $100 to three random people who fill out the survey!</p>
+
+<p>Got any questions about the survey or your Sun membership? Send us a note at support@coloradosun.com.</p>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

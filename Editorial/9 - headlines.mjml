@@ -1,0 +1,47 @@
+<mj-include path="./headlines-header-test.mjml" /> <mj-section> <mj-column> <mj-image mj-class="biglogo" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2020/03/Sun-Wide-Italic-Background-Black-4000px.png" href="http://coloradosun.com" css-class="shadow" padding="10px 0px 0px 0px" /> <mj-text padding="0px 0px" align="center"> <h1 style="padding:0px;margin:8px 0px;" class="headline">The Headlines</h1> </mj-text> <mj-text font-size="12px" align="center" padding="0px 0px 8px 0px"><em>THE LATEST NEWS FEED FOR <span style="background-color:#fcd232;">*|DATE:l, F j, Y|*</span></em></mj-text> <mj-text font-size="10px" align="center" padding="0px 0px 0px 0px"><a href="https://coloradosun.com/account">YOUR ACCOUNT</a> | <a href="http://coloradosun.com/faq">HELP & FAQ</a> | <a href="mailto:tips@coloradosun.com">SEND US A TIP</a><br />&nbsp;</mj-text></mj-column> </mj-section> <mj-section> <mj-column>  
+<!--  AD BLOCK -->
+<mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/08/Lucibela-CO-Sun-8_2022-1.png" href="https://cosun.co/3cfucGw" width="300px" padding="0px 0px 8px" />
+<!-- END AD BLOCK -->
+  <mj-text><hr /><h2 style="font-weight:bold;font-family:Georgia,serif;text-align:center;"><span style="background-color:#fcd232;padding:6px;">The News</span></h2>*|RSSITEMS:|*
+  
+ <!-- <h4 style="background-color:#003D5A;color:#ffffff;padding:.3em;font-size:12px;text-transform:uppercase;">*|RSSITEM:AUTHOR|*</h4> -->
+<h3><a style="text-decoration:none;" href="*|RSSITEM:URL|*">*|RSSITEM:TITLE|*</a></h3>
+  <p style="font-family:'Libre Franklin',sans-serif;font-size:14px;">*|RSSITEM:CONTENT|* <span>>> <a style="font-weight:bold;" href="*|RSSITEM:URL|*" target="_blank">READ MORE</a></span></p> </mj-text> <mj-text> <hr /> <mj-raw>*|END:RSSITEMS|*</mj-raw> </mj-text>
+</mj-column></mj-section>
+
+
+<mj-section padding="0 6px 0 6px"><mj-column padding="0 6px 0 6px">
+<!--  AD BLOCK -->
+<mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/08/Colorado-Sun-02.png" href="https://cosun.co/3waD5YN" width="300px" padding="0px 0px 8px" />
+<!-- END AD BLOCK --></mj-column><mj-column  padding="0 6px 0 6px">
+<!--  AD BLOCK -->
+<mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/06/CrawfordRow_NowSelling_300x250-1.jpg" href="https://cosun.co/3QO91e4" width="300px" padding="0px 0px 8px" />
+<!-- END AD BLOCK -->
+</mj-column> </mj-section>
+
+<mj-section> <mj-column>  
+<!-- NEWS FEED BLOCK -->
+    <mj-text><hr /><h2 style="font-weight:bold;font-family:Georgia,serif;text-align:center;"><span style="background-color:#fcd232;padding:6px;">The Opinion Page</span></h2>
+      <p style="font-size:12px;"><em>The Colorado Sun is a nonpartisan news organization, and the opinions of columnists and editorial writers do not reflect the opinions of the newsroom.</em><a target="_blank"  href="http://coloradosun.com/ethics"><em> </em><em>Read our ethics policy for more on The Sun&#8217;s opinion policy</em></a><em> and submit columns, suggest writers or provide feedback at opinion@coloradosun.com.</em></p>
+
+      *|FEEDBLOCK:https://coloradosun.com/feed/?partner-feed=headlines-opinion-feed|*
+*|FEEDITEMS:|*
+  
+  
+ <!-- <h4 style="background-color:#003D5A;color:#ffffff;padding:.3em;font-size:12px;text-transform:uppercase;">*|RSSITEM:AUTHOR|*</h4> -->
+<h3><a style="text-decoration:none;" href="*|FEEDITEM:URL|*">*|FEEDITEM:TITLE|*</a></h3>
+  <p style="font-family:'Libre Franklin',sans-serif;font-size:14px;">*|FEEDITEM:CONTENT|* <span>>> <a style="font-weight:bold;" href="*|FEEDITEM:URL|*" target="_blank">READ MORE</a></span></p> </mj-text> <mj-text> <hr /> <mj-raw>*|END:FEEDITEMS|**|END:FEEDBLOCK|*</mj-raw> </mj-text>
+</mj-column></mj-section>
+
+
+<mj-section padding="0 6px 0 6px"><mj-column padding="0 6px 0 6px">
+<!--  AD BLOCK -->
+<mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/08/CWB_300x250_Male_GM.jpg" href="https://cosun.co/3PDAMp1" width="300px" padding="0px 0px 8px" />
+<!-- END AD BLOCK --></mj-column><mj-column  padding="0 6px 0 6px">
+<!--  AD BLOCK -->
+<mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/08/Phake-or-Phact-4-5.png" href="https://cosun.co/3dWJRv5" width="300px" padding="0px 0px 8px" />
+<!-- END AD BLOCK -->
+</mj-column> </mj-section>
+
+
+<mj-section> <mj-column background-color="#ffffff"> <mj-text align="center"> <p>*|IFNOT:MEMB_TYPE|*</p> <h2>Our news is free to read, but not free to report.</h2> <p><span class="highlight"><strong>Help us keep an independent eye on Colorado.</strong></span> Memberships start at just $5/month with perks and rewards &mdash; including exclusive newsletters &mdash; at higher levels. Just click the button below to get started!</p> </mj-text> <mj-button href="http://coloradosun.com/join"> Support journalism. Become a member. </mj-button><mj-text>*|ELSE:|*<h2>Thank you for supporting local journalism!</h2> <p>Members like you are how The Sun keeps shining!</p> <p>*|END:IF|*</p></mj-text> </mj-column> </mj-section> <!--  IMPORT FOOTER --> </mj-text> </mj-column> </mj-section> <mj-include path="./footer-slim.mjml" /> </mj-body> </mjml>

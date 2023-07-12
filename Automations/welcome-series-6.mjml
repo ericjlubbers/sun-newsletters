@@ -1,0 +1,36 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=upgrade" target="_blank">Become a Member!</mj-button><mj-text>
+
+<h4 style="font-family:'Libre Franklin',Arial,sans-serif;color:#5DA5DA
+;text-align:center;">WELCOME TO THE SUN (6 of 6)</h4>
+<hr />&nbsp;
+
+<h1>The next steps for your Colorado Sun membership</h1>
+
+<p><em>Your welcome to The Sun is over, but here&#8217;s a refresher on what we&#8217;ve learned and what&#8217;s next.</em></p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/ferret-release-os-12.jpg?w=800" href="https://pico.link/thecoloradosun?short_code=upgrade" target="_blank"/><mj-text><p style="font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>A black-footed ferret looks out from a prairie dog burrow after its release. (Olivia Sun, The Colorado Sun via Report for America)</em></span></p>
+
+&nbsp;<hr />&nbsp;
+
+<p>Thanks for sticking around through the end of The Sun&#8217;s welcome series. Now that we&#8217;re three weeks into sharing what else you need to know about the Sun, we&#8217;re about to set you free, with only periodic non-news updates.</p>
+
+<p>What? You need a refresher? Here you go:</p>
+
+<ol><li>Login — no password needed, though you can set one if you'd like — to our site to adjust your settings. Just press the &#8220;login&#8221; link at the top right or push the Sun logo in the bottom right of our site. If you&#8217;re not logged in, request &#8220;a magic link&#8221; and we&#8217;ll email you a link to get you logged in.</li><li>Pick your newsletters by pressing &#8220;Manage newsletters&#8221; or find out more on <a target="_blank"  href="https://coloradosun.zendesk.com/hc/en-us/articles/360058798754-How-to-manage-The-Sun-s-newsletters"><strong>our FAQs</strong></a>.</li><li>Follow us on <a target="_blank"  href="https://twitter.com/ColoradoSun">Twitter</a>, <a target="_blank"  href="https://www.facebook.com/TheColoradoSun/">Facebook</a> or <a target="_blank"  href="http://instagram.com/thecoloradosun">Instagram</a> to get up-to-the-moment updates or converse with other Coloradans about Sun stories.</li><li>Check out our daily podcast on <a target="_blank"  href="https://podcasts.apple.com/us/podcast/the-daily-sun-up/id1529487340">Apple Podcasts</a>, <a target="_blank"  href="https://open.spotify.com/show/5fBT1pSZB0ndSRmxbNNpaG?si=e96d547656a3427a">Spotify</a> or <a target="_blank"  href="https://coloradosun.com/podcast/?pico=clean">our website</a>.</li><li>We also <a target="_blank"  href="https://store.coloradosun.com/">have a store</a> with recently redesigned T-shirts. All profits go back into The Sun&#8217;s journalism.</li><li>We&#8217;re a <a target="_blank"  href="https://coloradosun.com/annualreport/?pico=clean">public benefit corporation</a> incorporated with a mission to provide quality journalism to all Coloradans. We don&#8217;t want money to be an issue. That&#8217;s why our daily newsletters and stories are free for anyone to access.</li><li>Your financial support makes this all possible. Revenue from memberships has already helped us expand our staff and cover a wider range of topics, from climate and equity to agriculture and rural economies.</li><li>Become a basic, basic+ or premium member by visiting <a target="_blank"  href="https://coloradosun.com/welcome?pico=clean">coloradosun.com/welcome</a>.</li></ol>
+
+<p>We&#8217;re glad you&#8217;re here and reading and we hope you&#8217;ll join us as a member!</p>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=welcome" target="_blank">Become a member today!</mj-button><mj-text>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/07/Tamara6-2-1.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Tamara Chuang</strong><br /><a target="_blank"  href="https://coloradosun.com/author/tamara-chuang/?pico=clean" target="_blank"><em><span style="font-size:12px;">Business/Technology Reporter</span></em></a></td></tr></mj-table><mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

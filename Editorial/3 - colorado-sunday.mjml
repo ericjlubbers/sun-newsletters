@@ -1,0 +1,168 @@
+<mj-include path="./sunday-header.mjml" />
+<!--  BODY -->
+<mj-body>
+<mj-section>
+<mj-column>
+
+<!-- BEGIN CONTENT -->
+
+<mj-raw>*|IF:ARCHIVE_PAGE|*</mj-raw><mj-image padding="0px 24px;" href="https://coloradosun.com/sunday?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/12/coloradosunday_CTA_topper@1600x-80.jpg?w=1200"/><mj-raw>*|END:IF|*</mj-raw>
+<!-- COVER -->
+</mj-text><mj-image href="*|ARCHIVE_LINK|*" padding="0px 24px"src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/07/colorado_sunday_090_v5_cover.png?w=1200" />
+<mj-text font-size="10px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><p style="color:#6E6E6E;font-size:10px;font-weight:400;"><a target="_blank"  target="_blank" href="*|ARCHIVE_LINK|*" target="_blank">CLICK TO READ IN YOUR BROWSER</a></p></mj-text>
+<mj-divider />
+<!-- END COVER --><mj-text>
+
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">O</span>h happy Colorado Sunday, friends.</p>
+
+<p>The week was short, but filled with excitement only semi-related to the weather that is mostly unfamiliar for early July. We&#8217;ve had an outbreak of tiny toads at my house, and my driveway most nights is functioning as a snail superhighway (like real snails, with shells, plump enough to be plucked for escargot if I were <a target="_blank"  href="https://www.grit.com/farm-and-garden/how-to-make-escargot-ze0z1211zsch/">brave enough and had two weeks to spend working on an appetizer</a>.)</p>
+
+<p>The rain is to blame for all this novelty. I am a native Coloradan and by birthright have a perpetual understanding that we need the moisture. This year, there&#8217;s been so much moisture that drought has been stripped away and our wild and urban landscapes have been transformed. The greening is almost overwhelming and I know it won&#8217;t last.</p>
+
+<p><strong>Jennifer Brown</strong> and <strong>Hugh Carey </strong>experienced similar feelings late last month, when they made <a target="_blank"  href="https://coloradosun.com/2021/09/16/wild-horses-sand-wash-blm/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">a return trip to the Piceance Basin</a> to report this week&#8217;s cover story about how volunteers are working to make sure a herd of wild mustangs isn&#8217;t too large to thrive when summer conditions return to typical in northwest Colorado.</p>
+
+<!-- BYLINE --></mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" href="https://coloradosun.com/author/dana-coffield/" width="48px" height="48px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2019/07/DANAMUGKS.jpg?resize=96,96"/></td> <td style="padding: 6px;"><strong>Dana Coffield</strong><br /><em><span style="font-size:12px;">Senior Editor</span></em></td></tr></mj-table><mj-text>&nbsp;
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/06/breck-food-wine-300x250-1.jpg" width="300px" href="https://cosun.co/3N8LS6m" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">The Cover Story</h2></td></tr></mj-table><mj-text>
+
+<h2><strong>&gt;&gt; Are birth control darts the solution to Colorado&#8217;s wild horse fight?</strong></h2>
+
+</mj-text><mj-image href="https://coloradosun.com/2023/07/09/wild-horses-fertility-darts-colorado/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/06/HorseDart_HC_10.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Wild mare and her foal gallop across the fields of yellow clover near Meeker. (Hugh Carey, The Colorado Sun)</p></mj-text><mj-text>
+
+<p>In the Piceance, a geological basin rich in oil and natural gas reserves and ringed with rose-colored mesas, the land is lush. Red Indian paintbrush, blue lupine and yellow clover stand out among the sagebrush. The grass is tall and thick. And the wild horses that roam the rangeland are stout and healthy.</p>
+
+<p>This year.</p>
+
+<p>Next year, it could look like it did in 2021, when the ground crumbled to dust and the creeks dried up.</p>
+
+<p>This summer-by-summer fluctuation is part of the reason that mustang advocates, mustang volunteers and the federal regulators responsible for managing the land have argued for decades about what it can handle. Standing in the Piceance this summer, among the blooming cactuses, it&#8217;s easy to believe there&#8217;s plenty of food and water for the estimated 750 wild horses living there — enough even to share with the grazing cattle whose owners lease the land.</p>
+
+<p>But the Piceance, one of four wild horse management areas in Colorado, is supposed to have just 235 horses, according to the Bureau of Land Management. Getting to that number is expected to take another roundup and a larger investment in a fertility-control program that is now small and volunteer-based.</p>
+
+<p>Photographer <strong>Hugh Carey</strong> and I spent a day in the basin with two women trying their hardest to support a compromise in the wild horse population problem, and saw just how hard it is to get close enough to a wild mare to shoot it with a birth-control dart.</p>
+
+<p>They&#8217;re out there year after year, witnesses to the seasons full of wildflowers and rushing streams and the ones when the horses would die of thirst if they didn&#8217;t haul in water. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2023/07/09/wild-horses-fertility-darts-colorado/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><strong>STORY</strong></a></p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Jennifer Brown</strong> | <em><span style="font-size:12px;">Reporter</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/author/jennifer-brown/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2018/08/Jen.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/07/SunFest-Ad-3-300X250.png" width="300px" href="https://cosun.co/3WPiNAj" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">The Colorado Lens</h2></td></tr></mj-table><mj-text>
+
+<p>In case you missed it, we&#8217;ve curated our own visual feed of reporting to catch you up. Here are a few of our favorite snippets of everyday places, people and moments from every corner of Colorado lately.</p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Olivia Sun</strong> | <em><span style="font-size:12px;">Staff Photographer</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/author/olivia-sun/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/04/Olivia-Sun.jpg?resize=1366,1366?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/07/July4_HC_01.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Marshall Moore puts on his ski boots as other skiers ascend the summit of Peak 10 in the Tenmile Range on July 4 in Summit County. The Fourth of July Bowl tends to hold snow into the summer due to its aspect and elevation, which attracts the annual tradition to ski on July Fourth. (Hugh Carey, The Colorado Sun)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/07/azma-os-21-scaled.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Artist and producer Jesse Garcia, a.k.a. DJ Azma, performs a set July 1 in downtown Denver. Garcia&#8217;s Latin-based influences contribute to a percussive aspect of his music. (Olivia Sun, The Colorado Sun via Report for America)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/07/Whitewater_HC_03.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">A guided raft outfitter leads clients through Colorado River rapids in Glenwood Canyon on July 3 near Glenwood Springs. (Hugh Carey, The Colorado Sun)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/07/DroughtFree_HC_02.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Stand-up paddle boarders explore the Dillon Reservoir, which was was 101% full July 6. The Summit County reservoir has a capacity of 257,304 acre-feet of water that belongs to Denver Water. (Hugh Carey, The Colorado Sun)</p></mj-text><mj-text>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/07/Conserving-CO-Water-Event-300-×-250-px.png" width="300px" href="https://cosun.co/3CXO0bc" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">Flavor of the Week</h2></td></tr></mj-table><mj-text>
+
+<h2><strong>&gt;&gt; Fireflies are a highlight of the Colorado summer</strong></h2>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/07/DSC_0922-1-scaled.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Butterfly Pavilion entomologist Francisco Garcia, right, holds a trap containing a firefly captured at Riverbend Ponds Natural Area in Fort Collins. His team was allowed to trap 50 insects for research. (William Allstetter, Special to The Colorado Sun)</p></mj-text><mj-text>
+
+<p>It&#8217;s not your imagination, displaced Easterners with fond memories of summer nights lit up by the flashes of courting insects, we do have fireflies in Colorado. And now is the time to watch for them in marshy areas around the state.</p>
+
+<p>&#8220;A lot of native Coloradans have never seen a firefly, don&#8217;t even know they exist out here,&#8221; said Beth Kittrell, a volunteer for Fort Collins Natural Areas, which has for three years run &#8220;<a target="_blank"  href="https://engage.fcgov.com/ActivityRegistration/32075c33-2b44-43ae-8eb3-8a9bc5d21d22">Light Up The Night</a>&#8221; tours of the Riverbend Ponds Natural Area during firefly season. They are now one of its most popular activities, with a long waitlist. (The next one is Wednesday and registration is required.)</p>
+
+<p>Fireflies need a fresh, moist environment to thrive, which is why they are widespread — but also under threat — across much of the eastern United States. Fireflies <a target="_blank"  href="https://butterflies.org/colorado-firefly-watch/">also thrive in scattered oases across Colorado</a> and can be seen flashing their mating calls in wetlands for a few short weeks in June and July.</p>
+
+<p>Fireflies were identified in 2018 near Loveland, which now has its own &#8220;Fireflies in the Meadow&#8221; programs in July, though you can go on your own at the Morey Wildlife Reserve at the western edge of the Mariana Butte golf course. Reported sightings in recent years range up and down the Front Range from Greeley to Pueblo, and in several mountain valleys near Moffat, Divide, Durango and Carbondale.</p>
+
+<p>On a recent evening, as lightning flashed from thunderheads on the horizon, Kittrell led a firefly tour at Riverbend Ponds. From a parking lot near the Cache La Poudre River, the group headed out on a gravel path between ponds fashioned from reclaimed gravel pits, then onto a boardwalk that traverses a rich, open wetland of tall grasses, rushes and other water-loving plants. As darkness descended, the first flash appeared just off the boardwalk. Soon dozens of fireflies were flashing across the wetland.</p>
+
+<p>&#8220;Best day ever!&#8221; exclaimed Hannah Brown, a member of a Butterfly Pavilion research team that had come to collect fireflies for an ongoing project. She was thrilled to see and enjoy the magical fireflies she first saw as a college student in New York. She was also happy to know that the research team would be able to collect its allotment of 50 fireflies on its only collecting expedition of the summer.</p>
+
+<p>Led by Lorna McCallister, the Butterfly Pavilion team seeks to understand the lifecycle of the Colorado fireflies and to breed and raise them. Fireflies are disappearing from many of their traditional breeding grounds. In fact, a population that once lived in the <a target="_blank"  href="https://www.fcgov.com/naturalareas/finder/reservoirridge">Reservoir Ridge Natural Area</a>, west of Fort Collins, has not been seen for several years. McCallister and her colleagues hope their work will aid conservation efforts and possibly lead to reintroduction in some areas.</p>
+
+<p>Another researcher, University of Colorado Ph.D. student Kit Lewers, set up two GoPro cameras to film the firefly display. Lewers is working in the lab of Orit Peleg, an associate professor in the BioFrontiers Institute at CU. Peleg is trying to learn how fireflies evolved their species-specific flashing patterns. She believes that the flash patterns, evolved over millions of years, might have something to teach us about effective and efficient communication. But it is more than just that.</p>
+
+<p>&#8220;At heart, I am fascinated by these creatures and want to understand them,&#8221; Peleg said. &#8220;They are so beautiful and captivating.&#8221;</p>
+
+<p>McCallister and the Butterfly Pavilion are also enlisting volunteers to record and share their sightings of fireflies through the<a target="_blank"  href="https://butterflies.org/colorado-firefly-watch/"> Colorado Firefly Watch</a>. On that page, they list several public locations where fireflies can be seen in Colorado. The season is rapidly coming to an end, but you may be able to see them if you get out there soon.</p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— William Allstetter</strong> | <em><span style="font-size:12px;">Writer</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/author/william-allstetter/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/08/Allstettter-headshot-1.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">SunLit: Sneak Peek</h2></td></tr></mj-table><mj-text>
+
+<h2><strong>&gt;&gt; &#8220;Conscious Designs&#8221; poses a new existential question: Do you want a second self?</strong></h2>
+
+</mj-text><mj-image padding="0px 0px 0px 0px" href="https://coloradosun.com/2023/07/09/sunlit-conscious-designs-nathanial-white/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/06/Conscious-Designs-logo.png?w=1200"/><mj-text>
+
+&nbsp;<!-- Blockquote -->
+<blockquote>&#8220;It seemed degrading and almost cruel that Ashcroft was reducing him to a series of data points. Eugene suppressed this feeling and tried to focus on the possibility of liberation. Pain, after all, must also be nothing more than just information.&#8221;<br /><br /><span class="source">— From &#8220;Conscious Designs&#8221;</span></blockquote>
+
+<p><strong>EXCERPT:</strong> There&#8217;s a lot to unpack when a man with paraplegia processes the sales pitch for creating an identical copy of his consciousness — one that offers him freedom from the pain and limitations of his disability. In <strong>&#8220;Conscious Designs,&#8221;</strong> winner of the 2023 Colorado Book Award for science fiction/fantasy, author <strong>Nathanial White</strong> dives right into the myriad practical and philosophical considerations that in some ways mirror our current discussions about artificial intelligence.</p>
+
+<p>&gt;&gt; <a target="_blank"  href="https://coloradosun.com/2023/07/09/sunlit-conscious-designs-nathanial-white/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><strong>READ THE SUNLIT EXCERPT</strong></a></p>
+
+<p><strong>THE SUNLIT INTERVIEW: </strong>White&#8217;s literary debut, set in the future, nonetheless draws from his own life experience of dealing with disability after being injured in a rafting accident. He explains how his main character in the book became a proxy for confronting his own challenges, and how he sees technology as both a boon and a threat to society — with the latter underscored by his experience as a high school teacher. Here&#8217;s a slice of his Q&amp;A:</p>
+
+<p><strong>SunLit: How has your relationship with technology influenced the science in &#8220;Conscious Designs&#8221;?</strong></p>
+
+<p><strong>White:</strong> I have a conflicted relationship with technology. I am certainly concerned about the rise of AI, not in the sense that it will become some evil villain that tries to destroy us, but rather because it is causing an erasure of our humanity.</p>
+
+<p>The more we rely on AI to record our memories, compose our narratives, and think for us, the more that we lose what makes us human. Many of my high school students no longer see the value of writing or reading or thinking for themselves when this can be done for them by ChatGPT.</p>
+
+<p>&gt;&gt; <a target="_blank"  href="https://coloradosun.com/2023/07/09/sunlit-nathanial-white-conscious-designs/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><strong>READ THE INTERVIEW WITH NATHANIAL WHITE</strong></a></p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Kevin Simpson</strong> | <em><span style="font-size:12px;">Writer</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/author/kevin-simpson/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2018/08/IMG_0426.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">Sunday Reading List</h2></td></tr></mj-table><mj-text>
+
+<p><em>A curated list of what you may have missed from The Colorado Sun this week.</em></p>
+
+</mj-text><mj-image href="https://coloradosun.com/2023/07/06/crystal-mill-closes-visitor-trail-marble-colorado/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/07/coloradosun230706inked.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Bad behavior by visitors to the 131-year-old Crystal Mill near Marble has caused its owner to remove a trail that once led people to one of the most photographed sites in Colorado. <a target="_blank"  href="https://coloradosun.com/2023/07/06/crystal-mill-closes-visitor-trail-marble-colorado/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">Read more about the closure here</a>. (Drew Litton, Special to The Colorado Sun)</p></mj-text><mj-text>
+
+<p>🌞 Every single public rate hearing for the Colorado Option insurance plan was canceled. <strong>John Ingold</strong> <a target="_blank"  href="https://coloradosun.com/2023/07/05/colorado-option-health-insurance-hearings-canceled/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">explains why</a>.</p>
+
+<p>🌞 Suncor Energy likely will have its operating permits renewed, but <strong>Michael Booth</strong> reports that recent discharges of benzene and PFAS &#8220;forever chemicals&#8221; to Sand Creek, and on to the South Platte River, <a target="_blank"  href="https://coloradosun.com/2023/07/07/benzene-pollution-suncor-state-warns-fines/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">are making state regulators think twice</a> about what those permits demand.</p>
+
+<p>🌞 Water watchers in the San Luis Valley have been fiercely defensive of the liquid gold flowing beneath their communities. Now they&#8217;ve taken the vigilance to the surface, with six county governments and a bunch of towns they include, joining to make it as difficult as possible to export aquifer water to the Front Range. <strong>Shannon Mullane</strong> <a target="_blank"  href="https://coloradosun.com/2023/07/03/colorado-san-luis-valley-water-plan/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">has the details</a>.</p>
+
+<p>🌞 People who live close to urban-adjacent oil and gas operations are used to high conflict over drilling and plenty of attention when mistakes are made. It&#8217;s different out on the Eastern Plains, where extraction seems to have always been part of the rhythm of life, but it can take what feels like forever for them to be remedied. <strong>Mark Jaffe</strong> went out to Eads, where a fifth-generation rancher is <a target="_blank"  href="https://coloradosun.com/2023/07/05/oil-spill-kills-cows-western-operating-colorado/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">at war with the company drawing oil from under his land</a>.</p>
+
+<p>🌞 Even $14,000 signing bonuses aren&#8217;t enough to persuade Colorado nurses to go to work at the state&#8217;s two mental health hospitals. <strong>Jennifer Brown </strong>explains how <a target="_blank"  href="https://coloradosun.com/2023/07/06/state-mental-hospitals-nursing-shortage-jail/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">a shocking staff shortage</a> has huge implications for people with mental illnesses who are accused of serious crimes.</p>
+
+<p>🌞 Good news! For the first time since 2019 Colorado is completely drought-free. Though reservoirs are filling, and parched soils are finally quenched, <strong>Shannon Mullane</strong> reports that if the historical trends play out this year, <a target="_blank"  href="https://coloradosun.com/2023/07/07/colorado-drought-free-for-the-first-time-since-2019/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">the conditions are only temporary</a>.</p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Dana Coffield</strong></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/author/dana-coffield/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2019/07/DANAMUGKS.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+<p>Thanks for meeting up with us again this week for another glorious Colorado Sunday. We hope you&#8217;ll be back again next Sunday. If you&#8217;ve got a moment, and you haven&#8217;t done it already, please download <a target="_blank"  href="https://coloradosun.com/app?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">The Colorado Sun app</a>. We think it&#8217;s a nice way for you to keep up with our reporting all week long.</p>
+
+<p><em>— Dana &amp; the whole staff of The Sun</em></p>
+
+<!-- FOOTER -->
+</mj-text>
+</mj-column>
+</mj-section>
+<mj-include path="./sunday-footer.mjml"/>

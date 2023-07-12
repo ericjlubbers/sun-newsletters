@@ -1,0 +1,70 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+*|IFNOT:MEMB_TYPE|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Become a member today!</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Become a member today!</mj-button><mj-text>*|END:IF|*
+
+<h1>It&#8217;s Election Day in Colorado! Here&#8217;s what you need to know to vote and where you can find results.</h1>
+
+<p><em>You have until 7 p.m. to vote in person or deposit your ballot in a drop box</em></p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/05/AP22124803285392.jpg?w=800" /><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>A ballot is dropped off at the Eagle County Ballot Drop Off Box Tuesday, May 3, 2022, in Eagle, Colo. (Chris Dillmann/Vail Daily via AP)</em></span></p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/jesse.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Jesse Paul</strong><br /><a target="_blank"  href="https://coloradosun.com/author/jesse-paul/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"><em><span style="font-size:12px;">Reporter</span></em></a></td></tr></mj-table><mj-text>
+
+<p>It&#8217;s primary Election Day in Colorado, and voters are going to be making decisions in a host of important races.</p>
+
+<p>You have until 7 p.m. to vote in person or deposit your ballot in a drop box. (<a target="_blank"  href="https://coloradosos.gov/pubs/elections/VIP.html">Here is a link</a> showing where you can find in-person polling places and ballot drop boxes in your county.) <strong>It is too late to mail back your ballot</strong>, which must be in your county clerk&#8217;s possession by 7 p.m.</p>
+
+<p>Colorado is a same-day voter registration state, so you can still cast a ballot Tuesday even if you aren&#8217;t registered to vote right now.</p>
+
+<p>We&#8217;re tracking races on the local, state and federal levels. You can read about the contests The Colorado Sun is keeping tabs on <a target="_blank"  href="https://coloradosun.com/2022/06/23/colorado-primary-ballot-voting-guide-2022/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">here</a>.</p>
+
+*|IFNOT:MEMB_TYPE|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Support local journalism!</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Support local journalism!</mj-button><mj-text>*|END:IF|*
+
+<p><span style="background-color:#fcd232;"><strong>MORE:</strong></span> <a target="_blank"  href="https://coloradosun.com/2022/06/23/colorado-primary-ballot-voting-guide-2022/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">Still haven&#8217;t cast your ballot in Colorado&#8217;s primaries? We&#8217;re here to help.</a></p>
+    &nbsp;<hr />&nbsp;
+<h2>Unaffiliated voter? Start here.</h2>
+
+<p>Unaffiliated voters make up 45% of Colorado&#8217;s electorate, making them the state&#8217;s largest voting bloc. They can choose whether to vote in the Democratic or Republican primary, but they cannot cast a ballot in both.</p>
+
+<p><strong>Again: If you are an unaffiliated voter who received both a Republican and Democratic primary ballot in the mail, you can fill out only one of the ballots. </strong>If you try to vote both ballots, both will be rejected and your votes will not be counted.</p>
+    &nbsp;<hr />&nbsp;
+
+
+<h2>Where can I find the results?</h2>
+
+<p>County clerks have begun counting ballots, but results won&#8217;t be posted until after the polls close at 7 p.m. First results are typically posted at about 7:30 p.m. on election night.</p>
+
+<p>Individual counties post results on their websites, but you can also find results on the <a target="_blank"  href="https://www.coloradosos.gov/">Colorado Secretary of State&#8217;s website</a>.</p>
+
+<p>The Colorado Sun will post stories once we can confidently call the outcome of a race or it becomes clear that the results won't be known on election night. We use The Associated Press to help us make decisions on when to announce that a race has been decided.</p>
+
+<p>Some news outlets may post stories based on early returns, but we try to avoid that practice since counties do not uniformly report their results to the Secretary of State&#8217;s Office.</p>
+
+<p>We do this because early results that heavily reflect votes cast in either El Paso or Denver counties are likely not reflective of a race&#8217;s outcome because the former is a conservative stronghold and the latter is dominated by liberals.</p>
+
+<p>We will be watching the results closely and post stories as soon as we feel it&#8217;s appropriate.</p>
+
+<p>Also, be aware that voting won&#8217;t be completed Tuesday. Overseas voters and those who must provide more information about ballot signatures or identification have eight days for their ballots to be counted. So some close races may not be decided until all ballots are in and counted.</p>
+    &nbsp;<hr />&nbsp;
+
+
+<h2>Who should I follow?</h2>
+
+<p>Colorado Sun reporters will fan out to polling places and candidate watch parties on Tuesday to tell the Election Day story.</p>
+
+<p>Give our folks a follow on Twitter to stay up to date:</p>
+
+<ul><li><a target="_blank"  href="https://twitter.com/JesseAPaul">Jesse Paul</a>, political editor and reporter</li><li><a target="_blank"  href="https://twitter.com/fishnette">Sandra Fish</a>, political/data reporter</li><li><a target="_blank"  href="https://twitter.com/ShannonNajma">Shannon Najmabadi</a>, political/rural affairs/economic reporter</li><li><a target="_blank"  href="https://twitter.com/brammhi">Brammhi Balarajan</a>, general assignment reporter</li><li><a target="_blank"  href="https://twitter.com/ericabreunlin">Erica Bruenlin</a>, education reporter</li></ul>
+
+<p>Have Election Day tips or questions? Send them to <a target="_blank"  href="mailto:newsroom@coloradosun.com">newsroom@coloradosun.com</a></p>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section>
+<mj-section> <mj-column background-color="#ffffff"> <mj-text align="center"> <p>*|IFNOT:MEMB_TYPE|*</p> <h2>Our news is free to read, but not free to report.</h2> <p><span class="highlight"><strong>Help us keep an independent eye on Colorado.</strong></span> Memberships start at just $5/month with perks and rewards &mdash; including exclusive newsletters &mdash; at higher levels. Just click the button below to get started!</p> </mj-text> <mj-button href="http://coloradosun.com/membership"> Support journalism. Become a member. </mj-button><mj-text>*|ELSE:|*<h2>Thank you for supporting local journalism!</h2> <p>Members like you are how The Sun keeps shining!</p> <p>*|END:IF|*</p></mj-text> </mj-column> </mj-section> <!--  IMPORT FOOTER --> </mj-text> </mj-column> </mj-section>
+<mj-include path="./footer-slim.mjml" /></mj-body></mjml>

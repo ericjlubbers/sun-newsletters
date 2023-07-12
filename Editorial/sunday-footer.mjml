@@ -1,0 +1,16 @@
+
+  <mj-section>
+  <mj-column mj-class="footercolumn">
+  <mj-image mj-class="tinylogo" href="http://coloradosun.com" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2020/08/coloradosun-logo-standard-wide-1200px.png" padding="12px 0px" />
+  <mj-text mj-class="footer">
+  <em>Copyright &copy; *|DATE:Y|* The Colorado Sun, All rights reserved.</em><br />
+  <br />
+  <strong>Our mailing address is:</strong><br /> *|LIST:ADDRESS|* <p>To manage your payment to The Colorado Sun, you can <a target="_blank" href="https://coloradosun.com?pn=manage_account" target="_blank">click here</a> to access your account options or log in at <a target="_blank" href="https://coloradosun.com" target="_blank">coloradosun.com</a>.</p>
+  <p>To change how you receive these emails, you can <a target="_blank" href="https://coloradosun.com?pn=manage_newsletters" target="_blank">update your preferences</a> or <a target="_blank" href="*|UNSUB|*" target="_blank">permanently unsubscribe from all communication and newsletters</a> from The Colorado Sun.<br />
+<br /></p>
+</mj-text>
+
+</mj-column>
+</mj-section>
+</mj-body>
+</mjml>

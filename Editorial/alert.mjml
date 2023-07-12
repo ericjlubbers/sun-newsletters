@@ -1,0 +1,19 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+    <h2>BREAKING | <a href="https://coloradosun.com/2022/11/20/club-q-shootins-colorado-springs/">5 killed, 18 hurt in shooting at LGBTQ nightclub in Colorado Springs</a></h2>
+    </mj-text><mj-image href="https://coloradosun.com/2022/11/20/club-q-shootins-colorado-springs/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/11/AP22324482697149.jpg?resize=800,450" /><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Crime tape is set up near a gay nightclub in Colorado Springs, Colo. where a shooting occurred late Saturday, Nov. 19, 2022. (AP Photo/Thomas Peipert)</em></span></p>
+
+
+<p><em>The shooting happened just before midnight at Club Q at 3430 N. Academy Blvd. A social media post from the club indicates it was patrons who helped stop what it called an &#8220;attack.&#8221;</em></p>
+
+
+
+</mj-text><mj-button href="https://coloradosun.com/2022/11/20/club-q-shootins-colorado-springs/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank">&gt;&gt; READ THE STORY</mj-button><mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

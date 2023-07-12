@@ -1,0 +1,23 @@
+<mjml>
+<!--  HEADER -->
+  <mj-head>
+    <!--  IMPORT STYLES -->
+    <mj-include path="./sun-newsletter-styles.mjml" />
+    <!-- EMAIL PREVIEW TEXT -->
+     <mj-preview>
+*|MC_PREVIEW_TEXT|*
+</mj-preview>
+  </mj-head>
+<!--  END HEADER -->
+<!--  BODY -->
+  <!--  IMPORT LOGO -->
+  <mj-body>
+    <mj-section>
+      <mj-column background-color="#ffffff">
+        <mj-text>
+          <p style="padding:0 0 6px 0;margin:0;text-align:center;"><a style="color:#6E6E6E;font-size:10px;font-weight:400;" href="*|ARCHIVE|*">READ THIS IN YOUR BROWSER</a></p>
+          <center><img src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2020/08/coloradosun-logo-standard-wide-1200px.png?w=900"/ style="width:90%;max-width:300px;" /></center>
+        </mj-text>
+        <mj-text font-size="12px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><a href="https://coloradosun.com?pn=manage_account">LOG IN TO THE SUN</a> | <a href="https://coloradosun.com?pn=manage_newsletters">EMAIL SETTINGS</a> | <a href="http://coloradosun.com/help">HELP & FAQ</a> | <a href="mailto:tips@coloradosun.com">SEND US A TIP</a></mj-text>
+      </mj-column>
+    </mj-section>

@@ -1,0 +1,27 @@
+<mj-include path="./letter-header-2.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section padding="0 0 0 0">
+	<mj-column padding-top="0">
+	<!-- BEGIN CONTENT --><mj-image padding="0 0 0 0" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/04/sunday-mug-cube-v3.png?w=800" href="https://pico.link/thecoloradosun/offer?id=CheckoutWizard_thecoloradosun&amp;short_code=sundaymug" target="_blank"/><mj-text>
+
+    <p style="text-align:center;font-family:'Libre Franklin','Arial Black',sans-serif;font-size:24px;"><strong><em><span style="border-bottom:1px solid #fcd232;">LIMITED TIME!</span></em></strong><em></em></p>
+
+<p>Our best-selling mug is back in stock and we want to give some away!</p>
+
+<p>Get our sturdy, solid mug, featuring the timeless reminder to &#8220;Slow Down&#8221; absolutely free with a new Basic+ membership to The Colorado Sun.</p>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun/offer?id=CheckoutWizard_thecoloradosun&amp;short_code=sundaymug" target="_blank">Click to get your mug!</mj-button><mj-text>
+
+<p>Your membership will also include a subscription to <strong>Colorado Sunday</strong>, a weekly trip around our beautiful state delivered right to your inbox — perfect for sipping something warm and catching up.</p>
+
+<p><a target="_blank"  href="https://pico.link/thecoloradosun/offer?id=CheckoutWizard_thecoloradosun&amp;short_code=sundaymug">Click here</a> for more details on membership or, if you just want the mug or any other Colorado Sun merch, <a target="_blank"  href="http://store.coloradosun.com">visit our store</a>.</p>
+
+<p>We&#8217;ve got a limited supply, so don&#8217;t wait!</p>
+
+&nbsp;<hr />&nbsp;
+<p><strong>Not quite ready for a membership but want a mug?</strong> You can order one <a href="https://store.coloradosun.com/collections/frontpage/products/new-colorado-sunday-mug" target="_blank">directly from our merch store!</a></p>
+<p><em>P.S. Got any questions about your membership? Send us a note at support@coloradosun.com</em></p>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

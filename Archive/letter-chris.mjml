@@ -1,0 +1,34 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Click here to support local journalism</mj-button><mj-text>
+
+<h1><strong>The hard work (and teamwork) behind trustworthy local news</strong></h1>
+
+<p><em>How you can be a part of The Colorado Sun team and help keep our state informed</em></p>
+
+<hr />
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/03/SkiJoring_HC_01.jpg?resize=800,450" /><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Skier Colin Cook hits the jump with help from the Harley the horse and the rider, Amanda Sanders, during the ski joring race on Blair Street in Silverton on Feb. 20, 2022. (Hugh Carey, The Colorado Sun)</em></span></p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/01/chris-outcalt-casual-headshot.jpeg?resize=96,96"/></td><td style="padding: 6px;"><strong>Chris Outcalt</strong><br /><a target="_blank"  href="https://coloradosun.com/author/chris-outcalt/?pico=clean" target="_blank"><em><span style="font-size:12px;">Water Reporter</span></em></a></td></tr></mj-table><mj-text>
+
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">G</span>etting an exact figure depends on how you count, but it&#8217;s safe to say I&#8217;ve been doing this journalism thing for 15 years now. Not bad for a guy who showed up to college freshman year registered as a biochemistry major (It&#8217;s a long story; just trust me that my future was not in pipetting).</p>
+
+<p>Fifteen years is also not a bad run in a business that&#8217;s shedding jobs faster than a German shepherd ditching its winter coat. Since 2008, the number of employees in U.S. newsrooms has plummeted 26%, according to data released last year by the Pew Research Center. That&#8217;s 30,000 fewer people dedicated to the good work of amplifying truth, chasing down facts and stories with the public interest front of mind.</p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/01/chris-outcalt-casual-headshot.jpeg?w=600" width="200px"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;text-align:center;"><em>Chris Outcalt</em></span></p>
+
+<p>That&#8217;s why I&#8217;m so thrilled to have recently joined The Colorado Sun as employee number 24. Amid the turbulence of the journalism business — and, well, the whole world — The Sun is growing. What makes this place even more special, I think, is that it&#8217;s owned by actual journalists. No hedge funds. No management companies. No Bezos. Real life Coloradans who sweat this work every day because they believe in how much it matters — how important it is to keep the public well-informed. Having been on the inside for a month, I can tell you with confidence the people at The Sun go to great lengths to get it right.</p>
+
+<p>Now, I have the privilege of working hard to get it right, and to try to help continue to grow this truly independent journalism organization. I think that&#8217;s pretty cool. What&#8217;s also cool is that you can be part of all this. Consider joining our community for $10 a month. Your support will go a long way to helping The Colorado Sun continue to shine.</p>
+</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Become a member today!</mj-button><mj-text>
+
+</mj-text><mj-table padding-top="0" margin-top="0"><tr><td style="padding:0px;font-size:14px;text-align:right;" width="33%"><strong>>></strong></a></td><td style="padding: 6px 6px;" width="24px"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/01/chris-outcalt-casual-headshot.jpeg?resize=48,48" /></td><td style="padding:0px;font-size:14px;"><a target="_blank"  target="_blank"  target="_blank"  href="https://coloradosun.com/author/chris-outcalt/?pico=clean" target="_blank" style="text-decoration:none;color:black;"/><span style="border-bottom:1px solid #fcd232;"><strong>Chris Outcalt</strong> <em>Water Reporter</em></a></td></tr></mj-table>
+<mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

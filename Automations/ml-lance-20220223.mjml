@@ -1,0 +1,36 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=join" target="_blank">Become a member today!</mj-button><mj-text>
+
+<h1>How news deserts help feed polarization (and what you can do to help)</h1>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/02/DIST-51-SCHOOL-BOARD-4-655.jpg?w=800" /><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>A protestor in the back of a standing-room-only crowd of several hundred people holds up a sign condemning the closed-door executive session by the Mesa County Valley School District 51 school board with its new conservative majority at R-5 High School in Grand Junction. (Gretel Daugherty, Special to The Colorado Sun)</em></span></p>
+
+&nbsp;<hr />&nbsp;
+
+<blockquote class="wp-block-quote" style="width:90%;max-width:500px;border-left: 4px double #fcd232;padding: 0px 10px;padding: 0px 10px;margin-left:0;"><span style="font-size:1.2em;line-height:1.3em;font-family:Georgia,serif;font-weight:bold;">&#8220;I think there&#8217;s been a tremendous amount of energy fostered by what&#8217;s going on in national politics, which has suffused our school board elections and made them to an extent polarizing extensions of national politics&#8221;</span><br><br><span style="font-size:1em;"><em>— Dan Hopkins, a University of Pennsylvania political science professor</em></span></blockquote>
+
+&nbsp;<hr />&nbsp;
+
+<p>The raucous, ideologically charged school board meetings playing out in Colorado and beyond could have a surprising root cause: your local news desert. At least that&#8217;s the take from one expert who spoke to The Colorado Sun for a <a target="_blank"  href="https://coloradosun.com/2022/02/20/school-board-politics-conflict-douglas-county-corey-wise/?pico=clean">story we published this week</a>.</p>
+
+<p>All over the country, newspapers and other local outlets are shedding journalists and reducing coverage at alarming rates — and it&#8217;s leading many Americans to fill the void with national news programming. That could be feeding a &#8220;nationalization&#8221; of politics that helps explain the charged atmosphere in Colorado schools and beyond, said <strong>Dan Hopkins</strong>, a University of Pennsylvania political science professor.</p>
+
+<p>At the Sun, we understand the premium that Coloradans place on staying informed about local issues, and the integral role it plays in keeping our public discourse focused, fair and relevant. The Sun is locally owned, independent and always nonpartisan.</p>
+
+<p>Keeping the news desert at bay in Colorado is our mission as a public benefit corporation, and we need help from you and other valued readers to produce the coverage Coloradans need and deserve. Please <a target="_blank"  href="https://pico.link/thecoloradosun?short_code=join">consider joining our growing Sun community</a> for as little as $5 a month.</p>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=join" target="_blank">Become a member today!</mj-button><mj-text>
+
+<p>Thanks for reading.</p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/benzel.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Lance Benzel</strong><br /><a target="_blank"  href="https://coloradosun.com/author/lance-benzel/?pico=clean" target="_blank"><em><span style="font-size:12px;">Team Editor</span></em></a></td></tr></mj-table><mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

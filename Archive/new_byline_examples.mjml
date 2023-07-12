@@ -1,0 +1,171 @@
+<mj-include path="./sunriser-header.mjml" />
+<mj-section>
+<mj-column>
+<mj-text>
+<p style="color:#949494;"><strong><em>*|DATE:l, F j, Y|*</em></strong></p>
+
+<h1>Student teachers rarely paid for their full-time work in Colorado</h1>
+
+<p><em>Plus: Aurora passes camping ban, case worker charged with forgery, breaking down the $36 billion state budget and much more local news</em></p>
+  
+<!-- SINGLE BYLINE -->
+</mj-text>
+  </mj-column></mj-section>
+<mj-section padding-left="36px" padding-right="36px">
+<mj-column padding="0" margin="0"><mj-table><tr style="text-align:left;"><td style="padding: 6px 3px;width:48px;"><img style="width:36px;height:36px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="36px" height="36px" align="right" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/jesse.jpg?resize=96,96"/></td><td style="padding: 6px;font-size:14px;font-family:Georgia,serif;"><strong>Shannon Najmabadi</strong><br /><a target="_blank"  href="https://coloradosun.com/author/jesse-paul/?pico=clean" target="_blank"><span style="font-size:10px;font-family:'Libre Franklin',sans-serif;">Politics Editor & Reporter</span></a></td></tr></mj-table></mj-column>
+</mj-section>
+<mj-section><mj-column><mj-text><p>This is some text!</p></mj-text>
+<!-- DOUBLE BYLINE -->
+  </mj-column></mj-section>
+<mj-section padding-left="36px" padding-right="36px">
+<mj-column padding="0" margin="0"><mj-table><tr style="text-align:left;"><td style="padding: 6px 3px;width:48px;"><img style="width:36px;height:36px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="36px" height="36px" align="right" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/jesse.jpg?resize=96,96"/></td><td style="padding: 6px;font-size:14px;width:auto;font-family:Georgia,serif;"><strong>Jesse Paul</strong><br /><a target="_blank"  href="https://coloradosun.com/author/jesse-paul/?pico=clean" target="_blank"><span style="font-size:10px;font-family:'Libre Franklin',sans-serif;">Politics Editor & Reporter</span></a></td></tr></mj-table></mj-column>
+<mj-column padding="0" margin="0"><mj-table><tr style="text-align:left;"><td style="padding: 6px 3px;width:48px;"><img style="width:36px;height:36px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="36px" height="36px" align="right" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/jesse.jpg?resize=96,96"/></td><td style="padding: 6px;font-size:14px;width:auto;text-align:left;font-family:Georgia,serif;"><strong>Shannon Najmabadi</strong><br /><a target="_blank"  href="https://coloradosun.com/author/jesse-paul/?pico=clean" target="_blank"><span style="font-size:10px;font-family:'Libre Franklin',sans-serif;">Politics Editor & Reporter</span></a></td></tr></mj-table></mj-column>
+</mj-section><mj-section><mj-column><mj-text>
+  
+<!-- TRIPLE BYLINE -->
+  </mj-column></mj-section>
+<mj-section>
+<mj-column padding="0" margin="0"><mj-table padding="12px 0"><tr style="text-align:left;"><td style="padding: 6px 3px;width:36px;"><img style="width:24px;height:24px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="right" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/jesse.jpg?resize=96,96"/></td><td style="padding: 6px;font-size:14px;width:auto;font-family:Georgia,serif;"><strong>Jesse Paul</strong><br /><a target="_blank"  href="https://coloradosun.com/author/jesse-paul/?pico=clean" target="_blank"><span style="font-size:10px;font-family:'Libre Franklin',sans-serif;">Politics Editor & Reporter</span></a></td></tr></mj-table></mj-column>
+<mj-column padding="0" margin="0"><mj-table padding="12px 0"><tr style="text-align:left;"><td style="padding: 6px 3px;width:36px;"><img style="width:24px;height:24px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="right" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/jesse.jpg?resize=96,96"/></td><td style="padding: 6px;font-size:14px;width:auto;font-family:Georgia,serif;"><strong>Shannon Najmabadi</strong><br /><a target="_blank"  href="https://coloradosun.com/author/jesse-paul/?pico=clean" target="_blank"><span style="font-size:10px;font-family:'Libre Franklin',sans-serif;">Politics Editor & Reporter</span></a></td></tr></mj-table></mj-column>
+  <mj-column padding="0" margin="0"><mj-table padding="12px 0"><tr style="text-align:left;"><td style="padding: 6px 3px;width:36px;"><img style="width:24px;height:24px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="right" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/jesse.jpg?resize=96,96"/></td><td style="padding: 6px;font-size:14px;width:auto;font-family:Georgia,serif;"><strong>Jesse Paul</strong><br /><a target="_blank"  href="https://coloradosun.com/author/jesse-paul/?pico=clean" target="_blank"><span style="font-size:10px;font-family:'Libre Franklin',sans-serif;">Politics Editor & Reporter</span></a></td></tr></mj-table></mj-column>
+</mj-section><mj-section><mj-column><mj-text>
+<p>Good morning! Today in Wheat Ridge is the exact kind of Colorado spring day that I remember from my childhood: Freezing before dawn, a handful of snowflakes right after sunrise and bright blue sky by 9 a.m.</p>
+
+<p>Another thing I remember from my days in Yuma: The steady parade of eager student teachers who rotated through Morris Primary School every year to earn their licenses. As the child of teachers, I was in the building after school and saw how hard those budding educators worked in the classroom and it didn&#8217;t even occur to me that they were most likely not being paid for the hours and hours they put in.</p>
+
+<p>Now three decades, an entrenched teacher shortage and a global pandemic later, those student teachers might actually get paid for their work. That effort is just one of the stories we have in today&#8217;s newsletter, which bounces from the classroom to the streets of Aurora to the Western Slope with plenty of stops in between.</p>
+
+So now that we&#8217;ve got our assignment, let&#8217;s polish this apple, shall we?
+
+</mj-text><mj-table padding-top="0" margin-top="0"><tr><td style="padding:0px;font-size:14px;text-align:right;" width="45%"><strong>>></strong></a></td><td style="padding: 6px 6px;" width="24px"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/07/eric-ig-portrait-square.jpg?resize=48,48" /></td><td style="padding:0px;font-size:14px;"><a target="_blank"  target="_blank"  target="_blank"  href="https://coloradosun.com/author/eric-lubbers/?pico=clean" target="_blank" style="text-decoration:none;color:black;"/><span style="border-bottom:1px solid #fcd232;"><strong>Eric</strong></a></td></tr></mj-table>
+<mj-text>
+
+<p>P.S. — If you noticed a new name in the byline today, allow me to introduce you to <strong>Margaret Fleming</strong>, a journalism resident from <strong>Northwestern University&#8217;s Medill School of Journalism</strong> who is going to be working with The Sun for the next 11 weeks. <a target="_blank"  href="mailto:margaret@coloradosun.com">Send her a welcome note</a> or say hi on <a target="_blank"  href="https://twitter.com/mgfleming12">Twitter</a>.</p>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/03/Swallow-Hill_DBG-Ad_March-22.png" width="300px" href="https://cosun.co/3CwEQ4o" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><mj-text margin="0" padding="0"><h3 style="padding:.3em;font-family:'Libre Franklin','Arial Black';font-weight:700;background-color:#fcd232;font-size:24px;text-align:center;">THE NEWS<br /><span style="font-size:12px;text-transform:uppercase;font-weight:normal;"><em>The latest from The Sun</em></span></h3></mj-text><mj-text>
+
+<h4 style="background-color:#003D5A;color:#ffffff;padding:.3em;">EDUCATION</h4>
+
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2022/03/30/colorado-education-schools-student-teachers-teacher-shortages/?pico=clean" style="text-decoration:none;color:#003D5A;">Student teachers are rarely paid. Colorado lawmakers, school leaders want to ensure they&#8217;re compensated.</h2>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/03/vikan-student-teaching-os-3.jpg?w=800" href="https://coloradosun.com/2022/03/30/colorado-education-schools-student-teachers-teacher-shortages/?pico=clean" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Jorge Cabral, who teaches sixth through eighth grade social studies at Vikan Middle School in Brighton, started teaching full time in January. (Olivia Sun, The Colorado Sun via Report for America)</em></span></p>
+
+<p>A new bill proposed in the Colorado House of Representatives would help student teachers make ends meet. While many student teachers aren&#8217;t paid anything for their full-time jobs now, the measure would give them $11,000 per 16 weeks in the classroom. Supporters of the bill want to encourage more diversity in the K-12 workforce. They hope the bill will help more first-generation, lower-income and students of color cross the financial barrier of student teaching, <strong>Erica Breunlin</strong> reports. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2022/03/30/colorado-education-schools-student-teachers-teacher-shortages/?pico=clean"><strong>STORY</strong></a><strong>, </strong><a target="_blank"  href="https://open.spotify.com/episode/6UDGhMIEbWwgMp229ZfCqy?si=c005f9c847764578"><strong>PODCAST</strong></a></p>
+
+&nbsp;<hr />&nbsp;
+
+<h4 style="background-color:#003D5A;color:#ffffff;padding:.3em;">HOUSING</h4>
+
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2022/03/29/aurora-camping-ban-passes/?pico=clean" style="text-decoration:none;color:#003D5A;">Aurora passes urban camping ban. Some say enforcement money would be better spent on affordable housing.</h2>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/02/pit-count-2022-os-15.jpg?w=800" href="https://coloradosun.com/2022/03/29/aurora-camping-ban-passes/?pico=clean" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Teams of city workers and employees from local nonprofits in the Denver metro area visited highway underpasses, alleys, public parks, transit terminals, parking lots, and other locations to count houseless individuals. The &#8220;point-in-time&#8221; count can help inform human service organizations and government programs of origins of local homelessness and how to better serve affected individuals. (Olivia Sun, The Colorado Sun via Report for America)</em></span></p>
+
+<p>Aurora City Council voted Monday night to ban urban camping as soon as April 28. Supporters say the city has dozens of organizations providing food, shelter and mental health support for people experiencing homelessness. Opponents of the measure said the ban won&#8217;t get people off the streets, citing a 2017 survey that said Aurora was short 12,000 units of affordable housing. The ban didn&#8217;t pass when Mayor Mike Coffman first introduced it last summer, but his newer proposal, amended with some protections for people who are homeless, passed on a 6-5 vote with a more right-leaning council. <strong>Tatiana Flowers</strong> has more. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2022/03/29/aurora-camping-ban-passes/?pico=clean"><strong>STORY</strong></a></p>
+
+&nbsp;<hr />&nbsp;
+
+*|IFNOT:MEMB_TYPE|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Support local journalism today!</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Support local journalism today!</mj-button><mj-text>*|END:IF|*
+
+<h4 style="background-color:#003D5A;color:#ffffff;padding:.3em;">SOCIAL SERVICES</h4>
+
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2022/03/30/fraudulent-caseworker-child-abuse/?pico=clean" style="text-decoration:none;color:#003D5A;">Moffat County caseworker accused of fabricating child abuse, neglect investigations has been charged with forgery</h2>
+
+</mj-text>
+<mj-table>
+	<tr style="border:2px solid white;">
+	<td style="padding: 6px;text-align:center;font-size:22px;background-color:#fcd232;font-weight:bold;" width="40%">50</td><td style="font-size:14px;padding:12px;color:#000000;background-color:#DCEEF2;" width="60%">The number of Hester Renee Nelms&#8217; cases with falsified details, per investigators.</td></tr>
+</mj-table>
+<mj-text>
+
+<p><strong>Hester Renee Nelms</strong> has been under investigation for more than a year by the Moffat County district attorney&#8217;s office and now — after a team of caseworkers from around the state converged to re-investigate more than 80 cases — has been officially charged with forgery and abuse of public records. One of the falsified reports referenced a mother with cancer who survived a house fire and just wanted to spend time with her 5-month-old baby — but there was no cancer, no fire and not even a baby in the family in question. <strong>Jennifer Brown,</strong> who has been reporting this story since the beginning, has more on what investigators uncovered and the next steps. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2022/03/30/fraudulent-caseworker-child-abuse/?pico=clean"><strong>STORY</strong></a></p>
+
+&nbsp;<hr />&nbsp;
+
+<h4 style="background-color:#003D5A;color:#ffffff;padding:.3em;">POLITICS</h4>
+
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2022/03/30/colorado-legislature-2022-budget/?pico=clean" style="text-decoration:none;color:#003D5A;">Here&#8217;s what&#8217;s in the $36 billion state budget proposal now being debated by Colorado lawmakers</h2>
+
+<p>This budget would be the most the legislature has ever spent. It would give $7.2 billion to education and pay raises to all state employees, plus set 15% aside in a rainy day fund. Republican lawmakers worry the proposed budget is too large and might lead to a future deficit. Representatives will offer amendments Wednesday before the bill likely heads to the Senate for changes next week. <strong>Shannon Najmabadi</strong> and <strong>Jesse Paul</strong> report on the budget, which supporters say can help move Colorado from recovery mode into a new normal. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2022/03/30/colorado-legislature-2022-budget/?pico=clean"><strong>STORY</strong></a></p>
+
+&nbsp;<hr />&nbsp;
+
+<h4 style="background-color:#003D5A;color:#ffffff;padding:.3em;"><strong>OUTDOORS</strong></h4>
+
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2022/03/30/camping-fees-blm-rabbit-valley-colorado/?pico=clean" style="text-decoration:none;color:#003D5A;">BLM will end free camping at western Colorado&#8217;s Rabbit Valley by next spring</h2>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/03/49196142751_6cdb2e8aa8_o.jpg?w=800" href="https://coloradosun.com/2022/03/30/camping-fees-blm-rabbit-valley-colorado/?pico=clean" width="400" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Rabbit Valley in the McInnis Canyons National Conservation Area is managed primarily for motorized recreation and camping. So many people camp there that BLM is requiring permits and, as soon as 75 new campsites are constructed, will collect fees to use them. (Bob Wick, Bureau of Land Management)</em></span></p>
+
+<p>Rabbit Valley sits at the western edge of Colorado, almost in Utah. It&#8217;s a popular camping spot for motorists, but the Bureau of Land Management will start restricting access in an effort to protect the landscape. Permits are now required, followed by fees in late winter or early spring. BLM will also construct and revamp campsites in Rabbit Valley and end dispersed camping in the area. The move is the latest in a recent trend to limit free camping across Colorado, <strong>Margaret Fleming</strong> reports. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2022/03/30/camping-fees-blm-rabbit-valley-colorado/?pico=clean"><strong>STORY</strong></a></p>
+
+&nbsp;<hr />&nbsp;
+
+<h4 style="background-color:#003D5A;color:#ffffff;padding:.3em;">MORE NEWS</h4>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/01/M10P4879.jpg?w=800" href="https://coloradosun.com/2022/03/30/tri-state-united-power-exit-fee-ferc/?pico=clean" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>United Power's Rattlesnake Solar Farm sits on 175 acres near Platteville. The ability to generate additional power using renewable resources is one of the motivators for the company to break up with Tri-State Generation. (Carl Payne, Special to The Colorado Sun)</em></span></p>
+
+<blockquote class="wp-block-quote" style="width:90%;max-width:500px;border-left: 4px double #fcd232;padding: 0px 10px;padding: 0px 10px;margin-left:0;"><span style="font-size:1.2em;line-height:1.3em;font-family:Georgia,serif;font-weight:bold;">&#8220;We know we owe something, because we are participants in a contract, but it should be just and reasonable and the FERC analysis shows that.&#8221;</span><br><br><span style="font-size:1em;"><em>— Mark Gabriel, United Power&#8217;s CEO</em></span></blockquote>
+
+<ul><li><strong>Federal economist says Tri-State&#8217;s exit-fee calculations are &#8220;flawed and unreasonable.&#8221;</strong> &gt;&gt; <strong>United Power</strong>, a Brighton-based electric co-op, is the latest group trying to leave the embattled <strong>Tri-State Generation and Transmission Association</strong>. But in the fight over how much they should pay to leave — they were quoted an exit fee of $1.6 billion (with a &#8220;b&#8221;) — United picked up ammunition in the form of a report from the <strong>Federal Energy Regulatory Commission</strong> that said the fee should be less than a tenth of the amount. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2022/03/30/tri-state-united-power-exit-fee-ferc/?pico=clean"><strong>STORY</strong></a></li><li><strong>Denver judge dismisses defamation lawsuit against 9News anchor Kyle Clark following Jan. 6 attack</strong> &gt;&gt; The judge ruled the claimant Chad Burmeister was not likely to give evidence proving the anchor knowingly reported falsehoods or produced his segment with malice. Damage to Burmeister&#8217;s business and reputation was primarily because of his own public posts and not the 9News report, the judge found. Burmeister had posted &#8220;First guy to storm the capital today&#8221; and a selfie to his Facebook page. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2022/03/29/judge-dismisses-defamation-lawsuit-against-9news-after-jan-6-attack/?pico=clean"><strong>STORY</strong></a></li></ul>
+
+*|IFNOT:MEMB_TYPE|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Stay informed! Become a member</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Stay informed! Become a member</mj-button><mj-text>*|END:IF|*
+
+&nbsp;<hr />&nbsp;
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/03/YACO-HELOC-300x250-2022.jpg" width="300px" href="https://cosun.co/3CIEqYW" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><mj-divider /><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2020/10/daily-sun-up.png" width="300px" href="http://coloradosun.com/podcast" padding="0px 0px 8px" /><mj-divider /><mj-text>
+
+</mj-text><mj-text margin="0" padding="0"><h3 style="padding:.3em;font-family:'Libre Franklin','Arial Black';font-weight:700;background-color:#fcd232;font-size:24px;text-align:center;">THE COLORADO REPORT<br /><span style="font-size:12px;text-transform:uppercase;font-weight:normal;"><em>The best journalism from in and around the state</em></span></h3></mj-text><mj-text>
+
+<p>🔑 = <em>source has paywall</em></p>
+
+<ul><li><strong>Clinics want to protect abortion in Colorado, even if the Supreme Court weakens </strong><strong><em>Roe v. Wade</em></strong><strong>. </strong>&gt;&gt; Colorado doesn&#8217;t have any restrictions on abortion. Clinics want to be ready if neighboring states impose bans and people flood to Colorado for treatment. &gt;&gt; <a target="_blank"  href="https://www.kunc.org/npr-news/2022-03-29/colorado-braces-to-become-refuge-for-abortion-access-if-roe-is-weakened"><strong>KUNC</strong></a></li><li><strong>Free buses and trains in Denver — but only for a month. </strong>&gt;&gt; A new bill proposes a fare-free pilot program in August to lower ozone readings with fewer cars on the road. &gt;&gt; <a target="_blank"  href="https://www.denverpost.com/2022/03/30/rtd-free-fares-summer-ozone/"><strong>The Denver Post</strong></a><strong> 🔑</strong></li><li><strong>Pro-choice editorial in Catholic high school student paper leads to firings.</strong> &gt;&gt; <strong>Regis Jesuit High School</strong> is an independent Catholic school — only needing approval from the<strong> Archdiocese of Denver</strong> of its theology curriculum and teachers. But after a pro-choice opinion piece was published in the student paper, two teachers were fired and faculty are worried that church officials will soon be more involved in school operations. &gt;&gt; <a target="_blank"  href="https://www.westword.com/news/abortion-choice-catholic-archdiocese-regis-high-school-13602023"><strong>Westword</strong></a></li><li><strong>Gotham Greens bringing huge new greenhouse to Weld County.</strong> &gt;&gt; You&#8217;ve likely seen their hydroponically grown produce at your grocery store — and if you haven&#8217;t yet, it&#8217;s only a matter of time as New York-based <strong>Gotham Greens</strong> has broken ground on a 150,000-square-foot greenhouse in Windsor (its second in Colorado) to expand its operations. &gt;&gt; <a target="_blank"  href="https://www.bizjournals.com/denver/news/2022/03/30/gotham-greens-new-windsor-greenhouse.html?ana=RSS&amp;s=article_search"><strong>Denver Business Journal</strong></a><strong> 🔑</strong></li><li><strong>Colorado Springs lands on the map as top-performing city</strong> &gt;&gt; The city landed No. 9 on <a target="_blank"  href="https://milkeninstitute.org/report/best-performing-cities-2022"><strong>Milken Institute</strong></a>&#8217;s latest ranking of &#8220;best-performing&#8221; large U.S. cities for its steady and growing economy through the pandemic. &gt;&gt;<strong> </strong><a target="_blank"  href="https://www.axios.com/local/denver/2022/03/30/colorado-springs-top-performing-city"><strong>Axios</strong></a></li><li><strong>Triple-D producer sells LoHi lot as company heads to Boulder.</strong> &gt;&gt; <strong>Citizen Pictures</strong>, a nearly 40-year-old Denver production company that produces <strong>Guy Fieri</strong>&#8217;s &#8220;Diners, Drive-Ins and Dives,&#8221; is moving to Boulder — and sold its prime lot on Speer Boulevard for $10 million in the process. Fun fact: Fieri&#8217;s iconic Camaro used to be stashed in the studio between seasons. &gt;&gt; <a target="_blank"  href="https://businessden.com/2022/03/30/tv-producer-decamping-to-boulder-sells-lohi-site-for-10m-to-developer/"><strong>BusinessDen</strong></a><strong> 🔑</strong></li><li><strong>Arslan Guney, &#8216;Mayor Of Pickleball,&#8217; Avoids Charges From District Attorney</strong> &gt;&gt; The city of Denver won&#8217;t pursue charges for a 71-year-old man who drew pickleball boundaries in permanent marker on a recreational center floor, costing taxpayers thousands of dollars. &gt;&gt; <a target="_blank"  href="https://denver.cbslocal.com/2022/03/29/pickleball-arslan-guney-denver/"><strong>CBS4</strong></a></li><li><strong>Longmont United Hospital nurses union to move forward, nine months after vote</strong> &gt;&gt; If there are no objections, the <strong>National Labor Relations Board</strong> will likely finalize the vote within a week. Organizing nurses want more protection from workplace violence, better safety measures and fixes to understaffing issues. &gt;&gt; <a target="_blank"  href="https://www.denverpost.com/2022/03/29/nurses-union-longmont-united-hospital-centura/"><strong>The Denver Post</strong></a><strong> 🔑</strong></li></ul>
+
+</mj-text><mj-table padding-top="0" margin-top="0"><tr><td style="padding:0px;font-size:14px;text-align:right;" width="33%"><strong>>></strong></a></td><td style="padding: 6px 6px;" width="24px"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/03/Margaret-Fleming.jpeg?resize=48,48" /></td><td style="padding:0px;font-size:14px;"><a target="_blank"  target="_blank"  target="_blank"  href="https://coloradosun.com/author/margaret-fleming/?pico=clean" target="_blank" style="text-decoration:none;color:black;"/><span style="border-bottom:1px solid #fcd232;"><strong>Margaret Fleming</strong> <em>Journalism Resident</em></a></td></tr></mj-table>
+<mj-text>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/02/DosRios_ComingSoon_300x250-1.jpg" width="300px" href="https://cosun.co/3h50YsI" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><mj-text margin="0" padding="0"><h3 style="padding:.3em;font-family:'Libre Franklin','Arial Black';font-weight:700;background-color:#fcd232;font-size:24px;text-align:center;">THE OPINION PAGE<br /><span style="font-size:12px;text-transform:uppercase;font-weight:normal;"><em>Colorado columns</em></span></h3></mj-text><mj-text>
+
+<h4 style="background-color:#003D5A;color:#ffffff;padding:.3em;">COLUMNS</h4>
+
+<ul><li><strong>Mike Littwin</strong>: &#8220;<a target="_blank"  href="https://coloradosun.com/2022/03/30/littwin-will-smith-oscars-supreme-court-opinion/?pico=clean">Will Smith should have taken his cue on how to handle anger from Cory Booker</a>&#8221;</li></ul>
+
+<h4 style="background-color:#003D5A;color:#ffffff;padding:.3em;">COMMUNITY</h4>
+
+<ul><li><strong>Colorado Youth Advisory Council </strong>representative<strong> Aimee Resnick</strong>: &#8220;<a target="_blank"  href="https://coloradosun.com/2022/03/30/mental-health-suicide-prevention-youth-opinion/?pico=clean">Help is available to teens in crisis — if they know who to call</a>&#8221;</li></ul>
+
+<p><em>The Colorado Sun is a nonpartisan news organization, and the opinions of columnists and editorial writers do not reflect the opinions of the newsroom.</em><a target="_blank"  href="http://coloradosun.com/ethics"><em> </em><em>Read our ethics policy for more on The Sun&#8217;s opinion policy</em></a><em> and submit columns, suggest writers or provide feedback at opinion@coloradosun.com.</em></p>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/COSun_300x250.jpg" width="300px" href="https://cosun.co/sunriser-ottenjohnson-jan-2022" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><mj-text margin="0" padding="0"><h3 style="padding:.3em;font-family:'Libre Franklin','Arial Black';font-weight:700;background-color:#fcd232;font-size:24px;text-align:center;">Today&#8217;s Thing</h3></mj-text><mj-text>
+
+<p><em>Today&#8217;s Thing is something we&#8217;ve used, bought, cooked, visited, watched, listened to or otherwise enjoyed lately. These aren&#8217;t ads, just recommendations — but if you want to support us, </em><a target="_blank"  href="https://pico.link/thecoloradosun?short_code=join"><em>you can become a member</em></a><em>! Got something to share? Email </em><a target="_blank"  href="mailto:things@coloradosun.com"><em>things@coloradosun.com</em></a><em>.</em></p>
+
+<h4 style="background-color:#003D5A;color:#ffffff;padding:.3em;">WEEKEND BRUNCH</h4>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/03/dutchbaby_20220330_sunriser_thing.jpeg?w=800" href="https://www.bonappetit.com/recipe/herby-dutch-baby-with-smoked-salmon" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Sarah Jampel&#8217;s Dutch Baby that inspires &#8220;ooohs&#8221; and &#8220;aaah&#8221; when casually perusing the magazine.</em></span></p>
+
+<blockquote class="wp-block-quote" style="width:90%;max-width:500px;border-left: 4px double #fcd232;padding: 0px 10px;padding: 0px 10px;margin-left:0;"><span style="font-size:1.2em;line-height:1.3em;font-family:Georgia,serif;font-weight:bold;">&#8220;This verdant Dutch baby hits that elusive middle ground of festive and fast.&#8221;</span><br><br><span style="font-size:1em;"><em>— Sarah Jampel</em></span></blockquote>
+
+<strong>A delicious looking Dutch Baby. </strong>&gt;&gt; I was flipping through the most recent <strong>Bon Appétit</strong> magazine when I gasped. My partner looked over and let out her own &#8220;danggg.&#8221; It was an herby Dutch baby with smoked salmon that looked delicious, and after reading the recipe, seems like something within our wheelhouse. To boil it down, you blend eggs and egg whites in a blender until frothy, then add garlic, spinach, herbs and milk and further blend. You use that as the batter for your pancake, which will later be topped with smoked salmon, onion and more herbs. I plan to try it this weekend. <a target="_blank"  href="mailto:danika@coloradosun.com">Let me know if you do</a>, too, and we can compare notes. &gt;&gt; <a target="_blank"  href="https://www.bonappetit.com/recipe/herby-dutch-baby-with-smoked-salmon"><strong>Bon Appétit</strong></a>
+
+</mj-text><mj-table padding-top="0" margin-top="0"><tr><td style="padding:0px;font-size:14px;text-align:right;" width="45%"><strong>>></strong></a></td><td style="padding: 6px 6px;" width="24px"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/11/danikaworthington.jpeg?resize=48,48" /></td><td style="padding:0px;font-size:14px;"><a target="_blank"  target="_blank"  target="_blank"  href="https://coloradosun.com/author/danika-worthington/?pico=clean" target="_blank" style="text-decoration:none;color:black;"/><span style="border-bottom:1px solid #fcd232;"><strong>Danika</strong></a></td></tr></mj-table>
+<mj-text>
+
+&nbsp;<hr />&nbsp;
+
+<p>Now that we&#8217;re all sufficiently hungry, it&#8217;s time to wrap up this newsletter. See you all back here tomorrow.</p>
+
+<p><em>— Eric &amp; Margaret</em></p>
+
+*|IFNOT:MEMB_TYPE|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Become a member of The Sun</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Become a member of The Sun</mj-button><mj-text>*|END:IF|*
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/03/News-Literacy-300X250-Ad-4.png" width="300px" href="https://cosun.co/3HVL7aU" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

@@ -1,0 +1,45 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+    <tr>
+        <td bgcolor="#00a9f7" align="center">
+            <!--[if (gte mso 9)|(IE)]>
+            <table align="center" border="0" cellspacing="0" cellpadding="0" width="500">
+            <tr>
+            <td align="center" valign="top" width="600">
+            <![endif]-->
+            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;" >                
+                <tr>
+                    <td align="center" valign="top" style="padding: 40px 0px 40px 0px;">
+                        <!-- IMAGE -->
+                        <img alt="Example" src="http://placehold.it/600x300" width="600" style="display: block; width: 100%; max-width: 100%;" border="0">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" valign="top" style="padding: 0px 10px 20px 10px;">
+                        <!-- HEADLINE -->
+                        <p style="color: #ffffff; font-family: sans-serif; font-size: 24px; font-weight: bold; line-height: 28px; margin: 0;">Announcing Some News</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" valign="top" style="padding: 0px 10px 60px 10px;">
+                        <!-- COPY -->
+                        <p style="color: #b5e2f7; font-family: sans-serif; font-size: 16px; font-weight: normal; line-height: 24px; margin: 0;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+                    </td>
+                </tr> 
+            </table>
+            <!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+        </td>
+    </tr>
+</table>        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

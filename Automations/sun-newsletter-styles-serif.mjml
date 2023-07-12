@@ -1,0 +1,21 @@
+<!-- FONTS -->
+    <mj-font name="Libre Franklin" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;200;400;700;900" />
+    <mj-font name="Martel" href="https://fonts.googleapis.com/css2?&family=Martel:wght@200;400;700;900&display=swap" />
+    <mj-attributes>
+      <!-- MAILING STYLE -->
+      <mj-body background-color="#F5F5F5" />
+      <mj-column background-color="#ffffff" padding="18px 0px" />
+      <mj-class name="footercolumn" background-color="#F5F5F5" />
+      <mj-section padding="12px 0px" />
+      <!-- BUTTON STYLE -->
+      <mj-button background-color="#D43E1F" font-family="'Libre Franklin',Arial,Helvetica,'Helvetica Neue',sans-serif;" font-weight="700" color="white" align="center" border-radius="15px"/>
+      <!-- DIVIDER STYLE -->
+      <mj-divider border-width="2px" border-color="#fcd232" width="75%" />
+      <!-- TEXT STYLES -->
+      <mj-all font-family="Georgia,serif;" font-size="16px" line-height="1.5" />
+      <mj-class name="footer" font-family="'Libre Franklin',Arial,Helvetica,'Helvetica Neue',sans-serif;" font-weight="200" color="#6E6E6E" align="center" />
+      <!-- IMAGE STYLES -->
+      <mj-class name="biglogo" width="200px" />
+      <mj-class name="tinylogo" width="150px" />
+    </mj-attributes>
+    <mj-style inline="inline"> .shadow { text-shadow: 0px 0px 30px rgba(150, 150, 150, 1); } .bluehead {background-color:#134258;padding:.5em;color:#ffffff;} .highlight {background-color:#fcd232;color:#212121;} @media (prefers-color-scheme: dark) { .highlight {background-color:#fcd232;color:#212121;} } li {padding-bottom:6px;} h1 {font-family:Georgia,serif;line-height:1.3em;font-size:1.4em;font-weight:700;} h2 {line-height:1.2;} blockquote {  border-left-style: solid; border-left-color: #fcd232;} hr {width:100%;border-bottom:solid 2px #fcd232;border-top:none;} </mj-style>

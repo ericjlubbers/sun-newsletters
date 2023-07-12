@@ -1,0 +1,41 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=sunday" target="_blank">Support local journalism here!</mj-button><mj-text>
+
+<h1>60 Minutes highlights the threats and challenges facing local news in Colorado and elsewhere</h1>
+
+<p><em>Hedge funds have seized control and gutted newsrooms from coast to coast</em></p>
+
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2022/02/60minutes.gif" href="https://pico.link/thecoloradosun?short_code=join" width="400px" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;text-align:center;"><em>via cbsnews.com</em></span></p>
+
+<hr />&nbsp;
+
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">I</span> hope you had a chance to catch Sunday&#8217;s excellent <em>60 Minutes</em> coverage of the threat and challenges facing local news. If not, <a target="_blank"  href="https://www.cbsnews.com/news/local-news-financial-firms-60-minutes-video-2022-02-27/">here&#8217;s a quick link</a>.</p>
+
+<p>It highlighted how hedge funds, particularly the one that owns <strong>The Denver Post</strong>, <strong>The Boulder Daily Camera</strong>, <strong>The Chicago Tribune</strong> and dozens of others newspapers around the country, have seized control and gutted newsrooms from coast to coast. Hedge funds now own nearly one-third of all of the daily newspapers in the United States.</p>
+
+<blockquote style="font-size:18px;border-left:2px solid #fcd232;padding-left:6px">&#8220;It all prompts the question: As local newsrooms and local news coverage shrivel up, to what extent does democracy shrink with it?&#8221; <em>60 Minutes</em> asked.</blockquote>
+
+<p>We founded The Colorado Sun more than three years ago on the premise that news coverage of our state and our towns is too important to be left in the hands of out-of-state hedge funds that maximize profits at the expense of what&#8217;s good for our communities and our democracy.</p>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=sunday" target="_blank">Become a member today!</mj-button><mj-text>
+
+<p>Please take a couple of minutes to <a target="_blank"  href="https://www.cbsnews.com/news/local-news-financial-firms-60-minutes-video-2022-02-27/">watch the <em>60 Minutes</em> segment</a> if you haven&#8217;t already. We all suffer the consequences when newspapers shrink or disappear. And, if you&#8217;re in a position to help, please consider joining our Colorado Sun community by <a target="_blank"  href="https://pico.link/thecoloradosun?short_code=sunday">becoming a member</a> or providing a one-time contribution. Go to <a target="_blank"  href="https://coloradosun.com/contribute/?utm_source=coloradosun&amp;utm_medium=link&amp;utm_campaign=homepage_box?pico=clean">coloradosun.com/contribute</a> to see all of your options to help.</p>
+
+<p>I promise we&#8217;ll work hard to earn your support and produce the kind of quality journalism that Colorado needs and deserves.</p>
+
+<p>Thanks,</p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/Larry.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Larry Ryckman</strong><br /><a target="_blank"  href="https://coloradosun.com/author/larry-ryckman/?pico=clean" target="_blank"><em><span style="font-size:12px;">Editor</span></em></a></td></tr></mj-table><mj-text>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun?short_code=sunday" target="_blank">Become a member today!</mj-button><mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

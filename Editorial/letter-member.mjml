@@ -1,0 +1,39 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+<h1>Your support helped The Colorado Sun produce award-winning journalism</h1>
+<p><em>The Sun honored with 8 awards in state press association contest</em></p>
+    
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/12/Marshall_Fire-sparig-5123_web.jpg?w=800" /><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>The Marshall fire burns at Trail Ridge Road and Washington Avenue in Louisville on Dec. 30, 2021. (Jeremy Sparig, Special to The Colorado Sun)</em></span></p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2018/08/Larry.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Larry Ryckman</strong><br /><a target="_blank"  href="https://coloradosun.com/author/larry-ryckman/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"><em><span style="font-size:12px;">Editor</span></em></a></td></tr></mj-table><mj-text>
+
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">T</span>he Colorado Sun <a target="_blank"  href="https://coloradosun.com/2022/09/19/colorado-sun-press-association-awards-2021/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">brought home a pile of honors </a>in this weekend&#8217;s state press association awards. We&#8217;re very proud about producing great stories for you and other Coloradans — and we&#8217;re grateful for your support.</p>
+
+<p>Your Sun membership helps us produce this important work. As a public benefit corporation, we depend on support from readers like you to write the stories you won&#8217;t find anywhere else.</p>
+
+<p>Stories like &#8220;<a target="_blank"  href="https://coloradosun.com/2021/06/14/colorado-drought-ranchers-selling-cattle/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">Colorado ranchers are selling off cattle to survive another year of dried-up grass and parched soil</a>.&#8221; It won first place for best agricultural story.</p>
+
+<p>And &#8220;<a target="_blank"  href="https://coloradosun.com/2021/12/05/audubon-certified-beef-colorado-ranch-sustainability-climate-change/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">A Colorado family tried to save their cattle ranch by betting big on rare birds. It's paying off</a>.&#8221; It won first place for best feature story. The judges said: &#8220;Just a fantastic piece of journalism that any publication would be proud to have published.&#8221;</p>
+
+<p>We also won <a target="_blank"  href="https://coloradosun.com/2021/04/21/colorado-trinidad-marijuana-shops-new-mexico-legaliz/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">first place for a story</a> about how towns along the state line with New Mexico are worried about how marijuana legalization will affect their economies.</p>
+
+<p>And the judges were <a target="_blank"  href="https://coloradosun.com/2021/12/30/denver-coroner-death-family-advocate/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">bowled over by this first-place health story</a>. We think you will be, too. They wrote: &#8220;This was an amazing piece. Just spectacular work. Found myself thinking "OMG!" and "Holy Cow!" as I read it. Drew me in and wouldn't let go. In an incredibly deep category this was a standout.&#8221;</p>
+
+<p>It&#8217;s always nice to win recognition from our industry peers, but we do this work for you, Colorado.</p>
+
+<p>And now, you can supercharge your support for The Sun in one additional way: If you&#8217;re a monthly member, please upgrade to annual. That saves us monthly credit card processing fees, which can really add up for us. Last year, those dollars alone would have allowed us to hire an additional reporter. <a target="_blank"  href="https://coloradosun.com/faq/#h-where-to-upgrade-adjust-automatic-renewal-update-a-payment-upgrade-or-cancel-membership-get-a-receipt-ask-for-help-and-more?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">Learn how to upgrade here</a>.</p>
+
+<p>Thanks!</p>
+
+</mj-text><mj-table padding-top="0" margin-top="0"><tr><td style="padding:0px;font-size:14px;text-align:right;" width="33%"><strong>>></strong></a></td><td style="padding: 6px 6px;" width="24px"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2018/08/Larry.jpg?resize=48,48" /></td><td style="padding:0px;font-size:14px;"><a target="_blank"  target="_blank"  target="_blank"  href="https://coloradosun.com/author/larry-ryckman/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank" style="text-decoration:none;color:black;"/><span style="border-bottom:1px solid #fcd232;"><strong>Larry Ryckman</strong> <em>Editor</em></a></td></tr></mj-table>
+<mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

@@ -1,0 +1,358 @@
+<mjml>
+  <!--  HEADER -->
+  <mj-head>
+    <!--  IMPORT STYLES -->
+    <!-- FONTS -->
+    <mj-font name="Libre Franklin" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;200;400;700;900" />
+    <mj-font name="Martel" href="https://fonts.googleapis.com/css2?&family=Martel:wght@200;400;700;900&display=swap" />
+    <mj-font name="Literata" href="https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap" />
+
+    <mj-attributes>
+      <!-- MAILING STYLE -->
+      <mj-body background-color="#ffffff;" width="500px" padding="0px" />
+      <mj-column background-color="#ffffff" border-radius="0px" padding="0px 0px" />
+      <mj-class name="footercolumn" background-color="#F9F6EE" />
+      <mj-section padding="0px 0px" />
+      <!-- BUTTON STYLE -->
+      <mj-button background-color="#D43E1F" font-family="'Libre Franklin',Arial,Helvetica,'Helvetica Neue',sans-serif;" font-weight="700" color="white" align="center" border-radius="15px" />
+      <!-- DIVIDER STYLE -->
+      <mj-divider border-width="2px" border-color="#fcd232" width="75%" />
+      <!-- TEXT STYLES -->
+      <mj-all font-family="'Literata',Georgia,serif;" font-size="16px" font-weight="200" line-height="1.5" />
+      <mj-class name="footer" font-family="'Libre Franklin',Arial,Helvetica,'Helvetica Neue',sans-serif;" font-weight="200" color="#6E6E6E" align="center" />
+      <!-- IMAGE STYLES -->
+      <mj-class name="biglogo" width="200px" />
+      <mj-class name="tinylogo" width="150px" />
+    </mj-attributes>
+    <mj-style>
+      @import url('https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+    </mj-style>
+    <mj-style inline="inline">
+      .shadow {
+        text-shadow: 0px 0px 30px rgba(150, 150, 150, 1);
+      }
+
+      .bluehead {
+        background-color: #134258;
+        padding: .5em;
+        color: #ffffff;
+      }
+
+      .highlight {
+        background-color: #fcd232;
+        color: #212121;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .highlight {
+          background-color: #fcd232;
+          color: #212121;
+        }
+      }
+
+      li {
+        padding-bottom: 6px;
+      }
+
+      h1 {
+        font-family: 'Martel', Georgia, serif;
+        line-height: 1.3em;
+        font-size: 1.5em;
+        font-weight: 700;
+      }
+
+      h2 {
+        font-weight: bold;
+        line-height: 1.3;
+      }
+
+      h3 {
+        font-weight: 700;
+        font-size: 22px;
+        padding: 0px;
+      }
+
+      hr {
+        width: 100%;
+        border-bottom: solid 2px #fcd232;
+        border-top: none;
+      }
+
+      .sectionhed {
+        padding: 0;
+        margin: 0;
+        font-weight: 900;
+      }
+
+
+      .cutline {
+        font-size: 14px;
+        color: #999999;
+        padding: 0px;
+        margin: 6px 3px;
+      }
+
+      blockquote {
+        font-size: 20px;
+        margin-left: 24px;
+        padding: 6px 6px 6px 12px;
+        background-color: #fcd232;
+      }
+
+      .source {
+        font-style: italic;
+        font-size: 14px
+      }
+      td {font-family:'Literata',Georgia,serif}
+    </mj-style>
+    <!-- EMAIL PREVIEW TEXT -->
+    <mj-preview>
+      *|MC_PREVIEW_TEXT|*
+    </mj-preview>
+  </mj-head>
+  <!--  END HEADER -->
+  <!--  BODY -->
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <!--	<mj-text>
+          <p style="margin:0;padding:0;"><a target="_blank"  style="color:#6E6E6E;font-size:8px;font-weight:400;" href="*|ARCHIVE|*">READ THIS IN YOUR BROWSER</a></p></mj-text> -->
+
+        <!-- COVER -->
+        <mj-text padding="0px 0px 0px 0px"> <a target="_blank" href="*|ARCHIVE_LINK|*" target="_blank">
+              <img align="center" width="100%" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/colorado-sunday-20211031Cover.jpg" style="border: 0px; width:100%; max-width:500px; margin: 0px;" />
+            </a></mj-text>
+        <mj-text font-size="10px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px">
+          <p style="color:#6E6E6E;font-size:10px;font-weight:400;"><a target="_blank" href="*|ARCHIVE_LINK|*" target="_blank">CLICK TO READ IN YOUR BROWSER</a></p>
+        </mj-text>
+        <mj-divider />
+        <!-- END COVER -->
+        <mj-text>
+          <!-- INTRO -->
+          <p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">T</span>The bomb cyclone that <a target="_blank"  href="https://www.seattletimes.com/seattle-news/environment/bomb-cyclone-winds-stressed-pacific-northwest-trees-early-this-year-while-still-full-of-leaves/">dumped more than a half foot of rain on the West Coast</a> delivered enough wind to Colorado last week that for a moment, it felt like I was in a blizzard. But instead of snow blowing sideways, it was the green-gold leaves of a truly ancient cottonwood roaring across the yard.</p>
+
+<p>It was a chaotic confirmation of the changing seasons and also a reminder that if we allow them to be, trees are an important reference point in our natural environment. There are the obvious moments, like the gold of fall and the tiny, tender leaves that announce spring. But trees also hold secrets deep inside, clues to <a target="_blank"  href="https://coloradosun.com/2019/07/15/climate-research-avalanche-tree-rings/?pico=clean">calamities like drought, avalanche and fire written into their rings</a>. We <a target="_blank"  href="https://coloradosun.com/2021/08/01/westminster-gentrification-parks-the-farm/?pico=clean">value them</a> for <a target="_blank"  href="https://coloradosun.com/2021/08/18/denver-tree-equity/?pico=clean">shade in the city</a>, and for the warning they&#8217;ve offered with a <a target="_blank"  href="https://coloradosun.com/2019/07/25/climate-change-reshaping-western-forests/?pico=clean">climate-driven retreat</a> in the mountains.</p>
+
+<p>We&#8217;ve been conditioned by education and experience to regard these wordless sentries as important allies, and so the idea that certain of these trees might have played a special role in the cultural fabric of Colorado seems reasonable. But as you&#8217;ll learn from <strong>Olivia Prentzel&#8217;s</strong> reporting about massive, old pines that appear to have been shaped intentionally by humans, no story in Colorado is as simple as it seems.</p>
+
+<p>It is this type of interesting convergence of thought and experience that we hope to share with readers of Colorado Sunday each week. If you have an idea for a topic we should explore, please write to us at sunday@coloradosun.com.</p>
+
+
+          <!-- BYLINE -->
+        </mj-text>
+        <mj-table>
+          <tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;">
+            <td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2019/07/DANAMUGKS.jpg?resize=424,424" /></td>
+            
+            <td style="padding: 6px;"><strong>Dana Coffield</strong><br /><em><span style="font-size:12px;">Senior Editor &Sun co-founder</span></em></td>
+          </tr>
+        </mj-table>
+          <mj-text>&nbsp;</mj-text>
+<!-- Section Header -->
+        <mj-table>
+          <tr style="text-align:left;">
+            <td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td>
+            <td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px">
+              <h2 class="sectionhed">The Cover Story</h2>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text padding="0px 0px 0px 0px">&nbsp;<a href="https://coloradosun.com/2021/10/31/are-these-trees-culturally-modified-or-just-bent-depends-on-who-you-ask/?pico=clean"><img align="center" width="100%" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/native-modified-trees-os-26.jpg?w=1200" style="border: 0px; width:100%; max-width:600px; margin: 0px;" /></a>
+          <!-- Cutline -->
+        </mj-text>
+        <mj-text padding="0px 0px 0px 0px">
+          <p class="cutline">Participants in a tour of trees near the Glen Isle Resort in Bailey examine a ponderosa pine said to have been modified by Utes living in the region. The premise is controversial, with Ute Mountain and Southern Ute officials saying there is no evidence of shaping trees in their oral tradition. (Olivia Sun, The Colorado Sun)</p>
+        </mj-text>
+        <mj-text>
+          <!-- Item Headline -->
+          <h3><strong>&gt;&gt; </strong>Every tree tells a story.</h3>
+          <!-- Body Text -->
+          <p>When I was a Peace Corps volunteer living in Madagascar, I visited a centuries-old baobab tree that residents of a small town near the island&#8217;s west coast believe embodies the spirit of a king. Bottles of vanilla rum were scattered at the base of the massive trunk and tiny candies were nestled into the bark&#8217;s curves and bumps. Legend says, make a wish, kiss the tree, and the spirit will grant your wish.</p>
+
+<p>So, when I learned that The Association of the Native American Sacred Trees and Places was holding a tour of culturally-modified trees last weekend in Bailey, I jumped at the chance to learn more about the beliefs people ascribe to these old and oddly-shaped ponderosa pines. Turns out, a long-lived controversy stems from the twists and turns of these curious trees.</p>
+
+<p>During my reporting, I spoke to the president of the Colorado Council of Professional Archaeologists, Greg Wolff. He laid out the organization&#8217;s take on the trees. And he said something that resonated with me: &#8220;It&#8217;s natural to be interested in such a phenomenon. There&#8217;s an innate human curiosity about the natural world.&#8221;</p>
+
+          <p>It&#8217;s what makes us human: gravitating toward things we don&#8217;t understand, seem out-of-the-ordinary or find remarkable. <strong>&gt;&gt; <a href="https://coloradosun.com/2021/10/31/are-these-trees-culturally-modified-or-just-bent-depends-on-who-you-ask/?pico=clean">STORY</a></strong></p>
+        </mj-text>
+        <mj-table>
+          <tr style="border-bottom:1px solid #fcd232;text-align:right;">
+            <td style="padding:0px;font-size:12px"><strong>— Olivia Prentzel</strong> | <em><span style="font-size:12px;">Reporter</span></em></td>
+            <td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/06/rsz_1olivia_blue_bkg_1.jpg?resize=424,424" /></td>
+          </tr>
+        </mj-table>
+        <mj-text>
+          <!-- Section Header -->
+        </mj-text>
+        <mj-text padding="0px 0px 0px 0px">&nbsp;<center><p style="font-size:10px;font-family:'Libre Franklin',sans-serif;color:gray;padding:0px;margin:3px 0px;">UNDERWRITTEN BY</p><a href="https://cosun.co/cosunday-goodbusinesshoney-oct-2021"><img align="center" width="100%" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/GBC_Herbal_Honey_Banner.jpeg" style="border: 0px; width:100%; width:90%;max-width:300px; margin: 0px;" /></a></center><br />&nbsp;
+</mj-text>
+        <mj-table>
+          <tr style="text-align:left;">
+            <td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td>
+            <td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px">
+              <h2 class="sectionhed">FOMO Colorado</h2>
+            </td>
+          </tr>
+        </mj-table>
+
+
+        <mj-text>
+          <!-- Body Text -->
+<p>We don&#8217;t want you feeling bad that you missed out on something, but let&#8217;s face it, you are only one reader and there&#8217;s no way you can be in all of the places our photographers go in a week. In this week&#8217;s virtual excursion — curated with the hope that you&#8217;ll be inspired to embark on an adventure of your own — we start by revisiting climate researchers in Crested Butte and checking out a massive solar installation near Pueblo before wandering back into the city.</p>
+
+         <!-- MINI BYLINE -->
+        </mj-text>
+        <mj-table>
+          <tr style="border-bottom:1px solid #fcd232;text-align:right;">
+            <td style="padding:0px;font-size:12px"><strong>— Olivia Sun</strong> | <em><span style="font-size:12px;">Staff photographer</span></em></td>
+            <td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/04/Olivia-Sun.jpg?resize=424,424" /></td>
+          </tr>
+        </mj-table>
+          <!-- Image -->
+  <mj-text padding="0px 0px 0px 0px"><img align="center" width="100%" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/3_sunday31-1-edit.jpg?w=1200" style="border: 0px; width:100%; max-width:600px; margin: 0px;" />
+    &nbsp;<hr style="width:320px;" />&nbsp;
+</mj-text>
+  <!-- Section Header -->
+        <mj-table>
+          <tr style="text-align:left;">
+            <td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td>
+            <td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px">
+              <h2 class="sectionhed">Flavor of the Week</h2>
+            </td>
+          </tr>
+        </mj-table>
+  <!-- Landscape Image -->
+        </mj-text>
+        <mj-text padding="0px 0px 0px 0px">&nbsp;<a href="https://coloradosun.com/2021/10/24/climate-change-research-crested-butte-water/"><img align="center" width="100%" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/baca_the_kid.jpg?w=800" style="border: 0px; width:100%; max-width:600px; margin: 0px;" /></a>
+          <!-- Cutline -->
+        </mj-text>
+        <mj-text padding="0px 0px 0px 0px">
+          <p class="cutline">(Provided by Antonio Márquez)</p>
+        </mj-text>
+        <mj-text>
+          <!-- Body Text -->
+<p>Colorado has slashed its <a target="_blank"  href="https://www.cpr.org/2020/03/06/colorados-film-industry-isnt-exactly-dead-but-they-rallied-at-the-capitol-to-say-theyre-close/">financial support</a> for the movie industry in the past few years. But that&#8217;s not kept some filmmakers away from the stunning backdrops our state has to offer.</p>
+
+<p>Case in point: ¡Baca the Kid!, a short film written, directed and starring Antonio Marquez, and filmed on the San Luis Valley cattle ranch where he grew up, just wrapped production on Friday.</p>
+
+<p>The movie tells the <a target="_blank"  href="https://en.wikipedia.org/wiki/Elfego_Baca">real-life story of Elfego Baca</a>, a young lawman who patrolled New Mexico in the 1880s. After Baca arrested a drunken cowboy, the cowboy&#8217;s comrades laid siege to the adobe jail where Baca holed up, pinning him inside for a day and a half while the cowboys fired thousands of bullets through the building in an incident that came to be known as the Frisco Shootout.</p>
+
+<p>¡Baca the Kid! is the third film <a target="_blank"  href="https://apnews.com/article/0299e1541c164944a48151e5ee471c2d">from Marquez&#8217;s production company Junkyard Nights</a>, and the first in a historical setting. Marquez says Chicanos played a pivotal role in the Old West, but their perspective has been marginalized by Hollywood. He hopes to change that.</p>
+
+<p>The set near Mogote lured fellow filmmakers from New York and Los Angeles, but Marquez also was joined on the production by longtime friends and locals. And let&#8217;s not forget the family contributions: His great uncle provided costumes and props from his youth as a stuntman in Westerns, and his grandma made tortillas for the crew. The movie is slated to premiere next spring at the Mexican-American Film &amp; Television Festival in Los Angeles before coming home for showings in the San Luis Valley.</p></mj-text>
+<!-- MINI BYLINE -->
+        </mj-text>
+        <mj-table>
+          <tr style="border-bottom:1px solid #fcd232;text-align:right;">
+            <td style="padding:0px;font-size:12px"><strong>— David Gilbert</strong>,<em>Reporter</em></td>
+            <td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/06/David-Gilbert-Headshot.jpg?resize=424,424" /></td>
+          </tr>
+        </mj-table>
+                  <mj-text padding="0px 0px 0px 0px">&nbsp;<center><p style="font-size:10px;font-family:'Libre Franklin',sans-serif;color:gray;padding:0px;margin:3px 0px;">UNDERWRITTEN BY</p><a href="https://cosun.co/sunriser-denverkids-oct-2021"><img align="center" width="100%" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/09/DK_2021_Celebrating_75_Ad_Final.jpg" style="border: 0px; width:90%; max-width:300px; margin: 0px;" /></a></center>&nbsp;<br />&nbsp;
+</mj-text>
+        <mj-table>
+          <tr style="text-align:left;">
+            <td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td>
+            <td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px">
+              <h2 class="sectionhed">SunLit: Early Edition</h2>
+            </td>
+          </tr>
+        </mj-table>
+          <mj-text padding="0px 0px 0px 0px">&nbsp;<center><a target="_blank"  href="https://coloradosun.com/2021/10/27/sunlit-cockeyed-crazy-darla-worden"><img align="center" width="100%" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Cockeyed-Happy_for-jpeg_121020.jpg?w=800" style="border: 0px; width:100%; max-width:300px; margin: 0px;" /></a></center>&nbsp;</mj-text>
+
+          <!-- Item Headline -->
+          <mj-text><h3><strong>&#8220;Cockeyed Happy&#8221; reveals Hemingway&#8217;s Wyoming chapters</strong></h3>
+
+                      <!-- Blockquote -->
+        <blockquote>&#8220;Pauline had known Ernest would get restless while she recovered in Piggott with its unbearable heat, and he couldn&#8217;t concentrate when a baby was crying, so she supported the idea of his Wyoming fishing trip with Bill. She recognized Ernest&#8217;s need for male companionship — the &#8220;promotion of masculine society,&#8221; she called it.&#8221;<br /><br />
+            <span class="source">— From "Cockeyed Happy: Ernest Hemingway's Wyoming Summers with Pauline&#8221;</span></blockquote>
+          <p><strong>EXCERPT:</strong> One of the lesser-known periods of famed writer Ernest Hemingway's life are the summers from 1928 to 1939 spent in Wyoming with journalist and second wife, Pauline Pfeiffer. This excerpt from "Cockeyed Happy: Ernest Hemingway's Wyoming Summers with Pauline" details Hemingway's initial visit to Wyoming while Pauline recuperated from a difficult pregnancy at her parents' home in Arkansas, and looks back at the unusual circumstances that led to their marriage.</p>
+
+<p>&gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/10/27/sunlit-cockeyed-crazy-darla-worden/?pico=clean"><strong>Read the entire SunLit Special Edition excerpt.</strong></a></p>
+
+<p><strong>THE SUNLIT INTERVIEW: </strong>As editor in chief of Mountain Living magazine and founder/director of the Left Bank Writers Retreat in Paris, Wyoming native <strong>Darla Worden</strong> traveled the world to pursue her craft. But the lifelong fan of Ernest Hemingway found a less-explored aspect of his life right in her home state. A writer friend in Paris asked her what she thought about his short story &#8220;Wine of Wyoming.&#8221; She&#8217;d never heard of it, but on her return to the U.S. not only read the story, but also found a $1 used book of Hemingway&#8217;s letters at a library sale that sparked her research. Here&#8217;s an excerpt from our interview.</p>
+
+<p><strong>What was it about Hemingway&#8217;s relationships with the women in his life — Pauline in particular — that you find significant?</strong></p>
+
+<p>It&#8217;s fascinating to me that he went from woman to woman — never leaving one wife until the next prospective wife was in place. It reminds me of a great ape swinging from branch to branch in the jungle.</p>
+
+<p>In the stories of wives, much has been written about lovely Hadley, his first wife and the woman he left for her friend, Pauline. Wife number three, Martha Gellhorn, was an accomplished journalist who has been written about and wife number four, Mary, wrote her own book about her time with him. Pauline was a missing piece in his story and it was interesting to me to learn that they came to Wyoming together shortly after getting married, and they broke up in Wyoming 11 years later — a perfect story arc.</p>
+
+<p>&gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/10/27/sunlit-darla-worden-cockeyed-happy/?pico=clean"><strong>Read the entire interview with author Darla Worden.</strong></a></p>
+              <!-- MINI BYLINE -->
+        </mj-text>
+        <mj-table>
+          <tr style="border-bottom:1px solid #fcd232;text-align:right;">
+            <td style="padding:0px;font-size:12px"><strong>— Kevin Simpson</strong> | <em><span style="font-size:12px;">Writer &amp; Sun co-founder</span></em></td>
+            <td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/IMG_0426.jpg?resize=424,424" /></td>
+          </tr>
+        </mj-table>
+                  <mj-text padding="0px 0px 0px 0px">&nbsp;<center><p style="font-size:10px;font-family:'Libre Franklin',sans-serif;color:gray;padding:0px;margin:3px 0px;">UNDERWRITTEN BY</p><a href="https://cosun.co/openroadskibreck-cosunday-oct-2021"><img align="center" width="100%" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/09/Breckenridge-TMBHTM-600-x-500-1.jpg" style="border: 0px; width:100%; max-width:300px; margin: 0px;" /></a></center>&nbsp;<br />&nbsp;
+</mj-text>
+          <mj-table>
+          <tr style="text-align:left;">
+            <td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td>
+            <td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px">
+              <h2 class="sectionhed">Sunday Reading List</h2>
+            </td>
+          </tr>
+        </mj-table>
+          <mj-text padding="0px 0px 0px 0px">&nbsp;<img align="center" width="100%" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/10/20211008-181529-DCO-1014-health-order-3.jpeg?w=800" style="border: 0px; width:100%; max-width:600px; margin: 0px;" /></mj-text>
+           <mj-text padding="0px 0px 0px 0px">
+          <p class="cutline">A boy listens to his headphones as Douglas County Health Board members debate allowing students and teachers to opt out of masking mandates in schools at a special meeting on Oct. 8. About double the amount of money spent in the last school board election has been spent this year in Douglas County. (Jessica Gibbs, CCM photo)</p>
+        </mj-text>
+        <mj-text>
+          <!-- Body Text -->
+         <p><em>A curated list of what you may have missed from The Colorado Sun this week.</em></p>
+
+          <p>This is the time on the programming calendar that we must discuss the coming election. We, <a target="_blank"  href="https://twitter.com/JesseAPaul/status/1454446298749235210?s=20">like the 84% of Colorado voters</a> who had not cast their ballots as of Friday, apparently, are finding this cycle a little, well, dull. But why let the dark-money and advocacy groups have all the say? (See <a href="https://coloradosun.com/2021/10/30/election-2021-spending-proposition-120-amendment-78/?pico=clean" target="_blank">this story from Jesse Paul</a> on the conservative groups dropping millions — with no organized opposition — to push tax cut measures in this year's election.) There&#8217;s still time to vote and we&#8217;ve got explainers on <a target="_blank"  href="https://coloradosun.com/2021/10/04/amendment-78-colorado-2021-ballot/?pico=clean">Amendment 78</a>, <a target="_blank"  href="https://coloradosun.com/2021/10/07/proposition-119-colorado-explained/?pico=clean">Proposition 119</a> and <a target="_blank"  href="https://coloradosun.com/2021/10/05/proposition-120-explainer-property-taxes/?pico=clean">Proposition 120</a>, plus crucial info on <a target="_blank"  href="https://coloradosun.com/2021/10/08/colorado-voter-guide-elections-2021/?pico=clean">how to cast your ballot</a> and make sure it&#8217;s counted on Tuesday. And if you&#8217;re like most of us, there is <a target="_blank"  href="https://coloradosun.com/2021/10/18/colorado-education-school-board-elections-partisan-big-money/?pico=clean">some interesting school board race</a> going on in your neighborhood. How interesting are they? We&#8217;ll let the massive amount of campaign spending going on to influence the composition of these volunteer boards speak for itself. <strong>Sandra Fish</strong> added up all that dough. <strong>&gt;&gt; </strong><a target="_blank"  href="https://coloradosun.com/2021/10/28/colorado-school-board-race-spending-2021/?pico=clean"><strong>STORY</strong></a></p>
+
+<p>🌞 It&#8217;s been a few weeks since a <a target="_blank"  href="https://www.sacbee.com/news/coronavirus/article254829122.html">UCLA Health anesthesiologist was walked off the job</a> reportedly for refusing to be vaccinated against COVID-19. Closer to home, a pediatric intensive care specialist in Colorado Springs is still at work after citing religious objections to taking the jab. It seems inevitable that her case will wind its way to the U.S. Supreme Court. In the meantime, <strong>John Ingold</strong> explores how fraught sorting out what is a valid religious exemption to the COVID vaccine is. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/10/27/coronavirus-vaccine-mandate-religious-exemption/?pico=clean"><strong>STORY</strong></a></p>
+
+<p>🌞 The other COVID-related ethics question getting a lot of buzz in Colorado is whether the unvaccinated should get first crack at being treated with an infusion of monoclonal antibodies if they get sick. <strong>John Ingold</strong> explains how a man who came to Colorado hell bent on getting sick sparked the convo. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/10/29/coronavirus-monoclonal-antibodies-priority-unvaccinated/?pico=clean"><strong>STORY</strong></a></p>
+
+<p>🌞 Water is a little mysterious. You turn on the tap, out it comes. How it got there, few people know. In this story of Dove Creek, a town in the Four Corners region that was truly at risk of running out of drinking water, <strong>Shannon Najmabadi </strong>explains that it&#8217;s a lot more complicated than most of us think. &gt;&gt;<strong> </strong><a target="_blank"  href="https://coloradosun.com/2021/10/29/dove-creek-drinking-water/?pico=clean"><strong>STORY</strong></a></p>
+
+<p>🌞 Homelessness isn&#8217;t just a central Denver problem. Englewood, Littleton and Sheridan are trying to pull together a coherent plan to help people being pushed down the South Platte River, <strong>Jennifer Brown</strong> reports. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/10/25/homelessness-denver-suburbs/?pico=clean"><strong>STORY</strong></a></p>
+
+<p>🌞 We&#8217;re probably not done <a target="_blank"  href="https://coloradosun.com/2021/10/21/colorado-short-term-rentals-regulation-mountain-towns/?pico=clean">blaming short-term rentals for most housing woes</a> in Colorado. But an interim statehouse committee did spike a bill that would have tripled property taxes paid on them, <strong>Jesse Paul </strong>explains. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/10/28/short-term-rental-tax-rate-bill-colorado-spiked/?pico=clean"><strong>STORY</strong></a></p>
+
+<p>🌞 About $11.2 billion in real estate changed hands in eight high-country counties through August, up 71% from the same period of 2020. The story twist is that most of those transactions haven&#8217;t been in posh resort towns, <strong>Jason Blevins</strong> reports. &gt;&gt; <a target="_blank"  href="https://coloradosun.com/2021/10/29/colorado-resort-mountain-real-estate-record-setting/?pico=clean"><strong>STORY</strong></a></p>
+
+<p>🎃 Sunset is at 5:59 p.m. today, which leaves you ample time to both prepare for trick-or-treaters and listen to this 9-minute performance of Edgar Allen Poe&#8217;s &#8220;The Raven&#8221; by our friends at Colorado Public Radio. &gt;&gt; <a target="_blank"  href="https://www.youtube.com/watch?v=deg4HsNIO_w"><strong>VIDEO</strong></a></p>
+
+              <!-- MINI BYLINE -->
+        </mj-text>
+          <mj-table>
+          <tr style="border-bottom:1px solid #fcd232;text-align:right;">
+            <td style="padding:0px;font-size:12px"><strong>— Dana</td>
+            <td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2019/07/DANAMUGKS.jpg?resize=424,424" /></td>
+          </tr>
+        </mj-table>
+            <mj-text>
+
+<p>Well, that&#8217;s a wrap (and we don&#8217;t mean pumpkin-shaped Reece&#8217;s wrappers littering the desk). We appreciate that you&#8217;ve chosen to spend time with us today and hope that you&#8217;ll share this edition of Colorado Sunday with your friends and family.</p>
+
+<p>We&#8217;ll be working all week on content to fill next week&#8217;s issue, so have them visit<strong> </strong><a target="_blank"  href="https://coloradosun.us18.list-manage.com/track/click?u=fcc98a341cd4bf4bb00f0fe3d&amp;id=f182666ff5&amp;e=6854d7ff81"><strong>coloradosun.com/sunday</strong></a> to make sure it hits their inbox on time.</p>
+
+              <p><em>— Dana &amp; the whole staff of The Sun</em></p></mj-text>
+            <!--  IMPORT FOOTER -->
+      </mj-column>
+    </mj-section>
+
+    <!-- FOOTER -->
+    <mj-section>
+      <mj-column mj-class="footercolumn">
+        <mj-image mj-class="tinylogo" href="http://coloradosun.com" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2020/08/coloradosun-logo-standard-wide-1200px.png" padding="12px 0px" />
+        <mj-text mj-class="footer">
+          <em>Copyright &copy; *|DATE:Y|* The Colorado Sun, All rights reserved.</em><br />
+          <br />
+          <strong>Our mailing address is:</strong><br /> *|LIST:ADDRESS|* <p>To manage your payment to The Colorado Sun,you can <a target="_blank" href="https://coloradosun.com?pn=manage_account" target="_blank">click here</a> access your account optionsor log in at <a target="_blank" href="https://coloradosun.com" target="_blank">coloradosun.com</a>.</p>
+          <p>To change how you receive these emails, you can<a target="_blank" href="https://coloradosun.com?pn=manage_newsletters" target="_blank">update your preferences</a> or<a target="_blank" href="*|UNSUB|*" target="_blank">permanently unsubscribefrom all communication and newsletters</a> from The Colorado Sun.<br />
+            <br /></p>
+        </mj-text>
+        
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

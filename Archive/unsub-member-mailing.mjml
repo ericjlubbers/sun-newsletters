@@ -1,0 +1,30 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+<h2>You&#8217;ve unsubscribed to The Colorado Sun&#8217;s newsletters</h2>
+
+<p><em>If that was a mistake, here&#8217;s how to fix it. If you need to stop your membership, there&#8217;s more to do.</em></p>
+<hr />
+<p>Hello,</p>
+
+<p>We noticed you unsubscribed to The Colorado Sun&#8217;s newsletters. If this was a mistake, please press this link to opt back into our mailing list:</p>
+   </mj-text><mj-button href="https://coloradosun.us18.list-manage.com/subscribe?u=fcc98a341cd4bf4bb00f0fe3d&amp;id=61e0bd63dc" target="_blank">Opt in to our newsletters</mj-button><mj-text>
+
+<p><span style="background-color:#fcd232;"><strong>IMPORTANT NOTE:</strong></span> Unsubscribing to our emails <strong>does not</strong> affect your active paid membership with The Sun. You&#8217;ll need to cancel that separately. You can reply to this email if you want us to stop the renewal of your membership.</p>
+
+<p>Or you can go into your Sun account and press &#8220;Stop subscribing.&#8221; The steps to ending your membership are in <a target="_blank"  href="https://coloradosun.zendesk.com/hc/en-us/articles/360038880874-How-do-I-stop-my-Colorado-Sun-subscription-">our FAQs here</a>.</p>
+
+<p>Here&#8217;s the information we have on file about your membership:</p>
+
+    <ul style="font-family:'Libre Franklin','Helvetica Neue',sans-serif;"><li><strong>Name:</strong> {{MemberName}}</li><li><strong>Email:</strong> {{MemberEmail}}</li><li><strong>Membership Tier:</strong> {{MemberTier}}</li><li><strong>Next Payment Date:</strong> {{MemberNextPayment}}</li></ul>
+
+<p>Thanks for reading and supporting local news.</p>
+
+<!-- FOOTER -->
+</mj-text>
+
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

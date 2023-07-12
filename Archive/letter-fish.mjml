@@ -1,0 +1,36 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+<h1>How The Sun keeps an eye on the big money in politics</h1>
+
+<p><em>We&#8217;re deploying our secret weapon for this election season and we need your help.</em></p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2020/08/17123250059_5c09bc6c8c_o.jpg?resize=800,300" href="https://coloradosun.us18.list-manage.com/track/click?u=fcc98a341cd4bf4bb00f0fe3d&amp;id=b6d2b23883&amp;e=e75328db4e" target="_blank"/><mj-text>&nbsp;
+
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">W</span>hen it comes to <a target="_blank"  href="https://coloradosun.com/2022/06/08/democrats-spending-republican-primaries/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">tracking money in politics in Colorado</a>, no one comes close to Colorado Sun correspondent Sandra Fish.</p>
+
+<p>Fish, as we call her, is tireless when it comes to figuring out which special interests, groups and people <a target="_blank"  href="https://coloradosun.com/2021/12/22/unite-for-colorado-conservative-dark-money/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">are spending big sums to influence your vote</a> and the votes of lawmakers at the state Capitol. I can confidently say that Colorado elections and the legislature would be less transparent without her hard work — work that&#8217;s only made possible by our Colorado Sun members.</p>
+
+<p>As we head into the June 28 primary and the Nov. 3 general election, please help support our <a target="_blank"  href="https://coloradosun.com/2022/06/01/ron-hanks-joe-odea-senate-race-issues/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">efforts to keep you informed</a> about the <a target="_blank"  href="https://coloradosun.com/2022/06/07/colorado-8th-congressional-district-republicans-issues/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">candidates</a> and <a target="_blank"  href="https://coloradosun.com/2021/11/18/colorado-income-tax-reduction-2022/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">issues</a> on your ballot by becoming a Colorado Sun member.</p>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun/checkout?short_code=join">Become a member today!</mj-button><mj-text>
+
+<p>Becoming a member is quick and easy, and it ensures Colorado has an informed electorate.</p>
+
+<p>Voters rely on our coverage to make decisions on their ballot, and The Sun relies on readers like you to make that coverage possible.</p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/jesse.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Jesse Paul</strong><br /><a target="_blank"  href="https://coloradosun.com/author/jesse-paul/?pico=clean&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"><em><span style="font-size:12px;">Reporter</span></em></a></td></tr></mj-table><mj-text>
+
+<p>P.S. <a target="_blank"  href="https://coloradosun.us18.list-manage.com/track/click?u=fcc98a341cd4bf4bb00f0fe3d&amp;id=b6d2b23883&amp;e=e75328db4e">Become a &#8220;premium&#8221; Colorado Sun member</a> to get The Unaffiliated, our twice-weekly newsletter peeling back the curtain on Colorado politics. It&#8217;s authored by me, Fish and other members of The Sun&#8217;s politics team.</p>
+
+<p>Each edition is filled with exclusive news, analysis and data. It&#8217;s truly become a must-read for Colorado political observers.</p>
+
+</mj-text><mj-button href="https://pico.link/thecoloradosun/checkout?short_code=unaffiliated" target="_blank">Go Premium!</mj-button><mj-text>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

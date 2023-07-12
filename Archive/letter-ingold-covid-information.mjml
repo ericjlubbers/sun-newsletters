@@ -1,0 +1,47 @@
+<mj-include path="./letter-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+*|IFNOT:MEMB_TYPE|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Become a member today!</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Become a member today!</mj-button><mj-text>*|END:IF|*
+
+<h1>Want a healthier community? Support local news.</h1>
+
+<p><em>Understanding what's happening in your backyard is vital to fighting national misinformation.</em></p>
+
+</mj-text><mj-image src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2021/12/Gunnison1_1350.jpeg?w=800" href="https://pico.link/thecoloradosun?short_code=join" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>AnnieGrace Haddorff and Alec Newby move a patient out of Gunnison Valley Health hospital in Gunnison on Nov. 26, 2021. (Helen Santoro for KHN)</em></span></p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/JohnIngold.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>John Ingold</strong><br /><a target="_blank"  href="https://coloradosun.com/author/john-ingold/?pico=clean" target="_blank"><em><span style="font-size:12px;">Reporter</span></em></a></td></tr></mj-table><mj-text>
+
+<p>Here&#8217;s a question for the second anniversary of COVID in Colorado: Why, so often during the pandemic, have people not recognized the risks facing them?</p>
+
+<p>As The Colorado Sun&#8217;s COVID reporter, I&#8217;ve asked myself this question over and over. I&#8217;d look at the data some days — rising infection numbers, increasingly strained hospitals, an unmistakable uptick in deaths. And then I&#8217;d look out on the street — people crowding together, maskless, with little regard for what they may be spreading.</p>
+
+<p>Sure, some of this has to do with culture, with wanting to be back to &#8220;normal,&#8221; with wanting to defy authority. But late last year, as COVID cases surged in Colorado while they declined overall nationally, a public health director in southwest Colorado suggested another reason: It was about where people were getting their information.</p>
+
+<p>&#8220;I think that, with Colorado being an outlier in national trends, it&#8217;s confusing for community members if what you do is track national media,&#8221; she said. &#8220;It&#8217;s hard to see the data that Colorado is among the highest in the nation for case rates.&#8221;</p>
+
+<p><strong>We talk a lot about how </strong><strong><em>mis</em></strong><strong>information is harmful to a community. But here was an example of how not paying attention to </strong><strong><em>local</em></strong><strong> information can also be harmful.</strong></p>
+
+<p>In a world of remote work and online communities, it is easy to forget that we all live in physical places — places where things happen that impact us and that we need to know about. Don&#8217;t pay attention to what&#8217;s happening locally, and it can, among other things, affect your health and the health of those around you.</p>
+
+<p>This is not just me saying that. Smart minds across the country have grown concerned during the pandemic about how a decline in robust local journalism <a target="_blank"  href="https://citap.unc.edu/local-news-platforms-mis-disinformation/">has led to the rise of misinformation</a> and has <a target="_blank"  href="https://www.brookings.edu/blog/fixgov/2020/04/08/critical-in-a-public-health-crisis-covid-19-has-hit-local-newsrooms-hard/">limited the reach of vital local public health information</a>.</p>
+
+<p>So this is where we come in — and so do you. The Colorado Sun is dedicated to fighting this trend by providing accurate, clear, quality information to help Coloradans live smarter and healthier lives.</p>
+
+<p><strong>But we can&#8217;t do this without your help.</strong></p>
+
+<p>By becoming a member for as little as $5 a month, you can help create a more informed Colorado to the benefit of everyone who lives here. Able to chip in a little more? Become a $10-a-month Basic+ member or a $20-a-month Premium member and receive access to exclusive email newsletters providing you with information you won&#8217;t get anywhere else.</p>
+
+<p>If the pandemic has taught us anything, it&#8217;s how reliant we are on each other in our Colorado community. So let&#8217;s make it the best one we can.</p>
+
+</mj-text><mj-table padding-top="0" margin-top="0"><tr><td style="padding:0px;font-size:14px;text-align:right;" width="33%"><strong>>></strong></a></td><td style="padding: 6px 6px;" width="24px"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2018/08/JohnIngold.jpg?resize=48,48" /></td><td style="padding:0px;font-size:14px;"><a target="_blank"  target="_blank"  target="_blank"  href="https://coloradosun.com/author/john-ingold/?pico=clean" target="_blank" style="text-decoration:none;color:black;"/><span style="border-bottom:1px solid #fcd232;"><strong>John Ingold</strong> <em>Reporter</em></a></td></tr></mj-table>
+<mj-text>
+
+*|IFNOT:MEMB_TYPE|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Support local journalism here!</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://trypico.com/thecoloradosun?short_code=gvbdp42v">Support local journalism here!</mj-button><mj-text>*|END:IF|*
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>
